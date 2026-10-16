@@ -1,0 +1,379 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 700" width="720" height="700" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-label="Rank with a 30 ft cap against rank with a 600 ft cap">
+<rect width="720" height="700" fill="#fcfcfb"/>
+<text x="24" y="30" font-size="17" font-weight="600" fill="#0b0b0b">Rank with a 30 ft cap against rank with a 600 ft cap</text>
+<text x="24" y="50" font-size="12" fill="#52514e">Above the line: ranks higher with 600 ft of room. Below it: ranks higher when held within 30 ft.</text>
+<line x1="62" x2="694" y1="70.0" y2="70.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="54" y="74.0" font-size="11" fill="#898781" text-anchor="end">1</text>
+<text x="62.0" y="663" font-size="11" fill="#898781" text-anchor="middle">1</text>
+<line x1="62" x2="694" y1="155.8" y2="155.8" stroke="#e1e0d9" stroke-width="1"/>
+<text x="54" y="159.8" font-size="11" fill="#898781" text-anchor="end">50</text>
+<text x="156.1" y="663" font-size="11" fill="#898781" text-anchor="middle">50</text>
+<line x1="62" x2="694" y1="243.3" y2="243.3" stroke="#e1e0d9" stroke-width="1"/>
+<text x="54" y="247.3" font-size="11" fill="#898781" text-anchor="end">100</text>
+<text x="252.2" y="663" font-size="11" fill="#898781" text-anchor="middle">100</text>
+<line x1="62" x2="694" y1="330.9" y2="330.9" stroke="#e1e0d9" stroke-width="1"/>
+<text x="54" y="334.9" font-size="11" fill="#898781" text-anchor="end">150</text>
+<text x="348.2" y="663" font-size="11" fill="#898781" text-anchor="middle">150</text>
+<line x1="62" x2="694" y1="418.4" y2="418.4" stroke="#e1e0d9" stroke-width="1"/>
+<text x="54" y="422.4" font-size="11" fill="#898781" text-anchor="end">200</text>
+<text x="444.3" y="663" font-size="11" fill="#898781" text-anchor="middle">200</text>
+<line x1="62" x2="694" y1="505.9" y2="505.9" stroke="#e1e0d9" stroke-width="1"/>
+<text x="54" y="509.9" font-size="11" fill="#898781" text-anchor="end">250</text>
+<text x="540.3" y="663" font-size="11" fill="#898781" text-anchor="middle">250</text>
+<line x1="62" x2="694" y1="593.5" y2="593.5" stroke="#e1e0d9" stroke-width="1"/>
+<text x="54" y="597.5" font-size="11" fill="#898781" text-anchor="end">300</text>
+<text x="636.4" y="663" font-size="11" fill="#898781" text-anchor="middle">300</text>
+<line x1="62" x2="694" y1="646.0" y2="646.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="54" y="650.0" font-size="11" fill="#898781" text-anchor="end">330</text>
+<text x="694.0" y="663" font-size="11" fill="#898781" text-anchor="middle">330</text>
+<line x1="62" y1="70" x2="694" y2="646" stroke="#c3c2b7" stroke-width="1.5"/>
+<text x="378" y="688" font-size="12" fill="#52514e" text-anchor="middle">Rank, 30 ft cap</text>
+<text transform="translate(16 358) rotate(-90)" font-size="12" fill="#52514e" text-anchor="middle">Rank, 600 ft cap</text>
+<circle cx="62.0" cy="71.8" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Tarrasque: rank 1 (30 ft), rank 2 (600 ft)</title></circle>
+<circle cx="63.9" cy="80.5" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Kraken: rank 2 (30 ft), rank 7 (600 ft)</title></circle>
+<circle cx="65.8" cy="77.0" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Ancient Gold Dragon: rank 3 (30 ft), rank 5 (600 ft)</title></circle>
+<circle cx="67.8" cy="75.3" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Ancient Silver Dragon: rank 4 (30 ft), rank 4 (600 ft)</title></circle>
+<circle cx="69.7" cy="78.8" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Ancient Red Dragon: rank 5 (30 ft), rank 6 (600 ft)</title></circle>
+<circle cx="71.6" cy="73.5" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Lich: rank 6 (30 ft), rank 3 (600 ft)</title></circle>
+<circle cx="73.5" cy="82.3" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Ancient Blue Dragon: rank 7 (30 ft), rank 8 (600 ft)</title></circle>
+<circle cx="75.4" cy="70.0" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Solar: rank 8 (30 ft), rank 1 (600 ft)</title></circle>
+<circle cx="77.4" cy="84.0" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Ancient Bronze Dragon: rank 9 (30 ft), rank 9 (600 ft)</title></circle>
+<circle cx="79.3" cy="85.8" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Pit Fiend: rank 10 (30 ft), rank 10 (600 ft)</title></circle>
+<circle cx="81.2" cy="87.5" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Ancient Copper Dragon: rank 11 (30 ft), rank 11 (600 ft)</title></circle>
+<circle cx="83.1" cy="89.3" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Ancient Green Dragon: rank 12 (30 ft), rank 12 (600 ft)</title></circle>
+<circle cx="85.1" cy="91.0" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Ancient Black Dragon: rank 13 (30 ft), rank 13 (600 ft)</title></circle>
+<circle cx="87.0" cy="92.8" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Ancient Brass Dragon: rank 14 (30 ft), rank 14 (600 ft)</title></circle>
+<circle cx="88.9" cy="94.5" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Balor: rank 15 (30 ft), rank 15 (600 ft)</title></circle>
+<circle cx="90.8" cy="96.3" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Ancient White Dragon: rank 16 (30 ft), rank 16 (600 ft)</title></circle>
+<circle cx="92.7" cy="99.8" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Planetar: rank 17 (30 ft), rank 18 (600 ft)</title></circle>
+<circle cx="94.7" cy="101.5" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Adult Gold Dragon: rank 18 (30 ft), rank 19 (600 ft)</title></circle>
+<circle cx="96.6" cy="103.3" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Adult Silver Dragon: rank 19 (30 ft), rank 20 (600 ft)</title></circle>
+<circle cx="98.5" cy="105.0" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Adult Red Dragon: rank 20 (30 ft), rank 21 (600 ft)</title></circle>
+<circle cx="100.4" cy="98.0" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Cloud Giant: rank 21 (30 ft), rank 17 (600 ft)</title></circle>
+<circle cx="102.3" cy="106.8" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Adult Blue Dragon: rank 22 (30 ft), rank 22 (600 ft)</title></circle>
+<circle cx="104.3" cy="108.5" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Adult Bronze Dragon: rank 23 (30 ft), rank 23 (600 ft)</title></circle>
+<circle cx="106.2" cy="110.3" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Adult Green Dragon: rank 24 (30 ft), rank 24 (600 ft)</title></circle>
+<circle cx="108.1" cy="113.8" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Adult Brass Dragon: rank 25 (30 ft), rank 26 (600 ft)</title></circle>
+<circle cx="110.0" cy="115.5" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Adult Black Dragon: rank 26 (30 ft), rank 27 (600 ft)</title></circle>
+<circle cx="111.9" cy="112.0" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Adult Copper Dragon: rank 27 (30 ft), rank 25 (600 ft)</title></circle>
+<circle cx="113.9" cy="117.3" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Sphinx of Valor: rank 28 (30 ft), rank 28 (600 ft)</title></circle>
+<circle cx="115.8" cy="136.5" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Dragon Turtle: rank 29 (30 ft), rank 39 (600 ft)</title></circle>
+<circle cx="117.7" cy="119.0" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Iron Golem: rank 30 (30 ft), rank 29 (600 ft)</title></circle>
+<circle cx="119.6" cy="126.0" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Mummy Lord: rank 31 (30 ft), rank 33 (600 ft)</title></circle>
+<circle cx="121.6" cy="122.5" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Storm Giant: rank 32 (30 ft), rank 31 (600 ft)</title></circle>
+<circle cx="123.5" cy="124.3" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Archmage: rank 33 (30 ft), rank 32 (600 ft)</title></circle>
+<circle cx="125.4" cy="129.5" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Adult White Dragon: rank 34 (30 ft), rank 35 (600 ft)</title></circle>
+<circle cx="127.3" cy="120.8" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Ice Devil: rank 35 (30 ft), rank 30 (600 ft)</title></circle>
+<circle cx="129.2" cy="134.8" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Erinyes: rank 36 (30 ft), rank 38 (600 ft)</title></circle>
+<circle cx="131.2" cy="131.3" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Horned Devil: rank 37 (30 ft), rank 36 (600 ft)</title></circle>
+<circle cx="133.1" cy="133.0" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Roc: rank 38 (30 ft), rank 37 (600 ft)</title></circle>
+<circle cx="135.0" cy="127.8" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Nalfeshnee: rank 39 (30 ft), rank 34 (600 ft)</title></circle>
+<circle cx="136.9" cy="145.3" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Rakshasa: rank 40 (30 ft), rank 44 (600 ft)</title></circle>
+<circle cx="138.8" cy="138.3" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Efreeti: rank 41 (30 ft), rank 40 (600 ft)</title></circle>
+<circle cx="140.8" cy="143.5" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Vampire: rank 42 (30 ft), rank 43 (600 ft)</title></circle>
+<circle cx="142.7" cy="141.8" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Young Silver Dragon: rank 43 (30 ft), rank 42 (600 ft)</title></circle>
+<circle cx="144.6" cy="147.0" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Sphinx of Lore: rank 44 (30 ft), rank 45 (600 ft)</title></circle>
+<circle cx="146.5" cy="152.3" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Young Gold Dragon: rank 45 (30 ft), rank 48 (600 ft)</title></circle>
+<circle cx="148.4" cy="140.0" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Djinni: rank 46 (30 ft), rank 41 (600 ft)</title></circle>
+<circle cx="150.4" cy="148.8" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Stone Golem: rank 47 (30 ft), rank 46 (600 ft)</title></circle>
+<circle cx="152.3" cy="150.5" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Fire Giant: rank 48 (30 ft), rank 47 (600 ft)</title></circle>
+<circle cx="154.2" cy="154.0" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Purple Worm: rank 49 (30 ft), rank 49 (600 ft)</title></circle>
+<circle cx="156.1" cy="155.8" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Young Red Dragon: rank 50 (30 ft), rank 50 (600 ft)</title></circle>
+<circle cx="158.0" cy="157.5" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Guardian Naga: rank 51 (30 ft), rank 51 (600 ft)</title></circle>
+<circle cx="160.0" cy="161.0" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Behir: rank 52 (30 ft), rank 53 (600 ft)</title></circle>
+<circle cx="161.9" cy="162.8" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Glabrezu: rank 53 (30 ft), rank 54 (600 ft)</title></circle>
+<circle cx="163.8" cy="164.5" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Remorhaz: rank 54 (30 ft), rank 55 (600 ft)</title></circle>
+<circle cx="165.7" cy="168.0" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Deva: rank 55 (30 ft), rank 57 (600 ft)</title></circle>
+<circle cx="167.7" cy="166.3" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Marilith: rank 56 (30 ft), rank 56 (600 ft)</title></circle>
+<circle cx="169.6" cy="171.5" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Bone Devil: rank 57 (30 ft), rank 59 (600 ft)</title></circle>
+<circle cx="171.5" cy="210.1" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Aboleth: rank 58 (30 ft), rank 81 (600 ft)</title></circle>
+<circle cx="173.4" cy="169.8" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Young Blue Dragon: rank 59 (30 ft), rank 58 (600 ft)</title></circle>
+<circle cx="175.3" cy="159.3" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Frost Giant: rank 60 (30 ft), rank 52 (600 ft)</title></circle>
+<circle cx="177.3" cy="176.8" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Oni: rank 61 (30 ft), rank 62 (600 ft)</title></circle>
+<circle cx="179.2" cy="175.0" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Young Bronze Dragon: rank 62 (30 ft), rank 61 (600 ft)</title></circle>
+<circle cx="181.1" cy="180.3" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Young Green Dragon: rank 63 (30 ft), rank 64 (600 ft)</title></circle>
+<circle cx="183.0" cy="178.5" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Invisible Stalker: rank 64 (30 ft), rank 63 (600 ft)</title></circle>
+<circle cx="184.9" cy="173.3" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Spirit Naga: rank 65 (30 ft), rank 60 (600 ft)</title></circle>
+<circle cx="186.9" cy="182.0" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Young Black Dragon: rank 66 (30 ft), rank 65 (600 ft)</title></circle>
+<circle cx="188.8" cy="187.3" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Chain Devil: rank 67 (30 ft), rank 68 (600 ft)</title></circle>
+<circle cx="190.7" cy="183.8" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Tyrannosaurus Rex: rank 68 (30 ft), rank 66 (600 ft)</title></circle>
+<circle cx="192.6" cy="185.6" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Young Copper Dragon: rank 69 (30 ft), rank 67 (600 ft)</title></circle>
+<circle cx="194.5" cy="215.3" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Hezrou: rank 70 (30 ft), rank 84 (600 ft)</title></circle>
+<circle cx="196.5" cy="189.1" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Young Brass Dragon: rank 71 (30 ft), rank 69 (600 ft)</title></circle>
+<circle cx="198.4" cy="196.1" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Hydra: rank 72 (30 ft), rank 73 (600 ft)</title></circle>
+<circle cx="200.3" cy="190.8" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Stone Giant: rank 73 (30 ft), rank 70 (600 ft)</title></circle>
+<circle cx="202.2" cy="199.6" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Cloaker: rank 74 (30 ft), rank 75 (600 ft)</title></circle>
+<circle cx="204.2" cy="197.8" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Young White Dragon: rank 75 (30 ft), rank 74 (600 ft)</title></circle>
+<circle cx="206.1" cy="248.6" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Troll: rank 76 (30 ft), rank 103 (600 ft)</title></circle>
+<circle cx="208.0" cy="194.3" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Drider: rank 77 (30 ft), rank 72 (600 ft)</title></circle>
+<circle cx="209.9" cy="208.3" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Shield Guardian: rank 78 (30 ft), rank 80 (600 ft)</title></circle>
+<circle cx="211.8" cy="201.3" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Ape: rank 79 (30 ft), rank 76 (600 ft)</title></circle>
+<circle cx="213.8" cy="232.8" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Lamia: rank 80 (30 ft), rank 94 (600 ft)</title></circle>
+<circle cx="215.7" cy="204.8" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Treant: rank 81 (30 ft), rank 78 (600 ft)</title></circle>
+<circle cx="217.6" cy="211.8" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Pirate Captain: rank 82 (30 ft), rank 82 (600 ft)</title></circle>
+<circle cx="219.5" cy="206.6" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Air Elemental: rank 83 (30 ft), rank 79 (600 ft)</title></circle>
+<circle cx="221.4" cy="203.1" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Mage: rank 84 (30 ft), rank 77 (600 ft)</title></circle>
+<circle cx="223.4" cy="213.6" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Clay Golem: rank 85 (30 ft), rank 83 (600 ft)</title></circle>
+<circle cx="225.3" cy="192.6" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Assassin: rank 86 (30 ft), rank 71 (600 ft)</title></circle>
+<circle cx="227.2" cy="218.8" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Chimera: rank 87 (30 ft), rank 86 (600 ft)</title></circle>
+<circle cx="229.1" cy="220.6" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Medusa: rank 88 (30 ft), rank 87 (600 ft)</title></circle>
+<circle cx="231.0" cy="224.1" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Roper: rank 89 (30 ft), rank 89 (600 ft)</title></circle>
+<circle cx="233.0" cy="227.6" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Salamander: rank 90 (30 ft), rank 91 (600 ft)</title></circle>
+<circle cx="234.9" cy="229.3" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Gorgon: rank 91 (30 ft), rank 92 (600 ft)</title></circle>
+<circle cx="236.8" cy="222.3" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Vrock: rank 92 (30 ft), rank 88 (600 ft)</title></circle>
+<circle cx="238.7" cy="217.1" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Night Hag: rank 93 (30 ft), rank 85 (600 ft)</title></circle>
+<circle cx="240.7" cy="225.8" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Wyvern: rank 94 (30 ft), rank 90 (600 ft)</title></circle>
+<circle cx="242.6" cy="231.1" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Earth Elemental: rank 95 (30 ft), rank 93 (600 ft)</title></circle>
+<circle cx="244.5" cy="238.1" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Gladiator: rank 96 (30 ft), rank 97 (600 ft)</title></circle>
+<circle cx="246.4" cy="241.6" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Mammoth: rank 97 (30 ft), rank 99 (600 ft)</title></circle>
+<circle cx="248.3" cy="234.6" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Fire Elemental: rank 98 (30 ft), rank 95 (600 ft)</title></circle>
+<circle cx="250.3" cy="245.1" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Half-Dragon: rank 99 (30 ft), rank 101 (600 ft)</title></circle>
+<circle cx="252.2" cy="236.3" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Hill Giant: rank 100 (30 ft), rank 96 (600 ft)</title></circle>
+<circle cx="254.1" cy="246.8" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Werebear: rank 101 (30 ft), rank 102 (600 ft)</title></circle>
+<circle cx="256.0" cy="239.8" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Barbed Devil: rank 102 (30 ft), rank 98 (600 ft)</title></circle>
+<circle cx="257.9" cy="250.3" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Red Dragon Wyrmling: rank 103 (30 ft), rank 104 (600 ft)</title></circle>
+<circle cx="259.9" cy="255.6" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Water Elemental: rank 104 (30 ft), rank 107 (600 ft)</title></circle>
+<circle cx="261.8" cy="252.1" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Bulette: rank 105 (30 ft), rank 105 (600 ft)</title></circle>
+<circle cx="263.7" cy="260.8" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Crocodile: rank 106 (30 ft), rank 110 (600 ft)</title></circle>
+<circle cx="265.6" cy="262.6" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Shambling Mound: rank 107 (30 ft), rank 111 (600 ft)</title></circle>
+<circle cx="267.5" cy="253.8" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Triceratops: rank 108 (30 ft), rank 106 (600 ft)</title></circle>
+<circle cx="269.5" cy="257.3" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Unicorn: rank 109 (30 ft), rank 108 (600 ft)</title></circle>
+<circle cx="271.4" cy="259.1" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Couatl: rank 110 (30 ft), rank 109 (600 ft)</title></circle>
+<circle cx="273.3" cy="264.3" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Xorn: rank 111 (30 ft), rank 112 (600 ft)</title></circle>
+<circle cx="275.2" cy="273.1" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Otyugh: rank 112 (30 ft), rank 117 (600 ft)</title></circle>
+<circle cx="277.1" cy="274.8" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Ghost: rank 113 (30 ft), rank 118 (600 ft)</title></circle>
+<circle cx="279.1" cy="267.8" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Gold Dragon Wyrmling: rank 114 (30 ft), rank 114 (600 ft)</title></circle>
+<circle cx="281.0" cy="271.3" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Blue Dragon Wyrmling: rank 115 (30 ft), rank 116 (600 ft)</title></circle>
+<circle cx="282.9" cy="266.1" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Incubus: rank 116 (30 ft), rank 113 (600 ft)</title></circle>
+<circle cx="284.8" cy="269.6" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Guard Captain: rank 117 (30 ft), rank 115 (600 ft)</title></circle>
+<circle cx="286.8" cy="243.3" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Manticore: rank 118 (30 ft), rank 100 (600 ft)</title></circle>
+<circle cx="288.7" cy="280.1" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Flesh Golem: rank 119 (30 ft), rank 121 (600 ft)</title></circle>
+<circle cx="290.6" cy="276.6" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Wraith: rank 120 (30 ft), rank 119 (600 ft)</title></circle>
+<circle cx="292.5" cy="287.1" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Chuul: rank 121 (30 ft), rank 125 (600 ft)</title></circle>
+<circle cx="294.4" cy="281.8" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Wereboar: rank 122 (30 ft), rank 122 (600 ft)</title></circle>
+<circle cx="296.4" cy="285.3" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Silver Dragon Wyrmling: rank 123 (30 ft), rank 124 (600 ft)</title></circle>
+<circle cx="298.3" cy="278.3" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Hobgoblin Captain: rank 124 (30 ft), rank 120 (600 ft)</title></circle>
+<circle cx="300.2" cy="395.6" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Troll Limb: rank 125 (30 ft), rank 187 (600 ft)</title></circle>
+<circle cx="302.1" cy="292.3" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Will-o'-Wisp: rank 126 (30 ft), rank 128 (600 ft)</title></circle>
+<circle cx="304.0" cy="283.6" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Weretiger: rank 127 (30 ft), rank 123 (600 ft)</title></circle>
+<circle cx="306.0" cy="290.6" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Knight: rank 128 (30 ft), rank 127 (600 ft)</title></circle>
+<circle cx="307.9" cy="288.8" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Tough Boss: rank 129 (30 ft), rank 126 (600 ft)</title></circle>
+<circle cx="309.8" cy="294.1" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Green Hag: rank 130 (30 ft), rank 129 (600 ft)</title></circle>
+<circle cx="311.7" cy="297.6" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Vampire Spawn: rank 131 (30 ft), rank 131 (600 ft)</title></circle>
+<circle cx="313.6" cy="311.6" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Hippopotamus: rank 132 (30 ft), rank 139 (600 ft)</title></circle>
+<circle cx="315.6" cy="302.9" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Ettin: rank 133 (30 ft), rank 134 (600 ft)</title></circle>
+<circle cx="317.5" cy="295.8" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Bugbear Stalker: rank 134 (30 ft), rank 130 (600 ft)</title></circle>
+<circle cx="319.4" cy="306.4" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Elephant: rank 135 (30 ft), rank 136 (600 ft)</title></circle>
+<circle cx="321.3" cy="299.3" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Wight: rank 136 (30 ft), rank 132 (600 ft)</title></circle>
+<circle cx="323.3" cy="301.1" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Warrior Veteran: rank 137 (30 ft), rank 133 (600 ft)</title></circle>
+<circle cx="325.2" cy="304.6" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Vampire Familiar: rank 138 (30 ft), rank 135 (600 ft)</title></circle>
+<circle cx="327.1" cy="308.1" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Werewolf: rank 139 (30 ft), rank 137 (600 ft)</title></circle>
+<circle cx="329.0" cy="313.4" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Black Dragon Wyrmling: rank 140 (30 ft), rank 140 (600 ft)</title></circle>
+<circle cx="330.9" cy="332.6" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Archelon: rank 141 (30 ft), rank 151 (600 ft)</title></circle>
+<circle cx="332.9" cy="315.1" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Nightmare: rank 142 (30 ft), rank 141 (600 ft)</title></circle>
+<circle cx="334.8" cy="316.9" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Green Dragon Wyrmling: rank 143 (30 ft), rank 142 (600 ft)</title></circle>
+<circle cx="336.7" cy="318.6" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Bronze Dragon Wyrmling: rank 144 (30 ft), rank 143 (600 ft)</title></circle>
+<circle cx="338.6" cy="322.1" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>White Dragon Wyrmling: rank 145 (30 ft), rank 145 (600 ft)</title></circle>
+<circle cx="340.5" cy="320.4" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Succubus: rank 146 (30 ft), rank 144 (600 ft)</title></circle>
+<circle cx="342.5" cy="323.9" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Minotaur of Baphomet: rank 147 (30 ft), rank 146 (600 ft)</title></circle>
+<circle cx="344.4" cy="329.1" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Basilisk: rank 148 (30 ft), rank 149 (600 ft)</title></circle>
+<circle cx="346.3" cy="327.4" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Owlbear: rank 149 (30 ft), rank 148 (600 ft)</title></circle>
+<circle cx="348.2" cy="325.6" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Hell Hound: rank 150 (30 ft), rank 147 (600 ft)</title></circle>
+<circle cx="350.1" cy="330.9" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Scorpion: rank 151 (30 ft), rank 150 (600 ft)</title></circle>
+<circle cx="352.1" cy="334.4" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Ankylosaurus: rank 152 (30 ft), rank 152 (600 ft)</title></circle>
+<circle cx="354.0" cy="337.9" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Bearded Devil: rank 153 (30 ft), rank 154 (600 ft)</title></circle>
+<circle cx="355.9" cy="336.1" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Doppelganger: rank 154 (30 ft), rank 153 (600 ft)</title></circle>
+<circle cx="357.8" cy="374.6" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Black Pudding: rank 155 (30 ft), rank 175 (600 ft)</title></circle>
+<circle cx="359.8" cy="371.1" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Mummy: rank 156 (30 ft), rank 173 (600 ft)</title></circle>
+<circle cx="361.7" cy="309.9" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Centaur Trooper: rank 157 (30 ft), rank 138 (600 ft)</title></circle>
+<circle cx="363.6" cy="339.6" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Priest: rank 158 (30 ft), rank 155 (600 ft)</title></circle>
+<circle cx="365.5" cy="348.4" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Phase Spider: rank 159 (30 ft), rank 160 (600 ft)</title></circle>
+<circle cx="367.4" cy="341.4" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Shark: rank 160 (30 ft), rank 156 (600 ft)</title></circle>
+<circle cx="369.4" cy="351.9" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Constrictor Snake: rank 161 (30 ft), rank 162 (600 ft)</title></circle>
+<circle cx="371.3" cy="350.1" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Copper Dragon Wyrmling: rank 162 (30 ft), rank 161 (600 ft)</title></circle>
+<circle cx="373.2" cy="355.4" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Swarm of Crawling Claws: rank 163 (30 ft), rank 164 (600 ft)</title></circle>
+<circle cx="375.1" cy="346.6" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Winter Wolf: rank 164 (30 ft), rank 159 (600 ft)</title></circle>
+<circle cx="377.0" cy="364.1" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Merrow: rank 165 (30 ft), rank 169 (600 ft)</title></circle>
+<circle cx="379.0" cy="360.6" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Azer Sentinel: rank 166 (30 ft), rank 167 (600 ft)</title></circle>
+<circle cx="380.9" cy="344.9" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Saber-Toothed Tiger: rank 167 (30 ft), rank 158 (600 ft)</title></circle>
+<circle cx="382.8" cy="358.9" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Gargoyle: rank 168 (30 ft), rank 166 (600 ft)</title></circle>
+<circle cx="384.7" cy="357.1" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Bandit Captain: rank 169 (30 ft), rank 165 (600 ft)</title></circle>
+<circle cx="386.6" cy="362.4" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Griffon: rank 170 (30 ft), rank 168 (600 ft)</title></circle>
+<circle cx="388.6" cy="386.9" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Awakened Tree: rank 171 (30 ft), rank 182 (600 ft)</title></circle>
+<circle cx="390.5" cy="369.4" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Swarm of Venomous Snakes: rank 172 (30 ft), rank 172 (600 ft)</title></circle>
+<circle cx="392.4" cy="353.6" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Druid: rank 173 (30 ft), rank 163 (600 ft)</title></circle>
+<circle cx="394.3" cy="367.6" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Brass Dragon Wyrmling: rank 174 (30 ft), rank 171 (600 ft)</title></circle>
+<circle cx="396.2" cy="365.9" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Wererat: rank 175 (30 ft), rank 170 (600 ft)</title></circle>
+<circle cx="398.2" cy="402.6" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Gelatinous Cube: rank 176 (30 ft), rank 191 (600 ft)</title></circle>
+<circle cx="400.1" cy="343.1" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Ogre: rank 177 (30 ft), rank 157 (600 ft)</title></circle>
+<circle cx="402.0" cy="372.9" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Elk: rank 178 (30 ft), rank 174 (600 ft)</title></circle>
+<circle cx="403.9" cy="376.4" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Ogre Zombie: rank 179 (30 ft), rank 176 (600 ft)</title></circle>
+<circle cx="405.9" cy="378.1" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Cultist Fanatic: rank 180 (30 ft), rank 177 (600 ft)</title></circle>
+<circle cx="407.8" cy="379.9" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Pegasus: rank 181 (30 ft), rank 178 (600 ft)</title></circle>
+<circle cx="409.7" cy="385.1" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Ankheg: rank 182 (30 ft), rank 181 (600 ft)</title></circle>
+<circle cx="411.6" cy="388.6" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Grick: rank 183 (30 ft), rank 183 (600 ft)</title></circle>
+<circle cx="413.5" cy="383.4" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Polar Bear: rank 184 (30 ft), rank 180 (600 ft)</title></circle>
+<circle cx="415.5" cy="399.1" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Mimic: rank 185 (30 ft), rank 189 (600 ft)</title></circle>
+<circle cx="417.4" cy="381.6" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Allosaurus: rank 186 (30 ft), rank 179 (600 ft)</title></circle>
+<circle cx="419.3" cy="411.4" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Plesiosaurus: rank 187 (30 ft), rank 196 (600 ft)</title></circle>
+<circle cx="421.2" cy="390.4" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Killer Whale: rank 188 (30 ft), rank 184 (600 ft)</title></circle>
+<circle cx="423.1" cy="392.1" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Rhinoceros: rank 189 (30 ft), rank 185 (600 ft)</title></circle>
+<circle cx="425.1" cy="393.9" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Ettercap: rank 190 (30 ft), rank 186 (600 ft)</title></circle>
+<circle cx="427.0" cy="400.9" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Berserker: rank 191 (30 ft), rank 190 (600 ft)</title></circle>
+<circle cx="428.9" cy="406.1" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Ghast: rank 192 (30 ft), rank 193 (600 ft)</title></circle>
+<circle cx="430.8" cy="404.4" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Minotaur Skeleton: rank 193 (30 ft), rank 192 (600 ft)</title></circle>
+<circle cx="432.7" cy="407.9" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Eagle: rank 194 (30 ft), rank 194 (600 ft)</title></circle>
+<circle cx="434.7" cy="413.1" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Sea Hag: rank 195 (30 ft), rank 197 (600 ft)</title></circle>
+<circle cx="436.6" cy="434.2" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Animated Armor: rank 196 (30 ft), rank 209 (600 ft)</title></circle>
+<circle cx="438.5" cy="409.6" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Dryad: rank 197 (30 ft), rank 195 (600 ft)</title></circle>
+<circle cx="440.4" cy="421.9" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Ice Mephit: rank 198 (30 ft), rank 202 (600 ft)</title></circle>
+<circle cx="442.4" cy="420.2" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Boar: rank 199 (30 ft), rank 201 (600 ft)</title></circle>
+<circle cx="444.3" cy="462.2" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Ochre Jelly: rank 200 (30 ft), rank 225 (600 ft)</title></circle>
+<circle cx="446.2" cy="416.7" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Pirate: rank 201 (30 ft), rank 199 (600 ft)</title></circle>
+<circle cx="448.1" cy="425.4" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Hyena: rank 202 (30 ft), rank 204 (600 ft)</title></circle>
+<circle cx="450.0" cy="418.4" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Bugbear Warrior: rank 203 (30 ft), rank 200 (600 ft)</title></circle>
+<circle cx="452.0" cy="430.7" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Magma Mephit: rank 204 (30 ft), rank 207 (600 ft)</title></circle>
+<circle cx="453.9" cy="397.4" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Sprite: rank 205 (30 ft), rank 188 (600 ft)</title></circle>
+<circle cx="455.8" cy="414.9" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Goblin Boss: rank 206 (30 ft), rank 198 (600 ft)</title></circle>
+<circle cx="457.7" cy="432.4" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Spider: rank 207 (30 ft), rank 208 (600 ft)</title></circle>
+<circle cx="459.6" cy="451.7" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Octopus: rank 208 (30 ft), rank 219 (600 ft)</title></circle>
+<circle cx="461.6" cy="437.7" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Toad: rank 209 (30 ft), rank 211 (600 ft)</title></circle>
+<circle cx="463.5" cy="428.9" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Tiger: rank 210 (30 ft), rank 206 (600 ft)</title></circle>
+<circle cx="465.4" cy="435.9" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Hippogriff: rank 211 (30 ft), rank 210 (600 ft)</title></circle>
+<circle cx="467.3" cy="439.4" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Steam Mephit: rank 212 (30 ft), rank 212 (600 ft)</title></circle>
+<circle cx="469.2" cy="441.2" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Specter: rank 213 (30 ft), rank 213 (600 ft)</title></circle>
+<circle cx="471.2" cy="427.2" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Spy: rank 214 (30 ft), rank 205 (600 ft)</title></circle>
+<circle cx="473.1" cy="442.9" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Death Dog: rank 215 (30 ft), rank 214 (600 ft)</title></circle>
+<circle cx="475.0" cy="446.4" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Sphinx of Wonder: rank 216 (30 ft), rank 216 (600 ft)</title></circle>
+<circle cx="476.9" cy="448.2" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Ghoul: rank 217 (30 ft), rank 217 (600 ft)</title></circle>
+<circle cx="478.9" cy="444.7" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Hunter Shark: rank 218 (30 ft), rank 215 (600 ft)</title></circle>
+<circle cx="480.8" cy="456.9" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Gibbering Mouther: rank 219 (30 ft), rank 222 (600 ft)</title></circle>
+<circle cx="482.7" cy="458.7" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Imp: rank 220 (30 ft), rank 223 (600 ft)</title></circle>
+<circle cx="484.6" cy="449.9" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Lion: rank 221 (30 ft), rank 218 (600 ft)</title></circle>
+<circle cx="486.5" cy="463.9" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Animated Rug of Smothering: rank 222 (30 ft), rank 226 (600 ft)</title></circle>
+<circle cx="488.5" cy="467.4" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Brown Bear: rank 223 (30 ft), rank 228 (600 ft)</title></circle>
+<circle cx="490.4" cy="453.4" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Hobgoblin Warrior: rank 224 (30 ft), rank 220 (600 ft)</title></circle>
+<circle cx="492.3" cy="455.2" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Gnoll Warrior: rank 225 (30 ft), rank 221 (600 ft)</title></circle>
+<circle cx="494.2" cy="469.2" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Swarm of Piranhas: rank 226 (30 ft), rank 229 (600 ft)</title></circle>
+<circle cx="496.1" cy="470.9" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Ape: rank 227 (30 ft), rank 230 (600 ft)</title></circle>
+<circle cx="498.1" cy="423.7" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Satyr: rank 228 (30 ft), rank 203 (600 ft)</title></circle>
+<circle cx="500.0" cy="460.4" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Scout: rank 229 (30 ft), rank 224 (600 ft)</title></circle>
+<circle cx="501.9" cy="472.7" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Dire Wolf: rank 230 (30 ft), rank 231 (600 ft)</title></circle>
+<circle cx="503.8" cy="474.4" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Vulture: rank 231 (30 ft), rank 232 (600 ft)</title></circle>
+<circle cx="505.7" cy="479.7" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Wasp: rank 232 (30 ft), rank 235 (600 ft)</title></circle>
+<circle cx="507.7" cy="477.9" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Sahuagin Warrior: rank 233 (30 ft), rank 234 (600 ft)</title></circle>
+<circle cx="509.6" cy="476.2" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Quasit: rank 234 (30 ft), rank 233 (600 ft)</title></circle>
+<circle cx="511.5" cy="465.7" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Tough: rank 235 (30 ft), rank 227 (600 ft)</title></circle>
+<circle cx="513.4" cy="481.4" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Worg: rank 236 (30 ft), rank 236 (600 ft)</title></circle>
+<circle cx="515.3" cy="484.9" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Harpy: rank 237 (30 ft), rank 238 (600 ft)</title></circle>
+<circle cx="517.3" cy="486.7" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Darkmantle: rank 238 (30 ft), rank 239 (600 ft)</title></circle>
+<circle cx="519.2" cy="483.2" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Warhorse: rank 239 (30 ft), rank 237 (600 ft)</title></circle>
+<circle cx="521.1" cy="488.4" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Shadow: rank 240 (30 ft), rank 240 (600 ft)</title></circle>
+<circle cx="523.0" cy="491.9" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Warhorse Skeleton: rank 241 (30 ft), rank 242 (600 ft)</title></circle>
+<circle cx="525.0" cy="497.2" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Black Bear: rank 242 (30 ft), rank 245 (600 ft)</title></circle>
+<circle cx="526.9" cy="495.4" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Rust Monster: rank 243 (30 ft), rank 244 (600 ft)</title></circle>
+<circle cx="528.8" cy="498.9" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Bat: rank 244 (30 ft), rank 246 (600 ft)</title></circle>
+<circle cx="530.7" cy="500.7" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Animated Flying Sword: rank 245 (30 ft), rank 247 (600 ft)</title></circle>
+<circle cx="532.6" cy="502.4" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Magmin: rank 246 (30 ft), rank 248 (600 ft)</title></circle>
+<circle cx="534.6" cy="505.9" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Venomous Snake: rank 247 (30 ft), rank 250 (600 ft)</title></circle>
+<circle cx="536.5" cy="504.2" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Owl: rank 248 (30 ft), rank 249 (600 ft)</title></circle>
+<circle cx="538.4" cy="490.2" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Priest Acolyte: rank 249 (30 ft), rank 241 (600 ft)</title></circle>
+<circle cx="540.3" cy="512.9" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Goat: rank 250 (30 ft), rank 254 (600 ft)</title></circle>
+<circle cx="542.2" cy="511.2" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Blink Dog: rank 251 (30 ft), rank 253 (600 ft)</title></circle>
+<circle cx="544.2" cy="507.7" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Panther: rank 252 (30 ft), rank 251 (600 ft)</title></circle>
+<circle cx="546.1" cy="514.7" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Cockatrice: rank 253 (30 ft), rank 255 (600 ft)</title></circle>
+<circle cx="548.0" cy="493.7" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Skeleton: rank 254 (30 ft), rank 243 (600 ft)</title></circle>
+<circle cx="549.9" cy="516.4" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Wolf Spider: rank 255 (30 ft), rank 256 (600 ft)</title></circle>
+<circle cx="551.8" cy="518.2" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Gray Ooze: rank 256 (30 ft), rank 257 (600 ft)</title></circle>
+<circle cx="553.8" cy="519.9" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Lizard: rank 257 (30 ft), rank 258 (600 ft)</title></circle>
+<circle cx="555.7" cy="509.4" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Goblin Warrior: rank 258 (30 ft), rank 252 (600 ft)</title></circle>
+<circle cx="557.6" cy="521.7" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Pseudodragon: rank 259 (30 ft), rank 259 (600 ft)</title></circle>
+<circle cx="559.5" cy="523.4" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Seahorse: rank 260 (30 ft), rank 260 (600 ft)</title></circle>
+<circle cx="561.5" cy="530.4" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Swarm of Insects: rank 261 (30 ft), rank 264 (600 ft)</title></circle>
+<circle cx="563.4" cy="525.2" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Axe Beak: rank 262 (30 ft), rank 261 (600 ft)</title></circle>
+<circle cx="565.3" cy="528.7" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Reef Shark: rank 263 (30 ft), rank 263 (600 ft)</title></circle>
+<circle cx="567.2" cy="534.0" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Grimlock: rank 264 (30 ft), rank 266 (600 ft)</title></circle>
+<circle cx="569.1" cy="535.7" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Constrictor Snake: rank 265 (30 ft), rank 267 (600 ft)</title></circle>
+<circle cx="571.1" cy="537.5" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Riding Horse: rank 266 (30 ft), rank 268 (600 ft)</title></circle>
+<circle cx="573.0" cy="548.0" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Crocodile: rank 267 (30 ft), rank 274 (600 ft)</title></circle>
+<circle cx="574.9" cy="541.0" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Dust Mephit: rank 268 (30 ft), rank 270 (600 ft)</title></circle>
+<circle cx="576.8" cy="539.2" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Pteranodon: rank 269 (30 ft), rank 269 (600 ft)</title></circle>
+<circle cx="578.7" cy="542.7" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Draft Horse: rank 270 (30 ft), rank 271 (600 ft)</title></circle>
+<circle cx="580.7" cy="544.5" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Swarm of Ravens: rank 271 (30 ft), rank 272 (600 ft)</title></circle>
+<circle cx="582.6" cy="546.2" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Badger: rank 272 (30 ft), rank 273 (600 ft)</title></circle>
+<circle cx="584.5" cy="549.7" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Swarm of Bats: rank 273 (30 ft), rank 275 (600 ft)</title></circle>
+<circle cx="586.4" cy="526.9" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Guard: rank 274 (30 ft), rank 262 (600 ft)</title></circle>
+<circle cx="588.3" cy="551.5" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Frog: rank 275 (30 ft), rank 276 (600 ft)</title></circle>
+<circle cx="590.3" cy="553.2" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Swarm of Rats: rank 276 (30 ft), rank 277 (600 ft)</title></circle>
+<circle cx="592.2" cy="562.0" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Zombie: rank 277 (30 ft), rank 282 (600 ft)</title></circle>
+<circle cx="594.1" cy="558.5" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Elk: rank 278 (30 ft), rank 280 (600 ft)</title></circle>
+<circle cx="596.0" cy="555.0" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Noble: rank 279 (30 ft), rank 278 (600 ft)</title></circle>
+<circle cx="598.0" cy="563.7" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Crab: rank 280 (30 ft), rank 283 (600 ft)</title></circle>
+<circle cx="599.9" cy="565.5" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Merfolk Skirmisher: rank 281 (30 ft), rank 284 (600 ft)</title></circle>
+<circle cx="601.8" cy="532.2" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Bandit: rank 282 (30 ft), rank 265 (600 ft)</title></circle>
+<circle cx="603.7" cy="567.2" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Violet Fungus: rank 283 (30 ft), rank 285 (600 ft)</title></circle>
+<circle cx="605.6" cy="570.7" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Centipede: rank 284 (30 ft), rank 287 (600 ft)</title></circle>
+<circle cx="607.6" cy="572.5" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Boar: rank 285 (30 ft), rank 288 (600 ft)</title></circle>
+<circle cx="609.5" cy="579.5" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Dretch: rank 286 (30 ft), rank 292 (600 ft)</title></circle>
+<circle cx="611.4" cy="574.2" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Camel: rank 287 (30 ft), rank 289 (600 ft)</title></circle>
+<circle cx="613.3" cy="576.0" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Wolf: rank 288 (30 ft), rank 290 (600 ft)</title></circle>
+<circle cx="615.2" cy="577.7" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Weasel: rank 289 (30 ft), rank 291 (600 ft)</title></circle>
+<circle cx="617.2" cy="569.0" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Goblin Minion: rank 290 (30 ft), rank 286 (600 ft)</title></circle>
+<circle cx="619.1" cy="560.2" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Warrior Infantry: rank 291 (30 ft), rank 281 (600 ft)</title></circle>
+<circle cx="621.0" cy="556.7" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Kobold Warrior: rank 292 (30 ft), rank 279 (600 ft)</title></circle>
+<circle cx="622.9" cy="581.2" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Stirge: rank 293 (30 ft), rank 293 (600 ft)</title></circle>
+<circle cx="624.8" cy="583.0" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Rat: rank 294 (30 ft), rank 294 (600 ft)</title></circle>
+<circle cx="626.8" cy="584.7" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Venomous Snake: rank 295 (30 ft), rank 295 (600 ft)</title></circle>
+<circle cx="628.7" cy="586.5" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Mule: rank 296 (30 ft), rank 296 (600 ft)</title></circle>
+<circle cx="630.6" cy="588.2" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Pony: rank 297 (30 ft), rank 297 (600 ft)</title></circle>
+<circle cx="632.5" cy="590.0" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Flying Snake: rank 298 (30 ft), rank 298 (600 ft)</title></circle>
+<circle cx="634.4" cy="591.7" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Cultist: rank 299 (30 ft), rank 299 (600 ft)</title></circle>
+<circle cx="636.4" cy="593.5" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Blood Hawk: rank 300 (30 ft), rank 300 (600 ft)</title></circle>
+<circle cx="638.3" cy="595.2" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Mastiff: rank 301 (30 ft), rank 301 (600 ft)</title></circle>
+<circle cx="640.2" cy="597.0" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Eagle: rank 302 (30 ft), rank 302 (600 ft)</title></circle>
+<circle cx="642.1" cy="598.7" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Lemure: rank 303 (30 ft), rank 303 (600 ft)</title></circle>
+<circle cx="644.1" cy="600.5" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Hyena: rank 304 (30 ft), rank 304 (600 ft)</title></circle>
+<circle cx="646.0" cy="602.2" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Homunculus: rank 305 (30 ft), rank 305 (600 ft)</title></circle>
+<circle cx="647.9" cy="604.0" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Deer: rank 306 (30 ft), rank 306 (600 ft)</title></circle>
+<circle cx="649.8" cy="605.7" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Awakened Shrub: rank 307 (30 ft), rank 307 (600 ft)</title></circle>
+<circle cx="651.7" cy="607.5" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Vulture: rank 308 (30 ft), rank 308 (600 ft)</title></circle>
+<circle cx="653.7" cy="609.2" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Commoner: rank 309 (30 ft), rank 309 (600 ft)</title></circle>
+<circle cx="655.6" cy="611.0" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Badger: rank 310 (30 ft), rank 310 (600 ft)</title></circle>
+<circle cx="657.5" cy="612.7" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Fire Beetle: rank 311 (30 ft), rank 311 (600 ft)</title></circle>
+<circle cx="659.4" cy="614.5" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Goat: rank 312 (30 ft), rank 312 (600 ft)</title></circle>
+<circle cx="661.3" cy="618.0" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Baboon: rank 313 (30 ft), rank 314 (600 ft)</title></circle>
+<circle cx="663.3" cy="616.2" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Jackal: rank 314 (30 ft), rank 313 (600 ft)</title></circle>
+<circle cx="665.2" cy="619.7" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Octopus: rank 315 (30 ft), rank 315 (600 ft)</title></circle>
+<circle cx="667.1" cy="623.2" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Raven: rank 316 (30 ft), rank 317 (600 ft)</title></circle>
+<circle cx="669.0" cy="621.5" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Cat: rank 317 (30 ft), rank 316 (600 ft)</title></circle>
+<circle cx="670.9" cy="625.0" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Crab: rank 318 (30 ft), rank 318 (600 ft)</title></circle>
+<circle cx="672.9" cy="626.7" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Spider: rank 319 (30 ft), rank 319 (600 ft)</title></circle>
+<circle cx="674.8" cy="628.5" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Hawk: rank 320 (30 ft), rank 320 (600 ft)</title></circle>
+<circle cx="676.7" cy="630.2" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Scorpion: rank 321 (30 ft), rank 321 (600 ft)</title></circle>
+<circle cx="678.6" cy="632.0" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Weasel: rank 322 (30 ft), rank 322 (600 ft)</title></circle>
+<circle cx="680.6" cy="633.7" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Lizard: rank 323 (30 ft), rank 323 (600 ft)</title></circle>
+<circle cx="682.5" cy="635.5" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Bat: rank 324 (30 ft), rank 324 (600 ft)</title></circle>
+<circle cx="684.4" cy="637.2" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Owl: rank 325 (30 ft), rank 325 (600 ft)</title></circle>
+<circle cx="686.3" cy="639.0" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Piranha: rank 326 (30 ft), rank 326 (600 ft)</title></circle>
+<circle cx="688.2" cy="640.7" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Frog: rank 327 (30 ft), rank 327 (600 ft)</title></circle>
+<circle cx="690.2" cy="642.5" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Rat: rank 328 (30 ft), rank 328 (600 ft)</title></circle>
+<circle cx="692.1" cy="644.2" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Shrieker Fungus: rank 329 (30 ft), rank 329 (600 ft)</title></circle>
+<circle cx="694.0" cy="646.0" r="3.2" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Seahorse: rank 330 (30 ft), rank 330 (600 ft)</title></circle>
+<text x="307.2" y="399.1" font-size="11" fill="#52514e" text-anchor="start">Troll Limb</text>
+<text x="199.1" y="252.1" font-size="11" fill="#52514e" text-anchor="end">Troll</text>
+<text x="437.3" y="465.7" font-size="11" fill="#52514e" text-anchor="end">Ochre Jelly</text>
+<text x="505.1" y="427.2" font-size="11" fill="#52514e" text-anchor="start">Satyr</text>
+<text x="164.5" y="213.6" font-size="11" fill="#52514e" text-anchor="end">Aboleth</text>
+<text x="350.8" y="378.1" font-size="11" fill="#52514e" text-anchor="end">Black Pudding</text>
+<text x="407.1" y="346.6" font-size="11" fill="#52514e" text-anchor="start">Ogre</text>
+<text x="368.7" y="313.4" font-size="11" fill="#52514e" text-anchor="start">Centaur Trooper</text>
+<text x="293.8" y="246.8" font-size="11" fill="#52514e" text-anchor="start">Manticore</text>
+<text x="460.9" y="400.9" font-size="11" fill="#52514e" text-anchor="start">Sprite</text>
+<text x="608.8" y="535.7" font-size="11" fill="#52514e" text-anchor="start">Bandit</text>
+<text x="232.3" y="196.1" font-size="11" fill="#52514e" text-anchor="start">Assassin</text>
+<text x="206.8" y="236.3" font-size="11" fill="#52514e" text-anchor="end">Lamia</text>
+<text x="429.6" y="437.7" font-size="11" fill="#52514e" text-anchor="end">Animated Armor</text>
+<text x="586.4" y="518.9" font-size="11" fill="#52514e" text-anchor="middle">Guard</text>
+<text x="555.0" y="497.2" font-size="11" fill="#52514e" text-anchor="start">Skeleton</text>
+<text x="323.9" y="336.1" font-size="11" fill="#52514e" text-anchor="end">Archelon</text>
+</svg>

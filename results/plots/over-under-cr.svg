@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 790" width="900" height="790" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-label="Furthest above and below their Challenge Rating, 120 ft separation cap">
+<rect width="900" height="790" fill="#fcfcfb"/>
+<text x="24" y="30" font-size="17" font-weight="600" fill="#0b0b0b">Furthest above and below their Challenge Rating, 120 ft separation cap</text>
+<text x="24" y="50" font-size="12" fill="#52514e">Elo minus the median Elo of the creatures with the same CR. CRs with fewer than three creatures are left out.</text>
+<text x="268" y="80" font-size="12" font-weight="600" fill="#52514e" text-anchor="end">Stronger than its CR</text>
+<text x="268" y="439" font-size="12" font-weight="600" fill="#52514e" text-anchor="end">Weaker than its CR</text>
+<line x1="580" x2="580" y1="86" y2="770" stroke="#c3c2b7" stroke-width="1"/>
+<text x="268" y="103" font-size="12" fill="#0b0b0b" text-anchor="end">Sprite <tspan fill="#898781">CR 1/4</tspan></text>
+<path d="M580,92 H846.0 Q850.0,92 850.0,96 V102 Q850.0,106 846.0,106 H580 Z" fill="#2a78d6"><title>Sprite: Elo 1126.2, +573 against the CR 1/4 median</title></path>
+<text x="856.0" y="103" font-size="11" fill="#52514e" text-anchor="start">+573</text>
+<text x="268" y="124" font-size="12" fill="#0b0b0b" text-anchor="end">Cloud Giant <tspan fill="#898781">CR 9</tspan></text>
+<path d="M580,113 H819.8 Q823.8,113 823.8,117 V123 Q823.8,127 819.8,127 H580 Z" fill="#2a78d6"><title>Cloud Giant: Elo 2747.8, +518 against the CR 9 median</title></path>
+<text x="829.8" y="124" font-size="11" fill="#52514e" text-anchor="start">+518</text>
+<text x="268" y="145" font-size="12" fill="#0b0b0b" text-anchor="end">Eagle <tspan fill="#898781">CR 0</tspan></text>
+<path d="M580,134 H795.0 Q799.0,134 799.0,138 V144 Q799.0,148 795.0,148 H580 Z" fill="#2a78d6"><title>Eagle: Elo 75.1, +465 against the CR 0 median</title></path>
+<text x="805.0" y="145" font-size="11" fill="#52514e" text-anchor="start">+465</text>
+<text x="268" y="166" font-size="12" fill="#0b0b0b" text-anchor="end">Steam Mephit <tspan fill="#898781">CR 1/4</tspan></text>
+<path d="M580,155 H782.9 Q786.9,155 786.9,159 V165 Q786.9,169 782.9,169 H580 Z" fill="#2a78d6"><title>Steam Mephit: Elo 992.3, +439 against the CR 1/4 median</title></path>
+<text x="792.9" y="166" font-size="11" fill="#52514e" text-anchor="start">+439</text>
+<text x="268" y="187" font-size="12" fill="#0b0b0b" text-anchor="end">Lemure <tspan fill="#898781">CR 0</tspan></text>
+<path d="M580,176 H769.4 Q773.4,176 773.4,180 V186 Q773.4,190 769.4,190 H580 Z" fill="#2a78d6"><title>Lemure: Elo 20.8, +411 against the CR 0 median</title></path>
+<text x="779.4" y="187" font-size="11" fill="#52514e" text-anchor="start">+411</text>
+<text x="268" y="208" font-size="12" fill="#0b0b0b" text-anchor="end">Silver Dragon Wyrmling <tspan fill="#898781">CR 2</tspan></text>
+<path d="M580,197 H762.2 Q766.2,197 766.2,201 V207 Q766.2,211 762.2,211 H580 Z" fill="#2a78d6"><title>Silver Dragon Wyrmling: Elo 1620.3, +395 against the CR 2 median</title></path>
+<text x="772.2" y="208" font-size="11" fill="#52514e" text-anchor="start">+395</text>
+<text x="268" y="229" font-size="12" fill="#0b0b0b" text-anchor="end">Will-o'-Wisp <tspan fill="#898781">CR 2</tspan></text>
+<path d="M580,218 H747.4 Q751.4,218 751.4,222 V228 Q751.4,232 747.4,232 H580 Z" fill="#2a78d6"><title>Will-o'-Wisp: Elo 1588.9, +364 against the CR 2 median</title></path>
+<text x="757.4" y="229" font-size="11" fill="#52514e" text-anchor="start">+364</text>
+<text x="268" y="250" font-size="12" fill="#0b0b0b" text-anchor="end">Hyena <tspan fill="#898781">CR 0</tspan></text>
+<path d="M580,239 H747.3 Q751.3,239 751.3,243 V249 Q751.3,253 747.3,253 H580 Z" fill="#2a78d6"><title>Hyena: Elo -26.1, +364 against the CR 0 median</title></path>
+<text x="757.3" y="250" font-size="11" fill="#52514e" text-anchor="start">+364</text>
+<text x="268" y="271" font-size="12" fill="#0b0b0b" text-anchor="end">Manticore <tspan fill="#898781">CR 3</tspan></text>
+<path d="M580,260 H741.0 Q745.0,260 745.0,264 V270 Q745.0,274 741.0,274 H580 Z" fill="#2a78d6"><title>Manticore: Elo 1792, +350 against the CR 3 median</title></path>
+<text x="751.0" y="271" font-size="11" fill="#52514e" text-anchor="start">+350</text>
+<text x="268" y="292" font-size="12" fill="#0b0b0b" text-anchor="end">Troll Limb <tspan fill="#898781">CR 1/2</tspan></text>
+<path d="M580,281 H735.7 Q739.7,281 739.7,285 V291 Q739.7,295 735.7,295 H580 Z" fill="#2a78d6"><title>Troll Limb: Elo 1137.2, +339 against the CR 1/2 median</title></path>
+<text x="745.7" y="292" font-size="11" fill="#52514e" text-anchor="start">+339</text>
+<text x="268" y="313" font-size="12" fill="#0b0b0b" text-anchor="end">Copper Dragon Wyrmling <tspan fill="#898781">CR 1</tspan></text>
+<path d="M580,302 H734.4 Q738.4,302 738.4,306 V312 Q738.4,316 734.4,316 H580 Z" fill="#2a78d6"><title>Copper Dragon Wyrmling: Elo 1336.3, +336 against the CR 1 median</title></path>
+<text x="744.4" y="313" font-size="11" fill="#52514e" text-anchor="start">+336</text>
+<text x="268" y="334" font-size="12" fill="#0b0b0b" text-anchor="end">Homunculus <tspan fill="#898781">CR 0</tspan></text>
+<path d="M580,323 H725.1 Q729.1,323 729.1,327 V333 Q729.1,337 725.1,337 H580 Z" fill="#2a78d6"><title>Homunculus: Elo -73.1, +317 against the CR 0 median</title></path>
+<text x="735.1" y="334" font-size="11" fill="#52514e" text-anchor="start">+317</text>
+<text x="268" y="355" font-size="12" fill="#0b0b0b" text-anchor="end">Deer <tspan fill="#898781">CR 0</tspan></text>
+<path d="M580,344 H721.1 Q725.1,344 725.1,348 V354 Q725.1,358 721.1,358 H580 Z" fill="#2a78d6"><title>Deer: Elo -81.7, +308 against the CR 0 median</title></path>
+<text x="731.1" y="355" font-size="11" fill="#52514e" text-anchor="start">+308</text>
+<text x="268" y="376" font-size="12" fill="#0b0b0b" text-anchor="end">Centaur Trooper <tspan fill="#898781">CR 2</tspan></text>
+<path d="M580,365 H711.6 Q715.6,365 715.6,369 V375 Q715.6,379 711.6,379 H580 Z" fill="#2a78d6"><title>Centaur Trooper: Elo 1512.9, +288 against the CR 2 median</title></path>
+<text x="721.6" y="376" font-size="11" fill="#52514e" text-anchor="start">+288</text>
+<text x="268" y="397" font-size="12" fill="#0b0b0b" text-anchor="end">Brass Dragon Wyrmling <tspan fill="#898781">CR 1</tspan></text>
+<path d="M580,386 H708.1 Q712.1,386 712.1,390 V396 Q712.1,400 708.1,400 H580 Z" fill="#2a78d6"><title>Brass Dragon Wyrmling: Elo 1280.4, +280 against the CR 1 median</title></path>
+<text x="718.1" y="397" font-size="11" fill="#52514e" text-anchor="start">+280</text>
+<text x="268" y="462" font-size="12" fill="#0b0b0b" text-anchor="end">Dust Mephit <tspan fill="#898781">CR 1/2</tspan></text>
+<path d="M580,451 H462.3 Q458.3,451 458.3,455 V461 Q458.3,465 462.3,465 H580 Z" fill="#eb6834"><title>Dust Mephit: Elo 539.9, -258 against the CR 1/2 median</title></path>
+<text x="452.3" y="462" font-size="11" fill="#52514e" text-anchor="end">−258</text>
+<text x="268" y="483" font-size="12" fill="#0b0b0b" text-anchor="end">Piranha <tspan fill="#898781">CR 0</tspan></text>
+<path d="M580,472 H462.2 Q458.2,472 458.2,476 V482 Q458.2,486 462.2,486 H580 Z" fill="#eb6834"><title>Piranha: Elo -648.3, -259 against the CR 0 median</title></path>
+<text x="452.2" y="483" font-size="11" fill="#52514e" text-anchor="end">−259</text>
+<text x="268" y="504" font-size="12" fill="#0b0b0b" text-anchor="end">Clay Golem <tspan fill="#898781">CR 9</tspan></text>
+<path d="M580,493 H459.7 Q455.7,493 455.7,497 V503 Q455.7,507 459.7,507 H580 Z" fill="#eb6834"><title>Clay Golem: Elo 1966.4, -264 against the CR 9 median</title></path>
+<text x="449.7" y="504" font-size="11" fill="#52514e" text-anchor="end">−264</text>
+<text x="268" y="525" font-size="12" fill="#0b0b0b" text-anchor="end">Gibbering Mouther <tspan fill="#898781">CR 2</tspan></text>
+<path d="M580,514 H454.2 Q450.2,514 450.2,518 V524 Q450.2,528 454.2,528 H580 Z" fill="#eb6834"><title>Gibbering Mouther: Elo 949.6, -275 against the CR 2 median</title></path>
+<text x="444.2" y="525" font-size="11" fill="#52514e" text-anchor="end">−275</text>
+<text x="268" y="546" font-size="12" fill="#0b0b0b" text-anchor="end">Killer Whale <tspan fill="#898781">CR 3</tspan></text>
+<path d="M580,535 H453.6 Q449.6,535 449.6,539 V545 Q449.6,549 453.6,549 H580 Z" fill="#eb6834"><title>Killer Whale: Elo 1164.8, -277 against the CR 3 median</title></path>
+<text x="443.6" y="546" font-size="11" fill="#52514e" text-anchor="end">−277</text>
+<text x="268" y="567" font-size="12" fill="#0b0b0b" text-anchor="end">Ochre Jelly <tspan fill="#898781">CR 2</tspan></text>
+<path d="M580,556 H451.6 Q447.6,556 447.6,560 V566 Q447.6,570 451.6,570 H580 Z" fill="#eb6834"><title>Ochre Jelly: Elo 943.9, -281 against the CR 2 median</title></path>
+<text x="441.6" y="567" font-size="11" fill="#52514e" text-anchor="end">−281</text>
+<text x="268" y="588" font-size="12" fill="#0b0b0b" text-anchor="end">Crocodile <tspan fill="#898781">CR 1/2</tspan></text>
+<path d="M580,577 H450.3 Q446.3,577 446.3,581 V587 Q446.3,591 450.3,591 H580 Z" fill="#eb6834"><title>Crocodile: Elo 514.4, -284 against the CR 1/2 median</title></path>
+<text x="440.3" y="588" font-size="11" fill="#52514e" text-anchor="end">−284</text>
+<text x="268" y="609" font-size="12" fill="#0b0b0b" text-anchor="end">Mastiff <tspan fill="#898781">CR 1/8</tspan></text>
+<path d="M580,598 H449.5 Q445.5,598 445.5,602 V608 Q445.5,612 449.5,612 H580 Z" fill="#eb6834"><title>Mastiff: Elo 99.5, -286 against the CR 1/8 median</title></path>
+<text x="439.5" y="609" font-size="11" fill="#52514e" text-anchor="end">−286</text>
+<text x="268" y="630" font-size="12" fill="#0b0b0b" text-anchor="end">Aboleth <tspan fill="#898781">CR 10</tspan></text>
+<path d="M580,619 H447.1 Q443.1,619 443.1,623 V629 Q443.1,633 447.1,633 H580 Z" fill="#eb6834"><title>Aboleth: Elo 1977.4, -291 against the CR 10 median</title></path>
+<text x="437.1" y="630" font-size="11" fill="#52514e" text-anchor="end">−291</text>
+<text x="268" y="651" font-size="12" fill="#0b0b0b" text-anchor="end">Animated Rug of Smothering <tspan fill="#898781">CR 2</tspan></text>
+<path d="M580,640 H445.1 Q441.1,640 441.1,644 V650 Q441.1,654 445.1,654 H580 Z" fill="#eb6834"><title>Animated Rug of Smothering: Elo 930.3, -295 against the CR 2 median</title></path>
+<text x="435.1" y="651" font-size="11" fill="#52514e" text-anchor="end">−295</text>
+<text x="268" y="672" font-size="12" fill="#0b0b0b" text-anchor="end">Black Pudding <tspan fill="#898781">CR 4</tspan></text>
+<path d="M580,661 H402.6 Q398.6,661 398.6,665 V671 Q398.6,675 402.6,675 H580 Z" fill="#eb6834"><title>Black Pudding: Elo 1233.9, -385 against the CR 4 median</title></path>
+<text x="392.6" y="672" font-size="11" fill="#52514e" text-anchor="end">−385</text>
+<text x="268" y="693" font-size="12" fill="#0b0b0b" text-anchor="end">Frog <tspan fill="#898781">CR 0</tspan></text>
+<path d="M580,682 H398.1 Q394.1,682 394.1,686 V692 Q394.1,696 398.1,696 H580 Z" fill="#eb6834"><title>Frog: Elo -784.3, -395 against the CR 0 median</title></path>
+<text x="388.1" y="693" font-size="11" fill="#52514e" text-anchor="end">−395</text>
+<text x="268" y="714" font-size="12" fill="#0b0b0b" text-anchor="end">Marilith <tspan fill="#898781">CR 16</tspan></text>
+<path d="M580,703 H390.9 Q386.9,703 386.9,707 V713 Q386.9,717 390.9,717 H580 Z" fill="#eb6834"><title>Marilith: Elo 2226.5, -410 against the CR 16 median</title></path>
+<text x="380.9" y="714" font-size="11" fill="#52514e" text-anchor="end">−410</text>
+<text x="268" y="735" font-size="12" fill="#0b0b0b" text-anchor="end">Rat <tspan fill="#898781">CR 0</tspan></text>
+<path d="M580,724 H386.3 Q382.3,724 382.3,728 V734 Q382.3,738 386.3,738 H580 Z" fill="#eb6834"><title>Rat: Elo -809.3, -420 against the CR 0 median</title></path>
+<text x="376.3" y="735" font-size="11" fill="#52514e" text-anchor="end">−420</text>
+<text x="268" y="756" font-size="12" fill="#0b0b0b" text-anchor="end">Giant Shark <tspan fill="#898781">CR 5</tspan></text>
+<path d="M580,745 H372.8 Q368.8,745 368.8,749 V755 Q368.8,759 372.8,759 H580 Z" fill="#eb6834"><title>Giant Shark: Elo 1343.6, -448 against the CR 5 median</title></path>
+<text x="362.8" y="756" font-size="11" fill="#52514e" text-anchor="end">−448</text>
+</svg>

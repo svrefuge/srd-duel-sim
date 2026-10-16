@@ -1,0 +1,4147 @@
+{
+ "monster": [
+  {
+   "name": "Barbarian 1 (Berserker)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 17,
+   "dex": 13,
+   "con": 15,
+   "int": 10,
+   "wis": 12,
+   "cha": 8,
+   "ac": [
+    13
+   ],
+   "hp": {
+    "average": 14,
+    "formula": "1d12 + 2"
+   },
+   "speed": {
+    "walk": 30
+   },
+   "save": {
+    "str": "+5",
+    "con": "+4"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "1",
+   "skill": {
+    "athletics": "+5"
+   },
+   "trait": [],
+   "action": [
+    {
+     "name": "Maul",
+     "entries": [
+      "{@atkr m} {@hit 5}, reach 5 ft. {@h}10 ({@damage 2d6 + 3}) Bludgeoning damage plus 2 ({@damage 1d1 + 1}) Bludgeoning damage while raging, and the target must succeed on a {@dc 13} Constitution saving throw or have the {@condition Prone} condition."
+     ]
+    },
+    {
+     "name": "Javelin",
+     "entries": [
+      "{@atkr m,r} {@hit 5}, reach 5 ft. or range 30/120 ft. {@h}6 ({@damage 1d6 + 3}) Piercing damage plus 2 ({@damage 1d1 + 1}) Piercing damage while raging."
+     ]
+    }
+   ],
+   "bonus": [
+    {
+     "name": "Rage (2/Day)",
+     "entries": [
+      "The character enters a rage that lasts for 10 minutes. While raging, it has resistance to Bludgeoning, Piercing, and Slashing damage."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Barbarian 5 (Berserker)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 18,
+   "dex": 13,
+   "con": 16,
+   "int": 10,
+   "wis": 12,
+   "cha": 8,
+   "ac": [
+    12
+   ],
+   "hp": {
+    "average": 55,
+    "formula": "5d12 + 15"
+   },
+   "speed": {
+    "walk": 40
+   },
+   "save": {
+    "str": "+7",
+    "con": "+6"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "5",
+   "skill": {
+    "athletics": "+7"
+   },
+   "trait": [],
+   "action": [
+    {
+     "name": "Multiattack",
+     "entries": [
+      "The character makes two attacks, using Maul or Javelin in any combination."
+     ]
+    },
+    {
+     "name": "Maul",
+     "entries": [
+      "{@atkr m} {@hit 7}, reach 5 ft. {@h}11 ({@damage 2d6 + 4}) Bludgeoning damage plus 2 ({@damage 1d1 + 1}) Bludgeoning damage while raging, and the target must succeed on a {@dc 15} Constitution saving throw or have the {@condition Prone} condition."
+     ]
+    },
+    {
+     "name": "Javelin",
+     "entries": [
+      "{@atkr m,r} {@hit 7}, reach 5 ft. or range 30/120 ft. {@h}7 ({@damage 1d6 + 4}) Piercing damage plus 2 ({@damage 1d1 + 1}) Piercing damage while raging."
+     ]
+    }
+   ],
+   "bonus": [
+    {
+     "name": "Rage (3/Day)",
+     "entries": [
+      "The character enters a rage that lasts for 10 minutes. While raging, it has resistance to Bludgeoning, Piercing, and Slashing damage."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Barbarian 11 (Berserker)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 20,
+   "dex": 13,
+   "con": 16,
+   "int": 10,
+   "wis": 12,
+   "cha": 8,
+   "ac": [
+    12
+   ],
+   "hp": {
+    "average": 115,
+    "formula": "11d12 + 33"
+   },
+   "speed": {
+    "walk": 40
+   },
+   "save": {
+    "str": "+9",
+    "con": "+7"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "11",
+   "skill": {
+    "athletics": "+9"
+   },
+   "conditionImmune": [
+    "charmed",
+    "frightened"
+   ],
+   "trait": [
+    {
+     "name": "Relentless Rage",
+     "entries": [
+      "If the character drops to 0 Hit Points while raging and doesn't die outright, it can make a DC 10 Constitution saving throw (DC 5 higher each later use). On a success, its Hit Points instead change to twice its Barbarian level. Modelled as one reset to 39 Hit Points."
+     ]
+    }
+   ],
+   "action": [
+    {
+     "name": "Multiattack",
+     "entries": [
+      "The character makes two attacks, using Maul or Javelin in any combination."
+     ]
+    },
+    {
+     "name": "Maul",
+     "entries": [
+      "{@atkr m} {@hit 9}, reach 5 ft. {@h}12 ({@damage 2d6 + 5}) Bludgeoning damage plus 3 ({@damage 1d1 + 2}) Bludgeoning damage while raging, and the target must succeed on a {@dc 17} Constitution saving throw or have the {@condition Prone} condition."
+     ]
+    },
+    {
+     "name": "Javelin",
+     "entries": [
+      "{@atkr m,r} {@hit 9}, reach 5 ft. or range 30/120 ft. {@h}8 ({@damage 1d6 + 5}) Piercing damage plus 3 ({@damage 1d1 + 2}) Piercing damage while raging."
+     ]
+    }
+   ],
+   "bonus": [
+    {
+     "name": "Rage (4/Day)",
+     "entries": [
+      "The character enters a rage that lasts for 10 minutes. While raging, it has resistance to Bludgeoning, Piercing, and Slashing damage."
+     ]
+    }
+   ],
+   "reaction": [
+    {
+     "name": "Retaliation",
+     "entries": [
+      "{@actTrigger} The character takes damage from a creature within 5 feet of it. {@actResponse} The character makes one Maul attack against that creature."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Barbarian 17 (Berserker)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 20,
+   "dex": 13,
+   "con": 18,
+   "int": 10,
+   "wis": 12,
+   "cha": 8,
+   "ac": [
+    12
+   ],
+   "hp": {
+    "average": 192,
+    "formula": "17d12 + 68"
+   },
+   "speed": {
+    "walk": 40
+   },
+   "save": {
+    "str": "+11",
+    "con": "+10"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "17",
+   "skill": {
+    "athletics": "+11"
+   },
+   "conditionImmune": [
+    "charmed",
+    "frightened"
+   ],
+   "trait": [
+    {
+     "name": "Relentless Rage",
+     "entries": [
+      "If the character drops to 0 Hit Points while raging and doesn't die outright, it can make a DC 10 Constitution saving throw (DC 5 higher each later use). On a success, its Hit Points instead change to twice its Barbarian level. Modelled as one reset to 81 Hit Points."
+     ]
+    }
+   ],
+   "action": [
+    {
+     "name": "Multiattack",
+     "entries": [
+      "The character makes two attacks, using Maul or Javelin in any combination."
+     ]
+    },
+    {
+     "name": "Maul",
+     "entries": [
+      "{@atkr m} {@hit 11}, reach 5 ft. {@h}12 ({@damage 2d6 + 5}) Bludgeoning damage plus 4 ({@damage 1d1 + 3}) Bludgeoning damage while raging, and the target must succeed on a {@dc 19} Constitution saving throw or have the {@condition Prone} condition."
+     ]
+    },
+    {
+     "name": "Javelin",
+     "entries": [
+      "{@atkr m,r} {@hit 11}, reach 5 ft. or range 30/120 ft. {@h}8 ({@damage 1d6 + 5}) Piercing damage plus 4 ({@damage 1d1 + 3}) Piercing damage while raging."
+     ]
+    }
+   ],
+   "bonus": [
+    {
+     "name": "Rage (6/Day)",
+     "entries": [
+      "The character enters a rage that lasts for 10 minutes. While raging, it has resistance to Bludgeoning, Piercing, and Slashing damage."
+     ]
+    },
+    {
+     "name": "Intimidating Presence (6/Day)",
+     "entries": [
+      "{@actSave wis} {@dc 19}, one creature within 30 feet that the character can see. {@actSaveFail} The target has the {@condition Frightened} condition for 1 minute. At the end of each of its turns, the target repeats the save, ending the effect on itself on a success."
+     ]
+    }
+   ],
+   "reaction": [
+    {
+     "name": "Retaliation",
+     "entries": [
+      "{@actTrigger} The character takes damage from a creature within 5 feet of it. {@actResponse} The character makes one Maul attack against that creature."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bard 1 (Lore)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 8,
+   "dex": 13,
+   "con": 15,
+   "int": 10,
+   "wis": 12,
+   "cha": 17,
+   "ac": [
+    12
+   ],
+   "hp": {
+    "average": 10,
+    "formula": "1d8 + 2"
+   },
+   "speed": {
+    "walk": 30
+   },
+   "save": {
+    "dex": "+3",
+    "cha": "+5"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "1",
+   "spellcasting": [
+    {
+     "name": "Spellcasting",
+     "type": "spellcasting",
+     "ability": "cha",
+     "spells": {
+      "0": {
+       "spells": [
+        "{@spell Vicious Mockery}"
+       ]
+      },
+      "1": {
+       "slots": 2,
+       "spells": [
+        "{@spell Dissonant Whispers}",
+        "{@spell Healing Word}",
+        "{@spell Hideous Laughter}",
+        "{@spell Thunderwave}",
+        "{@spell Sleep}"
+       ]
+      }
+     },
+     "headerEntries": [
+      "The character is a 1st-level spellcaster. Its spellcasting ability is Charisma (spell save {@dc 13}, {@hit 5} to hit with spell attacks). It has the following bard spells prepared:"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bard 5 (Lore)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 8,
+   "dex": 13,
+   "con": 16,
+   "int": 10,
+   "wis": 12,
+   "cha": 18,
+   "ac": [
+    13
+   ],
+   "hp": {
+    "average": 43,
+    "formula": "5d8 + 15"
+   },
+   "speed": {
+    "walk": 30
+   },
+   "save": {
+    "dex": "+4",
+    "cha": "+7"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "5",
+   "spellcasting": [
+    {
+     "name": "Spellcasting",
+     "type": "spellcasting",
+     "ability": "cha",
+     "spells": {
+      "0": {
+       "spells": [
+        "{@spell Vicious Mockery}"
+       ]
+      },
+      "1": {
+       "slots": 4,
+       "spells": [
+        "{@spell Dissonant Whispers}",
+        "{@spell Healing Word}",
+        "{@spell Hideous Laughter}"
+       ]
+      },
+      "2": {
+       "slots": 3,
+       "spells": [
+        "{@spell Hold Person}",
+        "{@spell Shatter}",
+        "{@spell Invisibility}"
+       ]
+      },
+      "3": {
+       "slots": 2,
+       "spells": [
+        "{@spell Hypnotic Pattern}",
+        "{@spell Fear}"
+       ]
+      }
+     },
+     "headerEntries": [
+      "The character is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save {@dc 15}, {@hit 7} to hit with spell attacks). It has the following bard spells prepared:"
+     ]
+    }
+   ],
+   "reaction": [
+    {
+     "name": "Cutting Words (4/Day)",
+     "entries": [
+      "{@actTrigger} The character is hit by an attack roll. {@actResponse} The character adds 4 to its AC against that attack, possibly causing it to miss."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bard 11 (Lore)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 8,
+   "dex": 13,
+   "con": 16,
+   "int": 10,
+   "wis": 12,
+   "cha": 20,
+   "ac": [
+    13
+   ],
+   "hp": {
+    "average": 91,
+    "formula": "11d8 + 33"
+   },
+   "speed": {
+    "walk": 30
+   },
+   "save": {
+    "dex": "+5",
+    "cha": "+9"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "11",
+   "spellcasting": [
+    {
+     "name": "Spellcasting",
+     "type": "spellcasting",
+     "ability": "cha",
+     "spells": {
+      "0": {
+       "spells": [
+        "{@spell Vicious Mockery}"
+       ]
+      },
+      "1": {
+       "slots": 4,
+       "spells": [
+        "{@spell Dissonant Whispers}",
+        "{@spell Healing Word}",
+        "{@spell Hideous Laughter}"
+       ]
+      },
+      "2": {
+       "slots": 3,
+       "spells": [
+        "{@spell Hold Person}",
+        "{@spell Shatter}",
+        "{@spell Invisibility}"
+       ]
+      },
+      "3": {
+       "slots": 3,
+       "spells": [
+        "{@spell Hypnotic Pattern}",
+        "{@spell Fear}",
+        "{@spell Fireball}",
+        "{@spell Counterspell}"
+       ]
+      },
+      "4": {
+       "slots": 3,
+       "spells": [
+        "{@spell Greater Invisibility}",
+        "{@spell Dimension Door}",
+        "{@spell Confusion}"
+       ]
+      },
+      "5": {
+       "slots": 2,
+       "spells": [
+        "{@spell Hold Monster}",
+        "{@spell Cone of Cold}",
+        "{@spell Mass Cure Wounds}"
+       ]
+      },
+      "6": {
+       "slots": 1,
+       "spells": [
+        "{@spell Chain Lightning}",
+        "{@spell Disintegrate}",
+        "{@spell Eyebite}"
+       ]
+      }
+     },
+     "headerEntries": [
+      "The character is an 11th-level spellcaster. Its spellcasting ability is Charisma (spell save {@dc 17}, {@hit 9} to hit with spell attacks). It has the following bard spells prepared:"
+     ]
+    }
+   ],
+   "reaction": [
+    {
+     "name": "Cutting Words (5/Day)",
+     "entries": [
+      "{@actTrigger} The character is hit by an attack roll. {@actResponse} The character adds 5 to its AC against that attack, possibly causing it to miss."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bard 17 (Lore)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 8,
+   "dex": 13,
+   "con": 18,
+   "int": 10,
+   "wis": 12,
+   "cha": 20,
+   "ac": [
+    13
+   ],
+   "hp": {
+    "average": 156,
+    "formula": "17d8 + 68"
+   },
+   "speed": {
+    "walk": 30
+   },
+   "save": {
+    "dex": "+7",
+    "cha": "+11"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "17",
+   "spellcasting": [
+    {
+     "name": "Spellcasting",
+     "type": "spellcasting",
+     "ability": "cha",
+     "spells": {
+      "0": {
+       "spells": [
+        "{@spell Vicious Mockery}"
+       ]
+      },
+      "1": {
+       "slots": 4,
+       "spells": [
+        "{@spell Dissonant Whispers}",
+        "{@spell Healing Word}",
+        "{@spell Hideous Laughter}"
+       ]
+      },
+      "2": {
+       "slots": 3,
+       "spells": [
+        "{@spell Hold Person}",
+        "{@spell Shatter}",
+        "{@spell Invisibility}"
+       ]
+      },
+      "3": {
+       "slots": 3,
+       "spells": [
+        "{@spell Hypnotic Pattern}",
+        "{@spell Fear}",
+        "{@spell Fireball}",
+        "{@spell Counterspell}"
+       ]
+      },
+      "4": {
+       "slots": 3,
+       "spells": [
+        "{@spell Greater Invisibility}",
+        "{@spell Dimension Door}",
+        "{@spell Confusion}"
+       ]
+      },
+      "5": {
+       "slots": 2,
+       "spells": [
+        "{@spell Hold Monster}",
+        "{@spell Cone of Cold}",
+        "{@spell Mass Cure Wounds}"
+       ]
+      },
+      "6": {
+       "slots": 1,
+       "spells": [
+        "{@spell Chain Lightning}",
+        "{@spell Disintegrate}",
+        "{@spell Eyebite}"
+       ]
+      },
+      "7": {
+       "slots": 1,
+       "spells": [
+        "{@spell Finger of Death}"
+       ]
+      },
+      "8": {
+       "slots": 1,
+       "spells": [
+        "{@spell Sunburst}",
+        "{@spell Power Word Stun}"
+       ]
+      },
+      "9": {
+       "slots": 1,
+       "spells": [
+        "{@spell Meteor Swarm}",
+        "{@spell Power Word Kill}"
+       ]
+      }
+     },
+     "headerEntries": [
+      "The character is a 17th-level spellcaster. Its spellcasting ability is Charisma (spell save {@dc 19}, {@hit 11} to hit with spell attacks). It has the following bard spells prepared:"
+     ]
+    }
+   ],
+   "reaction": [
+    {
+     "name": "Cutting Words (5/Day)",
+     "entries": [
+      "{@actTrigger} The character is hit by an attack roll. {@actResponse} The character adds 6 to its AC against that attack, possibly causing it to miss."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Cleric 1 (Life)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 12,
+   "dex": 13,
+   "con": 15,
+   "int": 10,
+   "wis": 17,
+   "cha": 8,
+   "ac": [
+    16
+   ],
+   "hp": {
+    "average": 10,
+    "formula": "1d8 + 2"
+   },
+   "speed": {
+    "walk": 30
+   },
+   "save": {
+    "wis": "+5",
+    "cha": "+1"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "1",
+   "spellcasting": [
+    {
+     "name": "Spellcasting",
+     "type": "spellcasting",
+     "ability": "wis",
+     "spells": {
+      "0": {
+       "spells": [
+        "{@spell Sacred Flame}"
+       ]
+      },
+      "1": {
+       "slots": 2,
+       "spells": [
+        "{@spell Bless}",
+        "{@spell Cure Wounds}",
+        "{@spell Healing Word}",
+        "{@spell Guiding Bolt}",
+        "{@spell Inflict Wounds}",
+        "{@spell Sanctuary}"
+       ]
+      }
+     },
+     "headerEntries": [
+      "The character is a 1st-level spellcaster. Its spellcasting ability is Wisdom (spell save {@dc 13}, {@hit 5} to hit with spell attacks). It has the following cleric spells prepared:"
+     ]
+    }
+   ],
+   "action": [
+    {
+     "name": "Mace",
+     "entries": [
+      "{@atkr m} {@hit 3}, reach 5 ft. {@h}4 ({@damage 1d6 + 1}) Bludgeoning damage."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Cleric 5 (Life)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 12,
+   "dex": 13,
+   "con": 16,
+   "int": 10,
+   "wis": 18,
+   "cha": 8,
+   "ac": [
+    18
+   ],
+   "hp": {
+    "average": 48,
+    "formula": "5d8 + 15"
+   },
+   "speed": {
+    "walk": 30
+   },
+   "save": {
+    "wis": "+7",
+    "cha": "+2"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "5",
+   "spellcasting": [
+    {
+     "name": "Spellcasting",
+     "type": "spellcasting",
+     "ability": "wis",
+     "spells": {
+      "0": {
+       "spells": [
+        "{@spell Sacred Flame}"
+       ]
+      },
+      "1": {
+       "slots": 4,
+       "spells": [
+        "{@spell Bless}",
+        "{@spell Cure Wounds}",
+        "{@spell Healing Word}",
+        "{@spell Guiding Bolt}",
+        "{@spell Inflict Wounds}",
+        "{@spell Sanctuary}"
+       ]
+      },
+      "2": {
+       "slots": 2,
+       "spells": [
+        "{@spell Spiritual Weapon}",
+        "{@spell Hold Person}",
+        "{@spell Lesser Restoration}",
+        "{@spell Inflict Wounds} (level 2 version)"
+       ]
+      },
+      "3": {
+       "slots": 2,
+       "spells": [
+        "{@spell Spirit Guardians}",
+        "{@spell Dispel Magic}"
+       ]
+      }
+     },
+     "headerEntries": [
+      "The character is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save {@dc 15}, {@hit 7} to hit with spell attacks). It has the following cleric spells prepared:"
+     ]
+    }
+   ],
+   "action": [
+    {
+     "name": "Mace",
+     "entries": [
+      "{@atkr m} {@hit 4}, reach 5 ft. {@h}4 ({@damage 1d6 + 1}) Bludgeoning damage."
+     ]
+    },
+    {
+     "name": "Divine Spark (2/Day)",
+     "entries": [
+      "{@actSave con} {@dc 15}, one creature within 30 feet that the character can see. {@actSaveFail} 8 ({@damage 1d8 + 4}) Radiant damage. {@actSaveSuccess} Half damage."
+     ]
+    },
+    {
+     "name": "Cure Wounds",
+     "entries": [
+      "The character regains 16 ({@dice 2d8 + 7}) Hit Points."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Cleric 11 (Life)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 12,
+   "dex": 13,
+   "con": 16,
+   "int": 10,
+   "wis": 20,
+   "cha": 8,
+   "ac": [
+    18
+   ],
+   "hp": {
+    "average": 96,
+    "formula": "11d8 + 33"
+   },
+   "speed": {
+    "walk": 30
+   },
+   "save": {
+    "wis": "+9",
+    "cha": "+3"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "11",
+   "spellcasting": [
+    {
+     "name": "Spellcasting",
+     "type": "spellcasting",
+     "ability": "wis",
+     "spells": {
+      "0": {
+       "spells": [
+        "{@spell Sacred Flame}"
+       ]
+      },
+      "1": {
+       "slots": 4,
+       "spells": [
+        "{@spell Bless}",
+        "{@spell Cure Wounds}",
+        "{@spell Healing Word}",
+        "{@spell Guiding Bolt}",
+        "{@spell Inflict Wounds}",
+        "{@spell Sanctuary}"
+       ]
+      },
+      "2": {
+       "slots": 2,
+       "spells": [
+        "{@spell Spiritual Weapon}",
+        "{@spell Hold Person}",
+        "{@spell Lesser Restoration}",
+        "{@spell Inflict Wounds} (level 2 version)"
+       ]
+      },
+      "3": {
+       "slots": 3,
+       "spells": [
+        "{@spell Spirit Guardians}",
+        "{@spell Dispel Magic}"
+       ]
+      },
+      "4": {
+       "slots": 3,
+       "spells": [
+        "{@spell Spirit Guardians} (level 4 version)",
+        "{@spell Guiding Bolt} (level 4 version)"
+       ]
+      },
+      "5": {
+       "slots": 2,
+       "spells": [
+        "{@spell Flame Strike}",
+        "{@spell Insect Plague}",
+        "{@spell Mass Cure Wounds}",
+        "{@spell Greater Restoration}"
+       ]
+      },
+      "6": {
+       "slots": 1,
+       "spells": [
+        "{@spell Harm}",
+        "{@spell Blade Barrier}"
+       ]
+      }
+     },
+     "headerEntries": [
+      "The character is an 11th-level spellcaster. Its spellcasting ability is Wisdom (spell save {@dc 17}, {@hit 9} to hit with spell attacks). It has the following cleric spells prepared:"
+     ]
+    }
+   ],
+   "action": [
+    {
+     "name": "Mace",
+     "entries": [
+      "{@atkr m} {@hit 5}, reach 5 ft. {@h}4 ({@damage 1d6 + 1}) Bludgeoning damage."
+     ]
+    },
+    {
+     "name": "Divine Spark (3/Day)",
+     "entries": [
+      "{@actSave con} {@dc 17}, one creature within 30 feet that the character can see. {@actSaveFail} 14 ({@damage 2d8 + 5}) Radiant damage. {@actSaveSuccess} Half damage."
+     ]
+    },
+    {
+     "name": "Sacred Flame",
+     "entries": [
+      "{@actSave dex} {@dc 17}, one creature within 60 feet that the character can see. {@actSaveFail} 18 ({@damage 3d8 + 5}) Radiant damage from the magical flame."
+     ]
+    },
+    {
+     "name": "Cure Wounds",
+     "entries": [
+      "The character regains 17 ({@dice 2d8 + 8}) Hit Points."
+     ]
+    },
+    {
+     "name": "Mass Cure Wounds",
+     "entries": [
+      "The character regains 34 ({@dice 5d8 + 12}) Hit Points."
+     ]
+    },
+    {
+     "name": "Heal",
+     "entries": [
+      "The character regains 78 Hit Points."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Cleric 17 (Life)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 12,
+   "dex": 13,
+   "con": 18,
+   "int": 10,
+   "wis": 20,
+   "cha": 8,
+   "ac": [
+    18
+   ],
+   "hp": {
+    "average": 161,
+    "formula": "17d8 + 68"
+   },
+   "speed": {
+    "walk": 30
+   },
+   "save": {
+    "wis": "+11",
+    "cha": "+5"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "17",
+   "spellcasting": [
+    {
+     "name": "Spellcasting",
+     "type": "spellcasting",
+     "ability": "wis",
+     "spells": {
+      "0": {
+       "spells": [
+        "{@spell Sacred Flame}"
+       ]
+      },
+      "1": {
+       "slots": 4,
+       "spells": [
+        "{@spell Bless}",
+        "{@spell Cure Wounds}",
+        "{@spell Healing Word}",
+        "{@spell Guiding Bolt}",
+        "{@spell Inflict Wounds}",
+        "{@spell Sanctuary}"
+       ]
+      },
+      "2": {
+       "slots": 2,
+       "spells": [
+        "{@spell Spiritual Weapon}",
+        "{@spell Hold Person}",
+        "{@spell Lesser Restoration}",
+        "{@spell Inflict Wounds} (level 2 version)"
+       ]
+      },
+      "3": {
+       "slots": 3,
+       "spells": [
+        "{@spell Spirit Guardians}",
+        "{@spell Dispel Magic}"
+       ]
+      },
+      "4": {
+       "slots": 3,
+       "spells": [
+        "{@spell Spirit Guardians} (level 4 version)",
+        "{@spell Guiding Bolt} (level 4 version)"
+       ]
+      },
+      "5": {
+       "slots": 2,
+       "spells": [
+        "{@spell Flame Strike}",
+        "{@spell Insect Plague}",
+        "{@spell Mass Cure Wounds}",
+        "{@spell Greater Restoration}"
+       ]
+      },
+      "6": {
+       "slots": 1,
+       "spells": [
+        "{@spell Harm}",
+        "{@spell Blade Barrier}"
+       ]
+      },
+      "7": {
+       "slots": 1,
+       "spells": [
+        "{@spell Fire Storm}"
+       ]
+      },
+      "8": {
+       "slots": 1,
+       "spells": [
+        "{@spell Sunburst}"
+       ]
+      }
+     },
+     "headerEntries": [
+      "The character is a 17th-level spellcaster. Its spellcasting ability is Wisdom (spell save {@dc 19}, {@hit 11} to hit with spell attacks). It has the following cleric spells prepared:"
+     ]
+    }
+   ],
+   "action": [
+    {
+     "name": "Mace",
+     "entries": [
+      "{@atkr m} {@hit 7}, reach 5 ft. {@h}4 ({@damage 1d6 + 1}) Bludgeoning damage."
+     ]
+    },
+    {
+     "name": "Divine Spark (3/Day)",
+     "entries": [
+      "{@actSave con} {@dc 19}, one creature within 30 feet that the character can see. {@actSaveFail} 18 ({@damage 3d8 + 5}) Radiant damage. {@actSaveSuccess} Half damage."
+     ]
+    },
+    {
+     "name": "Sacred Flame",
+     "entries": [
+      "{@actSave dex} {@dc 19}, one creature within 60 feet that the character can see. {@actSaveFail} 23 ({@damage 4d8 + 5}) Radiant damage from the magical flame."
+     ]
+    },
+    {
+     "name": "Cure Wounds",
+     "entries": [
+      "The character regains 24 Hit Points."
+     ]
+    },
+    {
+     "name": "Mass Cure Wounds",
+     "entries": [
+      "The character regains 52 Hit Points."
+     ]
+    },
+    {
+     "name": "Heal",
+     "entries": [
+      "The character regains 78 Hit Points."
+     ]
+    },
+    {
+     "name": "Mass Heal (1/Day)",
+     "entries": [
+      "The character regains 300 Hit Points."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Druid 1 (Land)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 8,
+   "dex": 13,
+   "con": 15,
+   "int": 12,
+   "wis": 17,
+   "cha": 10,
+   "ac": [
+    14
+   ],
+   "hp": {
+    "average": 10,
+    "formula": "1d8 + 2"
+   },
+   "speed": {
+    "walk": 30
+   },
+   "save": {
+    "int": "+3",
+    "wis": "+5"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "1",
+   "spellcasting": [
+    {
+     "name": "Spellcasting",
+     "type": "spellcasting",
+     "ability": "wis",
+     "spells": {
+      "0": {
+       "spells": [
+        "{@spell Starry Wisp}",
+        "{@spell Produce Flame}"
+       ]
+      },
+      "1": {
+       "slots": 2,
+       "spells": [
+        "{@spell Entangle}",
+        "{@spell Thunderwave}",
+        "{@spell Cure Wounds}",
+        "{@spell Healing Word}",
+        "{@spell Ice Knife}"
+       ]
+      }
+     },
+     "headerEntries": [
+      "The character is a 1st-level spellcaster. Its spellcasting ability is Wisdom (spell save {@dc 13}, {@hit 5} to hit with spell attacks). It has the following druid spells prepared:"
+     ]
+    }
+   ],
+   "action": []
+  },
+  {
+   "name": "Druid 5 (Land)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 8,
+   "dex": 13,
+   "con": 16,
+   "int": 12,
+   "wis": 18,
+   "cha": 10,
+   "ac": [
+    18
+   ],
+   "hp": {
+    "average": 43,
+    "formula": "5d8 + 15"
+   },
+   "speed": {
+    "walk": 30
+   },
+   "save": {
+    "int": "+4",
+    "wis": "+7"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "5",
+   "spellcasting": [
+    {
+     "name": "Spellcasting",
+     "type": "spellcasting",
+     "ability": "wis",
+     "spells": {
+      "0": {
+       "spells": [
+        "{@spell Starry Wisp}",
+        "{@spell Produce Flame}"
+       ]
+      },
+      "1": {
+       "slots": 4,
+       "spells": [
+        "{@spell Entangle}",
+        "{@spell Thunderwave}",
+        "{@spell Cure Wounds}",
+        "{@spell Healing Word}"
+       ]
+      },
+      "2": {
+       "slots": 3,
+       "spells": [
+        "{@spell Moonbeam}",
+        "{@spell Flaming Sphere}",
+        "{@spell Hold Person}"
+       ]
+      },
+      "3": {
+       "slots": 2,
+       "spells": [
+        "{@spell Call Lightning}",
+        "{@spell Fireball}",
+        "{@spell Sleet Storm}"
+       ]
+      }
+     },
+     "headerEntries": [
+      "The character is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save {@dc 15}, {@hit 7} to hit with spell attacks). It has the following druid spells prepared:"
+     ]
+    }
+   ],
+   "action": []
+  },
+  {
+   "name": "Druid 11 (Land)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 8,
+   "dex": 13,
+   "con": 16,
+   "int": 12,
+   "wis": 20,
+   "cha": 10,
+   "ac": [
+    18
+   ],
+   "hp": {
+    "average": 91,
+    "formula": "11d8 + 33"
+   },
+   "speed": {
+    "walk": 30
+   },
+   "save": {
+    "int": "+5",
+    "wis": "+9"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "11",
+   "resist": [
+    "fire"
+   ],
+   "conditionImmune": [
+    "poisoned"
+   ],
+   "spellcasting": [
+    {
+     "name": "Spellcasting",
+     "type": "spellcasting",
+     "ability": "wis",
+     "spells": {
+      "0": {
+       "spells": [
+        "{@spell Starry Wisp}",
+        "{@spell Produce Flame}"
+       ]
+      },
+      "1": {
+       "slots": 4,
+       "spells": [
+        "{@spell Entangle}",
+        "{@spell Thunderwave}",
+        "{@spell Cure Wounds}",
+        "{@spell Healing Word}"
+       ]
+      },
+      "2": {
+       "slots": 3,
+       "spells": [
+        "{@spell Moonbeam}",
+        "{@spell Flaming Sphere}",
+        "{@spell Hold Person}"
+       ]
+      },
+      "3": {
+       "slots": 3,
+       "spells": [
+        "{@spell Call Lightning}",
+        "{@spell Fireball}"
+       ]
+      },
+      "4": {
+       "slots": 3,
+       "spells": [
+        "{@spell Ice Storm}",
+        "{@spell Blight}",
+        "{@spell Wall of Fire}"
+       ]
+      },
+      "5": {
+       "slots": 2,
+       "spells": [
+        "{@spell Insect Plague}",
+        "{@spell Mass Cure Wounds}",
+        "{@spell Cone of Cold}"
+       ]
+      },
+      "6": {
+       "slots": 1,
+       "spells": [
+        "{@spell Sunbeam}",
+        "{@spell Wall of Thorns}"
+       ]
+      }
+     },
+     "headerEntries": [
+      "The character is an 11th-level spellcaster. Its spellcasting ability is Wisdom (spell save {@dc 17}, {@hit 9} to hit with spell attacks). It has the following druid spells prepared:"
+     ]
+    }
+   ],
+   "action": [
+    {
+     "name": "Starry Wisp",
+     "entries": [
+      "{@atkr rs} {@hit 9}, range 60 ft. {@h}18 ({@damage 3d8 + 5}) Radiant damage."
+     ]
+    },
+    {
+     "name": "Heal",
+     "entries": [
+      "The character regains 70 Hit Points."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Druid 17 (Land)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 8,
+   "dex": 13,
+   "con": 18,
+   "int": 12,
+   "wis": 20,
+   "cha": 10,
+   "ac": [
+    18
+   ],
+   "hp": {
+    "average": 156,
+    "formula": "17d8 + 68"
+   },
+   "speed": {
+    "walk": 30
+   },
+   "save": {
+    "int": "+7",
+    "wis": "+11"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "17",
+   "resist": [
+    "fire"
+   ],
+   "conditionImmune": [
+    "poisoned"
+   ],
+   "spellcasting": [
+    {
+     "name": "Spellcasting",
+     "type": "spellcasting",
+     "ability": "wis",
+     "spells": {
+      "0": {
+       "spells": [
+        "{@spell Starry Wisp}",
+        "{@spell Produce Flame}"
+       ]
+      },
+      "1": {
+       "slots": 4,
+       "spells": [
+        "{@spell Entangle}",
+        "{@spell Thunderwave}",
+        "{@spell Cure Wounds}",
+        "{@spell Healing Word}"
+       ]
+      },
+      "2": {
+       "slots": 3,
+       "spells": [
+        "{@spell Moonbeam}",
+        "{@spell Flaming Sphere}",
+        "{@spell Hold Person}"
+       ]
+      },
+      "3": {
+       "slots": 3,
+       "spells": [
+        "{@spell Call Lightning}",
+        "{@spell Fireball}"
+       ]
+      },
+      "4": {
+       "slots": 3,
+       "spells": [
+        "{@spell Ice Storm}",
+        "{@spell Blight}",
+        "{@spell Wall of Fire}"
+       ]
+      },
+      "5": {
+       "slots": 2,
+       "spells": [
+        "{@spell Insect Plague}",
+        "{@spell Mass Cure Wounds}",
+        "{@spell Cone of Cold}"
+       ]
+      },
+      "6": {
+       "slots": 1,
+       "spells": [
+        "{@spell Sunbeam}",
+        "{@spell Wall of Thorns}"
+       ]
+      },
+      "7": {
+       "slots": 1,
+       "spells": [
+        "{@spell Fire Storm}"
+       ]
+      },
+      "8": {
+       "slots": 1,
+       "spells": [
+        "{@spell Sunburst}"
+       ]
+      },
+      "9": {
+       "slots": 1,
+       "spells": [
+        "{@spell Storm of Vengeance}"
+       ]
+      }
+     },
+     "headerEntries": [
+      "The character is a 17th-level spellcaster. Its spellcasting ability is Wisdom (spell save {@dc 19}, {@hit 11} to hit with spell attacks). It has the following druid spells prepared:"
+     ]
+    }
+   ],
+   "action": [
+    {
+     "name": "Starry Wisp",
+     "entries": [
+      "{@atkr rs} {@hit 11}, range 60 ft. {@h}23 ({@damage 4d8 + 5}) Radiant damage."
+     ]
+    },
+    {
+     "name": "Heal",
+     "entries": [
+      "The character regains 70 Hit Points."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Fighter 1 (Champion)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 17,
+   "dex": 13,
+   "con": 15,
+   "int": 10,
+   "wis": 12,
+   "cha": 8,
+   "ac": [
+    17
+   ],
+   "hp": {
+    "average": 12,
+    "formula": "1d10 + 2"
+   },
+   "speed": {
+    "walk": 30
+   },
+   "save": {
+    "str": "+5",
+    "con": "+4"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "1",
+   "skill": {
+    "athletics": "+5"
+   },
+   "trait": [],
+   "action": [
+    {
+     "name": "Maul",
+     "entries": [
+      "{@atkr m} {@hit 5}, reach 5 ft. {@h}10 ({@damage 2d6 + 3}) Bludgeoning damage, and the target must succeed on a {@dc 13} Constitution saving throw or have the {@condition Prone} condition."
+     ]
+    },
+    {
+     "name": "Javelin",
+     "entries": [
+      "{@atkr m,r} {@hit 5}, reach 5 ft. or range 30/120 ft. {@h}6 ({@damage 1d6 + 3}) Piercing damage."
+     ]
+    }
+   ],
+   "bonus": [
+    {
+     "name": "Second Wind (2/Day)",
+     "entries": [
+      "The character regains 6 ({@dice 1d10 + 1}) Hit Points."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Fighter 5 (Champion)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 18,
+   "dex": 13,
+   "con": 16,
+   "int": 10,
+   "wis": 12,
+   "cha": 8,
+   "ac": [
+    19
+   ],
+   "hp": {
+    "average": 49,
+    "formula": "5d10 + 15"
+   },
+   "speed": {
+    "walk": 30
+   },
+   "save": {
+    "str": "+7",
+    "con": "+6"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "5",
+   "skill": {
+    "athletics": "+7"
+   },
+   "trait": [],
+   "action": [
+    {
+     "name": "Multiattack",
+     "entries": [
+      "The character makes two attacks, using Maul or Javelin in any combination."
+     ]
+    },
+    {
+     "name": "Maul",
+     "entries": [
+      "{@atkr m} {@hit 7}, reach 5 ft. {@h}11 ({@damage 2d6 + 4}) Bludgeoning damage, and the target must succeed on a {@dc 15} Constitution saving throw or have the {@condition Prone} condition."
+     ]
+    },
+    {
+     "name": "Javelin",
+     "entries": [
+      "{@atkr m,r} {@hit 7}, reach 5 ft. or range 30/120 ft. {@h}7 ({@damage 1d6 + 4}) Piercing damage."
+     ]
+    }
+   ],
+   "bonus": [
+    {
+     "name": "Second Wind (3/Day)",
+     "entries": [
+      "The character regains 10 ({@dice 1d10 + 5}) Hit Points."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Fighter 11 (Champion)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 20,
+   "dex": 13,
+   "con": 18,
+   "int": 10,
+   "wis": 12,
+   "cha": 8,
+   "ac": [
+    19
+   ],
+   "hp": {
+    "average": 114,
+    "formula": "11d10 + 44"
+   },
+   "speed": {
+    "walk": 30
+   },
+   "save": {
+    "str": "+9",
+    "con": "+8"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "11",
+   "skill": {
+    "athletics": "+9"
+   },
+   "trait": [
+    {
+     "name": "Indomitable",
+     "entries": [
+      "Written as Legendary Resistance (1/Day): if the character fails a saving throw, it can choose to succeed instead."
+     ]
+    }
+   ],
+   "action": [
+    {
+     "name": "Multiattack",
+     "entries": [
+      "The character makes three attacks, using Maul or Javelin in any combination."
+     ]
+    },
+    {
+     "name": "Maul",
+     "entries": [
+      "{@atkr m} {@hit 12}, reach 5 ft. {@h}13 ({@damage 2d6 + 6}) Bludgeoning damage, and the target must succeed on a {@dc 17} Constitution saving throw or have the {@condition Prone} condition."
+     ]
+    },
+    {
+     "name": "Javelin",
+     "entries": [
+      "{@atkr m,r} {@hit 12}, reach 5 ft. or range 30/120 ft. {@h}8 ({@damage 1d6 + 5}) Piercing damage."
+     ]
+    }
+   ],
+   "bonus": [
+    {
+     "name": "Second Wind (4/Day)",
+     "entries": [
+      "The character regains 16 ({@dice 1d10 + 11}) Hit Points."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Fighter 17 (Champion)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 20,
+   "dex": 13,
+   "con": 20,
+   "int": 10,
+   "wis": 12,
+   "cha": 8,
+   "ac": [
+    19
+   ],
+   "hp": {
+    "average": 191,
+    "formula": "17d10 + 85"
+   },
+   "speed": {
+    "walk": 30
+   },
+   "save": {
+    "str": "+11",
+    "con": "+11"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "17",
+   "skill": {
+    "athletics": "+11"
+   },
+   "trait": [
+    {
+     "name": "Indomitable",
+     "entries": [
+      "Written as Legendary Resistance (3/Day): if the character fails a saving throw, it can choose to succeed instead."
+     ]
+    }
+   ],
+   "action": [
+    {
+     "name": "Multiattack",
+     "entries": [
+      "The character makes three attacks, using Maul or Javelin in any combination."
+     ]
+    },
+    {
+     "name": "Maul",
+     "entries": [
+      "{@atkr m} {@hit 14}, reach 5 ft. {@h}14 ({@damage 2d6 + 7}) Bludgeoning damage, and the target must succeed on a {@dc 19} Constitution saving throw or have the {@condition Prone} condition."
+     ]
+    },
+    {
+     "name": "Javelin",
+     "entries": [
+      "{@atkr m,r} {@hit 14}, reach 5 ft. or range 30/120 ft. {@h}8 ({@damage 1d6 + 5}) Piercing damage."
+     ]
+    }
+   ],
+   "bonus": [
+    {
+     "name": "Second Wind (4/Day)",
+     "entries": [
+      "The character regains 22 ({@dice 1d10 + 17}) Hit Points."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Monk 1 (Open Hand)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 12,
+   "dex": 17,
+   "con": 13,
+   "int": 10,
+   "wis": 15,
+   "cha": 8,
+   "ac": [
+    15
+   ],
+   "hp": {
+    "average": 9,
+    "formula": "1d8 + 1"
+   },
+   "speed": {
+    "walk": 30
+   },
+   "save": {
+    "str": "+3",
+    "dex": "+5"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "1",
+   "skill": {
+    "acrobatics": "+5"
+   },
+   "trait": [],
+   "action": [
+    {
+     "name": "Multiattack",
+     "entries": [
+      "The character makes two Unarmed Strike attacks."
+     ]
+    },
+    {
+     "name": "Unarmed Strike",
+     "entries": [
+      "{@atkr m} {@hit 5}, reach 5 ft. {@h}6 ({@damage 1d6 + 3}) Bludgeoning damage."
+     ]
+    }
+   ],
+   "bonus": []
+  },
+  {
+   "name": "Monk 5 (Open Hand)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 12,
+   "dex": 18,
+   "con": 13,
+   "int": 10,
+   "wis": 16,
+   "cha": 8,
+   "ac": [
+    17
+   ],
+   "hp": {
+    "average": 33,
+    "formula": "5d8 + 5"
+   },
+   "speed": {
+    "walk": 40
+   },
+   "save": {
+    "str": "+4",
+    "dex": "+7"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "5",
+   "skill": {
+    "acrobatics": "+7"
+   },
+   "trait": [],
+   "action": [
+    {
+     "name": "Multiattack",
+     "entries": [
+      "The character makes three Unarmed Strike attacks. It can replace one attack with a use of Stunning Strike."
+     ]
+    },
+    {
+     "name": "Unarmed Strike",
+     "entries": [
+      "{@atkr m} {@hit 7}, reach 5 ft. {@h}8 ({@damage 1d8 + 4}) Bludgeoning damage."
+     ]
+    },
+    {
+     "name": "Stunning Strike (3/Day)",
+     "entries": [
+      "{@atkr m} {@hit 7}, reach 5 ft. {@h}8 ({@damage 1d8 + 4}) Bludgeoning damage, and the target must succeed on a {@dc 14} Constitution saving throw or have the {@condition Stunned} condition until the start of the character's next turn."
+     ]
+    },
+    {
+     "name": "Flurry Strike",
+     "entries": [
+      "{@atkr m} {@hit 7}, reach 5 ft. {@h}8 ({@damage 1d8 + 4}) Bludgeoning damage, and the target must succeed on a {@dc 14} Dexterity saving throw or have the {@condition Prone} condition."
+     ]
+    }
+   ],
+   "bonus": [
+    {
+     "name": "Flurry of Blows (2/Day)",
+     "entries": [
+      "The character takes the Dash action, or it makes one Flurry Strike attack."
+     ]
+    }
+   ],
+   "reaction": [
+    {
+     "name": "Deflect Attacks",
+     "entries": [
+      "{@actTrigger} The character is hit by an attack roll from an attacker it can see. {@actResponse} The character reduces the damage to 0."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Monk 11 (Open Hand)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 12,
+   "dex": 20,
+   "con": 13,
+   "int": 10,
+   "wis": 16,
+   "cha": 8,
+   "ac": [
+    18
+   ],
+   "hp": {
+    "average": 69,
+    "formula": "11d8 + 11"
+   },
+   "speed": {
+    "walk": 50
+   },
+   "save": {
+    "str": "+5",
+    "dex": "+9"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "11",
+   "skill": {
+    "acrobatics": "+9"
+   },
+   "trait": [
+    {
+     "name": "Evasion",
+     "entries": [
+      "If the character is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the character instead takes no damage if it succeeds on the save and only half damage if it fails. It can't use this trait if it has the {@condition Incapacitated} condition."
+     ]
+    }
+   ],
+   "action": [
+    {
+     "name": "Multiattack",
+     "entries": [
+      "The character makes three Unarmed Strike attacks. It can replace one attack with a use of Stunning Strike."
+     ]
+    },
+    {
+     "name": "Unarmed Strike",
+     "entries": [
+      "{@atkr m} {@hit 9}, reach 5 ft. {@h}10 ({@damage 1d10 + 5}) Force damage."
+     ]
+    },
+    {
+     "name": "Stunning Strike (6/Day)",
+     "entries": [
+      "{@atkr m} {@hit 9}, reach 5 ft. {@h}10 ({@damage 1d10 + 5}) Force damage, and the target must succeed on a {@dc 15} Constitution saving throw or have the {@condition Stunned} condition until the start of the character's next turn."
+     ]
+    },
+    {
+     "name": "Flurry Strike",
+     "entries": [
+      "{@atkr m} {@hit 9}, reach 5 ft. {@h}10 ({@damage 1d10 + 5}) Force damage, and the target must succeed on a {@dc 15} Dexterity saving throw or have the {@condition Prone} condition."
+     ]
+    }
+   ],
+   "bonus": [
+    {
+     "name": "Flurry of Blows (5/Day)",
+     "entries": [
+      "The character takes the Dash action, or it makes one Flurry Strike attack."
+     ]
+    },
+    {
+     "name": "Wholeness of Body (3/Day)",
+     "entries": [
+      "The character regains 8 ({@dice 1d10 + 3}) Hit Points."
+     ]
+    }
+   ],
+   "reaction": [
+    {
+     "name": "Deflect Attacks",
+     "entries": [
+      "{@actTrigger} The character is hit by an attack roll from an attacker it can see. {@actResponse} The character reduces the damage to 0."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Monk 17 (Open Hand)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 12,
+   "dex": 20,
+   "con": 13,
+   "int": 10,
+   "wis": 20,
+   "cha": 8,
+   "ac": [
+    20
+   ],
+   "hp": {
+    "average": 105,
+    "formula": "17d8 + 17"
+   },
+   "speed": {
+    "walk": 55
+   },
+   "save": {
+    "str": "+7",
+    "dex": "+11",
+    "con": "+7",
+    "int": "+6",
+    "wis": "+11",
+    "cha": "+5"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "17",
+   "skill": {
+    "acrobatics": "+11"
+   },
+   "trait": [
+    {
+     "name": "Evasion",
+     "entries": [
+      "If the character is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the character instead takes no damage if it succeeds on the save and only half damage if it fails. It can't use this trait if it has the {@condition Incapacitated} condition."
+     ]
+    }
+   ],
+   "action": [
+    {
+     "name": "Multiattack",
+     "entries": [
+      "The character makes three Unarmed Strike attacks. It can replace one attack with a use of Stunning Strike."
+     ]
+    },
+    {
+     "name": "Unarmed Strike",
+     "entries": [
+      "{@atkr m} {@hit 11}, reach 5 ft. {@h}11 ({@damage 1d12 + 5}) Force damage."
+     ]
+    },
+    {
+     "name": "Stunning Strike (5/Day)",
+     "entries": [
+      "{@atkr m} {@hit 11}, reach 5 ft. {@h}11 ({@damage 1d12 + 5}) Force damage, and the target must succeed on a {@dc 19} Constitution saving throw or have the {@condition Stunned} condition until the start of the character's next turn."
+     ]
+    },
+    {
+     "name": "Flurry Strike",
+     "entries": [
+      "{@atkr m} {@hit 11}, reach 5 ft. {@h}11 ({@damage 1d12 + 5}) Force damage, and the target must succeed on a {@dc 19} Dexterity saving throw or have the {@condition Prone} condition."
+     ]
+    },
+    {
+     "name": "Quivering Palm (2/Day)",
+     "entries": [
+      "{@actSave con} {@dc 19}, one creature within 5 feet. {@actSaveFail} 65 ({@damage 10d12}) Force damage. {@actSaveSuccess} Half damage."
+     ]
+    }
+   ],
+   "bonus": [
+    {
+     "name": "Flurry of Blows (4/Day)",
+     "entries": [
+      "The character takes the Dash action, or it makes one Flurry Strike attack."
+     ]
+    },
+    {
+     "name": "Wholeness of Body (5/Day)",
+     "entries": [
+      "The character regains 11 ({@dice 1d12 + 5}) Hit Points."
+     ]
+    }
+   ],
+   "reaction": [
+    {
+     "name": "Deflect Attacks",
+     "entries": [
+      "{@actTrigger} The character is hit by an attack roll from an attacker it can see. {@actResponse} The character reduces the damage to 0."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Paladin 1 (Devotion)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 17,
+   "dex": 10,
+   "con": 13,
+   "int": 8,
+   "wis": 12,
+   "cha": 15,
+   "ac": [
+    18
+   ],
+   "hp": {
+    "average": 11,
+    "formula": "1d10 + 1"
+   },
+   "speed": {
+    "walk": 30
+   },
+   "save": {
+    "wis": "+3",
+    "cha": "+4"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "1",
+   "skill": {
+    "athletics": "+5"
+   },
+   "action": [
+    {
+     "name": "Longsword",
+     "entries": [
+      "{@atkr m} {@hit 5}, reach 5 ft. {@h}7 ({@damage 1d8 + 3}) Slashing damage, and the target has Disadvantage on its next attack roll before the start of the character's next turn."
+     ]
+    },
+    {
+     "name": "Javelin",
+     "entries": [
+      "{@atkr m,r} {@hit 5}, reach 5 ft. or range 30/120 ft. {@h}6 ({@damage 1d6 + 3}) Piercing damage."
+     ]
+    },
+    {
+     "name": "Divine Smite (3/Day)",
+     "entries": [
+      "{@atkr m} {@hit 5}, reach 5 ft. {@h}7 ({@damage 1d8 + 3}) Slashing damage plus 9 ({@damage 2d8}) Radiant damage, and the target has Disadvantage on its next attack roll before the start of the character's next turn."
+     ]
+    }
+   ],
+   "bonus": [
+    {
+     "name": "Lay on Hands (1/Day)",
+     "entries": [
+      "The character regains 5 Hit Points."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Paladin 5 (Devotion)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 18,
+   "dex": 10,
+   "con": 13,
+   "int": 8,
+   "wis": 12,
+   "cha": 16,
+   "ac": [
+    21
+   ],
+   "hp": {
+    "average": 39,
+    "formula": "5d10 + 5"
+   },
+   "speed": {
+    "walk": 30
+   },
+   "save": {
+    "wis": "+4",
+    "cha": "+6"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "5",
+   "skill": {
+    "athletics": "+7"
+   },
+   "action": [
+    {
+     "name": "Multiattack",
+     "entries": [
+      "The character makes two Longsword attacks. It can replace one attack with a use of Divine Smite."
+     ]
+    },
+    {
+     "name": "Longsword",
+     "entries": [
+      "{@atkr m} {@hit 10}, reach 5 ft. {@h}8 ({@damage 1d8 + 4}) Slashing damage, and the target has Disadvantage on its next attack roll before the start of the character's next turn."
+     ]
+    },
+    {
+     "name": "Javelin",
+     "entries": [
+      "{@atkr m,r} {@hit 10}, reach 5 ft. or range 30/120 ft. {@h}7 ({@damage 1d6 + 4}) Piercing damage."
+     ]
+    },
+    {
+     "name": "Divine Smite (3/Day)",
+     "entries": [
+      "{@atkr m} {@hit 10}, reach 5 ft. {@h}8 ({@damage 1d8 + 4}) Slashing damage plus 13 ({@damage 3d8}) Radiant damage, and the target has Disadvantage on its next attack roll before the start of the character's next turn."
+     ]
+    }
+   ],
+   "bonus": [
+    {
+     "name": "Lay on Hands (2/Day)",
+     "entries": [
+      "The character regains 12 Hit Points."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Paladin 11 (Devotion)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 20,
+   "dex": 10,
+   "con": 13,
+   "int": 8,
+   "wis": 12,
+   "cha": 16,
+   "ac": [
+    21
+   ],
+   "hp": {
+    "average": 81,
+    "formula": "11d10 + 11"
+   },
+   "speed": {
+    "walk": 30
+   },
+   "save": {
+    "str": "+8",
+    "dex": "+3",
+    "con": "+4",
+    "int": "+2",
+    "wis": "+8",
+    "cha": "+10"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "11",
+   "skill": {
+    "athletics": "+9"
+   },
+   "conditionImmune": [
+    "charmed",
+    "frightened"
+   ],
+   "action": [
+    {
+     "name": "Multiattack",
+     "entries": [
+      "The character makes two Longsword attacks. It can replace one attack with a use of Divine Smite."
+     ]
+    },
+    {
+     "name": "Longsword",
+     "entries": [
+      "{@atkr m} {@hit 12}, reach 5 ft. {@h}9 ({@damage 1d8 + 5}) Slashing damage plus 4 ({@damage 1d8}) Radiant damage, and the target has Disadvantage on its next attack roll before the start of the character's next turn."
+     ]
+    },
+    {
+     "name": "Javelin",
+     "entries": [
+      "{@atkr m,r} {@hit 12}, reach 5 ft. or range 30/120 ft. {@h}8 ({@damage 1d6 + 5}) Piercing damage plus 4 ({@damage 1d8}) Radiant damage."
+     ]
+    },
+    {
+     "name": "Divine Smite (4/Day)",
+     "entries": [
+      "{@atkr m} {@hit 12}, reach 5 ft. {@h}9 ({@damage 1d8 + 5}) Slashing damage plus 4 ({@damage 1d8}) Radiant damage plus 18 ({@damage 4d8}) Radiant damage, and the target has Disadvantage on its next attack roll before the start of the character's next turn."
+     ]
+    }
+   ],
+   "bonus": [
+    {
+     "name": "Lay on Hands (2/Day)",
+     "entries": [
+      "The character regains 27 Hit Points."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Paladin 17 (Devotion)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 20,
+   "dex": 10,
+   "con": 13,
+   "int": 8,
+   "wis": 12,
+   "cha": 20,
+   "ac": [
+    21
+   ],
+   "hp": {
+    "average": 123,
+    "formula": "17d10 + 17"
+   },
+   "speed": {
+    "walk": 30
+   },
+   "save": {
+    "str": "+10",
+    "dex": "+5",
+    "con": "+6",
+    "int": "+4",
+    "wis": "+12",
+    "cha": "+16"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "17",
+   "skill": {
+    "athletics": "+11"
+   },
+   "conditionImmune": [
+    "charmed",
+    "frightened"
+   ],
+   "action": [
+    {
+     "name": "Multiattack",
+     "entries": [
+      "The character makes two Longsword attacks. It can replace one attack with a use of Divine Smite."
+     ]
+    },
+    {
+     "name": "Longsword",
+     "entries": [
+      "{@atkr m} {@hit 16}, reach 5 ft. {@h}9 ({@damage 1d8 + 5}) Slashing damage plus 4 ({@damage 1d8}) Radiant damage, and the target has Disadvantage on its next attack roll before the start of the character's next turn."
+     ]
+    },
+    {
+     "name": "Javelin",
+     "entries": [
+      "{@atkr m,r} {@hit 16}, reach 5 ft. or range 30/120 ft. {@h}8 ({@damage 1d6 + 5}) Piercing damage plus 4 ({@damage 1d8}) Radiant damage."
+     ]
+    },
+    {
+     "name": "Divine Smite (1/Day)",
+     "entries": [
+      "{@atkr m} {@hit 16}, reach 5 ft. {@h}9 ({@damage 1d8 + 5}) Slashing damage plus 4 ({@damage 1d8}) Radiant damage plus 27 ({@damage 6d8}) Radiant damage, and the target has Disadvantage on its next attack roll before the start of the character's next turn."
+     ]
+    }
+   ],
+   "bonus": [
+    {
+     "name": "Lay on Hands (2/Day)",
+     "entries": [
+      "The character regains 42 Hit Points."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Ranger 1 (Hunter)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 12,
+   "dex": 17,
+   "con": 15,
+   "int": 10,
+   "wis": 13,
+   "cha": 8,
+   "ac": [
+    15
+   ],
+   "hp": {
+    "average": 12,
+    "formula": "1d10 + 2"
+   },
+   "speed": {
+    "walk": 30
+   },
+   "save": {
+    "str": "+3",
+    "dex": "+5"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "1",
+   "skill": {
+    "acrobatics": "+5"
+   },
+   "action": [
+    {
+     "name": "Longbow",
+     "entries": [
+      "{@atkr r} {@hit 5}, range 150/600 ft. {@h}7 ({@damage 1d8 + 3}) Piercing damage plus 3 ({@damage 1d6}) Force damage, and the target's Speed decreases by 10 feet until the start of the character's next turn."
+     ]
+    },
+    {
+     "name": "Shortsword",
+     "entries": [
+      "{@atkr m} {@hit 5}, reach 5 ft. {@h}6 ({@damage 1d6 + 3}) Piercing damage plus 3 ({@damage 1d6}) Force damage."
+     ]
+    }
+   ],
+   "spellcasting": [
+    {
+     "name": "Spellcasting",
+     "type": "spellcasting",
+     "ability": "wis",
+     "spells": {
+      "1": {
+       "slots": 2,
+       "spells": [
+        "{@spell Cure Wounds}"
+       ]
+      }
+     },
+     "headerEntries": [
+      "The character is a 1st-level spellcaster. Its spellcasting ability is Wisdom (spell save {@dc 11}, {@hit 3} to hit with spell attacks). It has the following ranger spells prepared:"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Ranger 5 (Hunter)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 12,
+   "dex": 18,
+   "con": 16,
+   "int": 10,
+   "wis": 13,
+   "cha": 8,
+   "ac": [
+    16
+   ],
+   "hp": {
+    "average": 49,
+    "formula": "5d10 + 15"
+   },
+   "speed": {
+    "walk": 30
+   },
+   "save": {
+    "str": "+4",
+    "dex": "+7"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "5",
+   "skill": {
+    "acrobatics": "+7"
+   },
+   "action": [
+    {
+     "name": "Multiattack",
+     "entries": [
+      "The character makes two attacks, using Longbow or Shortsword in any combination."
+     ]
+    },
+    {
+     "name": "Longbow",
+     "entries": [
+      "{@atkr r} {@hit 9}, range 150/600 ft. {@h}8 ({@damage 1d8 + 4}) Piercing damage plus 3 ({@damage 1d6}) Force damage, and the target's Speed decreases by 10 feet until the start of the character's next turn."
+     ]
+    },
+    {
+     "name": "Shortsword",
+     "entries": [
+      "{@atkr m} {@hit 7}, reach 5 ft. {@h}7 ({@damage 1d6 + 4}) Piercing damage plus 3 ({@damage 1d6}) Force damage."
+     ]
+    }
+   ],
+   "spellcasting": [
+    {
+     "name": "Spellcasting",
+     "type": "spellcasting",
+     "ability": "wis",
+     "spells": {
+      "1": {
+       "slots": 4,
+       "spells": [
+        "{@spell Cure Wounds}"
+       ]
+      },
+      "2": {
+       "slots": 2,
+       "spells": [
+        "{@spell Cure Wounds} (level 2 version)"
+       ]
+      }
+     },
+     "headerEntries": [
+      "The character is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save {@dc 12}, {@hit 4} to hit with spell attacks). It has the following ranger spells prepared:"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Ranger 11 (Hunter)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 12,
+   "dex": 20,
+   "con": 16,
+   "int": 10,
+   "wis": 13,
+   "cha": 8,
+   "ac": [
+    17
+   ],
+   "hp": {
+    "average": 103,
+    "formula": "11d10 + 33"
+   },
+   "speed": {
+    "walk": 40
+   },
+   "save": {
+    "str": "+5",
+    "dex": "+9"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "11",
+   "skill": {
+    "acrobatics": "+9"
+   },
+   "action": [
+    {
+     "name": "Multiattack",
+     "entries": [
+      "The character makes two attacks, using Longbow or Shortsword in any combination."
+     ]
+    },
+    {
+     "name": "Longbow",
+     "entries": [
+      "{@atkr r} {@hit 11}, range 150/600 ft. {@h}9 ({@damage 1d8 + 5}) Piercing damage plus 3 ({@damage 1d6}) Force damage, and the target's Speed decreases by 10 feet until the start of the character's next turn."
+     ]
+    },
+    {
+     "name": "Shortsword",
+     "entries": [
+      "{@atkr m} {@hit 9}, reach 5 ft. {@h}8 ({@damage 1d6 + 5}) Piercing damage plus 3 ({@damage 1d6}) Force damage."
+     ]
+    }
+   ],
+   "spellcasting": [
+    {
+     "name": "Spellcasting",
+     "type": "spellcasting",
+     "ability": "wis",
+     "spells": {
+      "1": {
+       "slots": 4,
+       "spells": [
+        "{@spell Cure Wounds}"
+       ]
+      },
+      "2": {
+       "slots": 3,
+       "spells": [
+        "{@spell Cure Wounds} (level 2 version)"
+       ]
+      },
+      "3": {
+       "slots": 3,
+       "spells": [
+        "{@spell Cure Wounds} (level 3 version)"
+       ]
+      }
+     },
+     "headerEntries": [
+      "The character is an 11th-level spellcaster. Its spellcasting ability is Wisdom (spell save {@dc 13}, {@hit 5} to hit with spell attacks). It has the following ranger spells prepared:"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Ranger 17 (Hunter)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 12,
+   "dex": 20,
+   "con": 18,
+   "int": 10,
+   "wis": 13,
+   "cha": 8,
+   "ac": [
+    17
+   ],
+   "hp": {
+    "average": 174,
+    "formula": "17d10 + 68"
+   },
+   "speed": {
+    "walk": 40
+   },
+   "save": {
+    "str": "+7",
+    "dex": "+11"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "17",
+   "skill": {
+    "acrobatics": "+11"
+   },
+   "action": [
+    {
+     "name": "Multiattack",
+     "entries": [
+      "The character makes two attacks, using Longbow or Shortsword in any combination."
+     ]
+    },
+    {
+     "name": "Longbow",
+     "entries": [
+      "{@atkr r} {@hit 13}, range 150/600 ft. {@h}9 ({@damage 1d8 + 5}) Piercing damage plus 3 ({@damage 1d6}) Force damage, and the target's Speed decreases by 10 feet until the start of the character's next turn."
+     ]
+    },
+    {
+     "name": "Shortsword",
+     "entries": [
+      "{@atkr m} {@hit 11}, reach 5 ft. {@h}8 ({@damage 1d6 + 5}) Piercing damage plus 3 ({@damage 1d6}) Force damage."
+     ]
+    }
+   ],
+   "reaction": [
+    {
+     "name": "Superior Hunter's Defense",
+     "entries": [
+      "{@actTrigger} The character is hit by an attack roll from an attacker it can see. {@actResponse} The character halves the attack's damage against it."
+     ]
+    }
+   ],
+   "spellcasting": [
+    {
+     "name": "Spellcasting",
+     "type": "spellcasting",
+     "ability": "wis",
+     "spells": {
+      "1": {
+       "slots": 4,
+       "spells": [
+        "{@spell Cure Wounds}"
+       ]
+      },
+      "2": {
+       "slots": 3,
+       "spells": [
+        "{@spell Cure Wounds} (level 2 version)"
+       ]
+      },
+      "3": {
+       "slots": 3,
+       "spells": [
+        "{@spell Cure Wounds} (level 3 version)"
+       ]
+      },
+      "4": {
+       "slots": 3,
+       "spells": [
+        "{@spell Cure Wounds} (level 4 version)"
+       ]
+      },
+      "5": {
+       "slots": 1,
+       "spells": [
+        "{@spell Cure Wounds} (level 5 version)"
+       ]
+      }
+     },
+     "headerEntries": [
+      "The character is a 17th-level spellcaster. Its spellcasting ability is Wisdom (spell save {@dc 15}, {@hit 7} to hit with spell attacks). It has the following ranger spells prepared:"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Rogue 1 (Thief)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 8,
+   "dex": 17,
+   "con": 15,
+   "int": 12,
+   "wis": 13,
+   "cha": 10,
+   "ac": [
+    14
+   ],
+   "hp": {
+    "average": 10,
+    "formula": "1d8 + 2"
+   },
+   "speed": {
+    "walk": 30
+   },
+   "save": {
+    "dex": "+5",
+    "int": "+3"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "1",
+   "skill": {
+    "acrobatics": "+5"
+   },
+   "trait": [],
+   "action": [
+    {
+     "name": "Multiattack",
+     "entries": [
+      "The character makes one Shortsword attack and one Scimitar attack."
+     ]
+    },
+    {
+     "name": "Shortsword",
+     "entries": [
+      "{@atkr m} {@hit 5}, reach 5 ft. {@h}6 ({@damage 1d6 + 3}) Piercing damage plus 3 ({@damage 1d6}) Piercing damage if the attack roll had {@variantrule Advantage}, and the character has {@variantrule Advantage} on the next attack roll it makes before the end of this turn."
+     ]
+    },
+    {
+     "name": "Scimitar",
+     "entries": [
+      "{@atkr m} {@hit 5}, reach 5 ft. {@h}3 ({@damage 1d6}) Slashing damage plus 3 ({@damage 1d6}) Slashing damage if the attack roll had {@variantrule Advantage}."
+     ]
+    },
+    {
+     "name": "Shortbow",
+     "entries": [
+      "{@atkr r} {@hit 5}, range 80/320 ft. {@h}6 ({@damage 1d6 + 3}) Piercing damage plus 3 ({@damage 1d6}) Piercing damage if the attack roll had {@variantrule Advantage}, and the character has {@variantrule Advantage} on the next attack roll it makes before the end of this turn."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Rogue 5 (Thief)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 8,
+   "dex": 18,
+   "con": 16,
+   "int": 12,
+   "wis": 13,
+   "cha": 10,
+   "ac": [
+    16
+   ],
+   "hp": {
+    "average": 43,
+    "formula": "5d8 + 15"
+   },
+   "speed": {
+    "walk": 30
+   },
+   "save": {
+    "dex": "+7",
+    "int": "+4"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "5",
+   "skill": {
+    "acrobatics": "+7"
+   },
+   "trait": [],
+   "action": [
+    {
+     "name": "Multiattack",
+     "entries": [
+      "The character makes one Shortsword attack and one Scimitar attack."
+     ]
+    },
+    {
+     "name": "Shortsword",
+     "entries": [
+      "{@atkr m} {@hit 7}, reach 5 ft. {@h}7 ({@damage 1d6 + 4}) Piercing damage plus 10 ({@damage 3d6}) Piercing damage if the attack roll had {@variantrule Advantage}, and the character has {@variantrule Advantage} on the next attack roll it makes before the end of this turn."
+     ]
+    },
+    {
+     "name": "Scimitar",
+     "entries": [
+      "{@atkr m} {@hit 7}, reach 5 ft. {@h}3 ({@damage 1d6}) Slashing damage plus 10 ({@damage 3d6}) Slashing damage if the attack roll had {@variantrule Advantage}."
+     ]
+    },
+    {
+     "name": "Shortbow",
+     "entries": [
+      "{@atkr r} {@hit 7}, range 80/320 ft. {@h}7 ({@damage 1d6 + 4}) Piercing damage plus 10 ({@damage 3d6}) Piercing damage if the attack roll had {@variantrule Advantage}, and the character has {@variantrule Advantage} on the next attack roll it makes before the end of this turn."
+     ]
+    }
+   ],
+   "bonus": [
+    {
+     "name": "Cunning Action",
+     "entries": [
+      "The character takes the Dash, Disengage, or Hide action."
+     ]
+    },
+    {
+     "name": "Steady Aim",
+     "entries": [
+      "The character has {@variantrule Advantage} on the next attack roll it makes this turn."
+     ]
+    }
+   ],
+   "reaction": [
+    {
+     "name": "Uncanny Dodge",
+     "entries": [
+      "{@actTrigger} The character is hit by an attack roll from an attacker it can see. {@actResponse} The character halves the attack's damage against it."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Rogue 11 (Thief)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 8,
+   "dex": 20,
+   "con": 18,
+   "int": 12,
+   "wis": 13,
+   "cha": 10,
+   "ac": [
+    17
+   ],
+   "hp": {
+    "average": 102,
+    "formula": "11d8 + 44"
+   },
+   "speed": {
+    "walk": 30
+   },
+   "save": {
+    "dex": "+9",
+    "int": "+5"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "11",
+   "skill": {
+    "acrobatics": "+9"
+   },
+   "trait": [
+    {
+     "name": "Evasion",
+     "entries": [
+      "If the character is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the character instead takes no damage if it succeeds on the save and only half damage if it fails. It can't use this trait if it has the {@condition Incapacitated} condition."
+     ]
+    }
+   ],
+   "action": [
+    {
+     "name": "Multiattack",
+     "entries": [
+      "The character makes one Shortsword attack and one Scimitar attack."
+     ]
+    },
+    {
+     "name": "Shortsword",
+     "entries": [
+      "{@atkr m} {@hit 9}, reach 5 ft. {@h}8 ({@damage 1d6 + 5}) Piercing damage plus 21 ({@damage 6d6}) Piercing damage if the attack roll had {@variantrule Advantage}, and the character has {@variantrule Advantage} on the next attack roll it makes before the end of this turn."
+     ]
+    },
+    {
+     "name": "Scimitar",
+     "entries": [
+      "{@atkr m} {@hit 9}, reach 5 ft. {@h}3 ({@damage 1d6}) Slashing damage plus 21 ({@damage 6d6}) Slashing damage if the attack roll had {@variantrule Advantage}."
+     ]
+    },
+    {
+     "name": "Shortbow",
+     "entries": [
+      "{@atkr r} {@hit 9}, range 80/320 ft. {@h}8 ({@damage 1d6 + 5}) Piercing damage plus 21 ({@damage 6d6}) Piercing damage if the attack roll had {@variantrule Advantage}, and the character has {@variantrule Advantage} on the next attack roll it makes before the end of this turn."
+     ]
+    }
+   ],
+   "bonus": [
+    {
+     "name": "Cunning Action",
+     "entries": [
+      "The character takes the Dash, Disengage, or Hide action."
+     ]
+    },
+    {
+     "name": "Steady Aim",
+     "entries": [
+      "The character has {@variantrule Advantage} on the next attack roll it makes this turn."
+     ]
+    }
+   ],
+   "reaction": [
+    {
+     "name": "Uncanny Dodge",
+     "entries": [
+      "{@actTrigger} The character is hit by an attack roll from an attacker it can see. {@actResponse} The character halves the attack's damage against it."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Rogue 17 (Thief)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 8,
+   "dex": 20,
+   "con": 20,
+   "int": 12,
+   "wis": 13,
+   "cha": 10,
+   "ac": [
+    17
+   ],
+   "hp": {
+    "average": 173,
+    "formula": "17d8 + 85"
+   },
+   "speed": {
+    "walk": 30
+   },
+   "save": {
+    "dex": "+11",
+    "int": "+7",
+    "wis": "+7",
+    "cha": "+6"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "17",
+   "skill": {
+    "acrobatics": "+11"
+   },
+   "trait": [
+    {
+     "name": "Evasion",
+     "entries": [
+      "If the character is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the character instead takes no damage if it succeeds on the save and only half damage if it fails. It can't use this trait if it has the {@condition Incapacitated} condition."
+     ]
+    }
+   ],
+   "action": [
+    {
+     "name": "Multiattack",
+     "entries": [
+      "The character makes one Shortsword attack and one Scimitar attack."
+     ]
+    },
+    {
+     "name": "Shortsword",
+     "entries": [
+      "{@atkr m} {@hit 11}, reach 5 ft. {@h}8 ({@damage 1d6 + 5}) Piercing damage plus 31 ({@damage 9d6}) Piercing damage if the attack roll had {@variantrule Advantage}, and the character has {@variantrule Advantage} on the next attack roll it makes before the end of this turn."
+     ]
+    },
+    {
+     "name": "Scimitar",
+     "entries": [
+      "{@atkr m} {@hit 11}, reach 5 ft. {@h}3 ({@damage 1d6}) Slashing damage plus 31 ({@damage 9d6}) Slashing damage if the attack roll had {@variantrule Advantage}."
+     ]
+    },
+    {
+     "name": "Shortbow",
+     "entries": [
+      "{@atkr r} {@hit 11}, range 80/320 ft. {@h}8 ({@damage 1d6 + 5}) Piercing damage plus 31 ({@damage 9d6}) Piercing damage if the attack roll had {@variantrule Advantage}, and the character has {@variantrule Advantage} on the next attack roll it makes before the end of this turn."
+     ]
+    }
+   ],
+   "bonus": [
+    {
+     "name": "Cunning Action",
+     "entries": [
+      "The character takes the Dash, Disengage, or Hide action."
+     ]
+    },
+    {
+     "name": "Steady Aim",
+     "entries": [
+      "The character has {@variantrule Advantage} on the next attack roll it makes this turn."
+     ]
+    }
+   ],
+   "reaction": [
+    {
+     "name": "Uncanny Dodge",
+     "entries": [
+      "{@actTrigger} The character is hit by an attack roll from an attacker it can see. {@actResponse} The character halves the attack's damage against it."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Sorcerer 1 (Draconic)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 8,
+   "dex": 13,
+   "con": 15,
+   "int": 10,
+   "wis": 12,
+   "cha": 17,
+   "ac": [
+    11
+   ],
+   "hp": {
+    "average": 8,
+    "formula": "1d6 + 2"
+   },
+   "speed": {
+    "walk": 30
+   },
+   "save": {
+    "con": "+4",
+    "cha": "+5"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "1",
+   "spellcasting": [
+    {
+     "name": "Spellcasting",
+     "type": "spellcasting",
+     "ability": "cha",
+     "spells": {
+      "0": {
+       "spells": [
+        "{@spell Fire Bolt}",
+        "{@spell Ray of Frost}"
+       ]
+      },
+      "1": {
+       "slots": 2,
+       "spells": [
+        "{@spell Chromatic Orb}",
+        "{@spell Shield}",
+        "{@spell Burning Hands}",
+        "{@spell Magic Missile}"
+       ]
+      }
+     },
+     "headerEntries": [
+      "The character is a 1st-level spellcaster. Its spellcasting ability is Charisma (spell save {@dc 14}, {@hit 5} to hit with spell attacks). It has the following sorcerer spells prepared:"
+     ]
+    }
+   ],
+   "action": [
+    {
+     "name": "Fire Bolt",
+     "entries": [
+      "{@atkr rs} {@hit 5}, range 120 ft. {@h}5 ({@damage 1d10}) Fire damage."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Sorcerer 5 (Draconic)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 8,
+   "dex": 13,
+   "con": 16,
+   "int": 10,
+   "wis": 12,
+   "cha": 18,
+   "ac": [
+    15
+   ],
+   "hp": {
+    "average": 42,
+    "formula": "5d6 + 15"
+   },
+   "speed": {
+    "walk": 30
+   },
+   "save": {
+    "con": "+6",
+    "cha": "+7"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "5",
+   "spellcasting": [
+    {
+     "name": "Spellcasting",
+     "type": "spellcasting",
+     "ability": "cha",
+     "spells": {
+      "0": {
+       "spells": [
+        "{@spell Fire Bolt}",
+        "{@spell Ray of Frost}"
+       ]
+      },
+      "1": {
+       "slots": 4,
+       "spells": [
+        "{@spell Chromatic Orb}",
+        "{@spell Shield}",
+        "{@spell Magic Missile}"
+       ]
+      },
+      "2": {
+       "slots": 3,
+       "spells": [
+        "{@spell Scorching Ray}",
+        "{@spell Mirror Image}",
+        "{@spell Misty Step}"
+       ]
+      },
+      "3": {
+       "slots": 2,
+       "spells": [
+        "{@spell Fireball}",
+        "{@spell Counterspell}",
+        "{@spell Fly}"
+       ]
+      }
+     },
+     "headerEntries": [
+      "The character is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save {@dc 16}, {@hit 7} to hit with spell attacks). It has the following sorcerer spells prepared:"
+     ]
+    }
+   ],
+   "action": [
+    {
+     "name": "Fire Bolt",
+     "entries": [
+      "{@atkr rs} {@hit 7}, range 120 ft. {@h}11 ({@damage 2d10}) Fire damage."
+     ]
+    }
+   ],
+   "bonus": [
+    {
+     "name": "Quickened Spell (2/Day)",
+     "entries": [
+      "The character takes the Dash action, or it makes one Fire Bolt attack."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Sorcerer 11 (Draconic)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 8,
+   "dex": 13,
+   "con": 16,
+   "int": 10,
+   "wis": 12,
+   "cha": 20,
+   "ac": [
+    16
+   ],
+   "hp": {
+    "average": 90,
+    "formula": "11d6 + 33"
+   },
+   "speed": {
+    "walk": 30
+   },
+   "save": {
+    "con": "+7",
+    "cha": "+9"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "11",
+   "resist": [
+    "fire"
+   ],
+   "spellcasting": [
+    {
+     "name": "Spellcasting",
+     "type": "spellcasting",
+     "ability": "cha",
+     "spells": {
+      "0": {
+       "spells": [
+        "{@spell Fire Bolt}",
+        "{@spell Ray of Frost}"
+       ]
+      },
+      "1": {
+       "slots": 4,
+       "spells": [
+        "{@spell Chromatic Orb}",
+        "{@spell Shield}",
+        "{@spell Magic Missile}"
+       ]
+      },
+      "2": {
+       "slots": 3,
+       "spells": [
+        "{@spell Scorching Ray}",
+        "{@spell Mirror Image}",
+        "{@spell Misty Step}"
+       ]
+      },
+      "3": {
+       "slots": 3,
+       "spells": [
+        "{@spell Fireball}",
+        "{@spell Counterspell}",
+        "{@spell Fly}"
+       ]
+      },
+      "4": {
+       "slots": 3,
+       "spells": [
+        "{@spell Greater Invisibility}",
+        "{@spell Dimension Door}",
+        "{@spell Ice Storm}"
+       ]
+      },
+      "5": {
+       "slots": 2,
+       "spells": [
+        "{@spell Cone of Cold}",
+        "{@spell Hold Monster}"
+       ]
+      },
+      "6": {
+       "slots": 1,
+       "spells": [
+        "{@spell Disintegrate}",
+        "{@spell Chain Lightning}"
+       ]
+      }
+     },
+     "headerEntries": [
+      "The character is an 11th-level spellcaster. Its spellcasting ability is Charisma (spell save {@dc 18}, {@hit 9} to hit with spell attacks). It has the following sorcerer spells prepared:"
+     ]
+    }
+   ],
+   "action": [
+    {
+     "name": "Fire Bolt",
+     "entries": [
+      "{@atkr rs} {@hit 9}, range 120 ft. {@h}21 ({@damage 3d10 + 5}) Fire damage."
+     ]
+    },
+    {
+     "name": "Fireball",
+     "entries": [
+      "{@actSave dex} {@dc 18}, each creature in a 20-foot-radius {@variantrule Sphere} centered on a point within 150 feet. {@actSaveFail} 33 ({@damage 8d6 + 5}) Fire damage from the magical explosion. {@actSaveSuccess} Half damage."
+     ]
+    }
+   ],
+   "bonus": [
+    {
+     "name": "Quickened Spell (5/Day)",
+     "entries": [
+      "The character takes the Dash action, or it makes one Fire Bolt attack."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Sorcerer 17 (Draconic)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 8,
+   "dex": 13,
+   "con": 18,
+   "int": 10,
+   "wis": 12,
+   "cha": 20,
+   "ac": [
+    16
+   ],
+   "hp": {
+    "average": 155,
+    "formula": "17d6 + 68"
+   },
+   "speed": {
+    "walk": 30,
+    "fly": 60
+   },
+   "save": {
+    "con": "+10",
+    "cha": "+11"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "17",
+   "resist": [
+    "fire"
+   ],
+   "spellcasting": [
+    {
+     "name": "Spellcasting",
+     "type": "spellcasting",
+     "ability": "cha",
+     "spells": {
+      "0": {
+       "spells": [
+        "{@spell Fire Bolt}",
+        "{@spell Ray of Frost}"
+       ]
+      },
+      "1": {
+       "slots": 4,
+       "spells": [
+        "{@spell Chromatic Orb}",
+        "{@spell Shield}",
+        "{@spell Magic Missile}"
+       ]
+      },
+      "2": {
+       "slots": 3,
+       "spells": [
+        "{@spell Scorching Ray}",
+        "{@spell Mirror Image}",
+        "{@spell Misty Step}"
+       ]
+      },
+      "3": {
+       "slots": 3,
+       "spells": [
+        "{@spell Fireball}",
+        "{@spell Counterspell}"
+       ]
+      },
+      "4": {
+       "slots": 3,
+       "spells": [
+        "{@spell Greater Invisibility}",
+        "{@spell Dimension Door}",
+        "{@spell Ice Storm}"
+       ]
+      },
+      "5": {
+       "slots": 2,
+       "spells": [
+        "{@spell Cone of Cold}",
+        "{@spell Hold Monster}"
+       ]
+      },
+      "6": {
+       "slots": 1,
+       "spells": [
+        "{@spell Disintegrate}",
+        "{@spell Chain Lightning}"
+       ]
+      },
+      "7": {
+       "slots": 1,
+       "spells": [
+        "{@spell Finger of Death}",
+        "{@spell Delayed Blast Fireball}"
+       ]
+      },
+      "8": {
+       "slots": 1,
+       "spells": [
+        "{@spell Sunburst}",
+        "{@spell Power Word Stun}"
+       ]
+      },
+      "9": {
+       "slots": 1,
+       "spells": [
+        "{@spell Meteor Swarm}",
+        "{@spell Power Word Kill}"
+       ]
+      }
+     },
+     "headerEntries": [
+      "The character is a 17th-level spellcaster. Its spellcasting ability is Charisma (spell save {@dc 20}, {@hit 11} to hit with spell attacks). It has the following sorcerer spells prepared:"
+     ]
+    }
+   ],
+   "action": [
+    {
+     "name": "Fire Bolt",
+     "entries": [
+      "{@atkr rs} {@hit 11}, range 120 ft. {@h}27 ({@damage 4d10 + 5}) Fire damage."
+     ]
+    },
+    {
+     "name": "Fireball",
+     "entries": [
+      "{@actSave dex} {@dc 20}, each creature in a 20-foot-radius {@variantrule Sphere} centered on a point within 150 feet. {@actSaveFail} 33 ({@damage 8d6 + 5}) Fire damage from the magical explosion. {@actSaveSuccess} Half damage."
+     ]
+    },
+    {
+     "name": "Meteor Swarm",
+     "entries": [
+      "{@actSave dex} {@dc 20}, each creature in a 40-foot-radius {@variantrule Sphere} centered on a point within 1 mile. {@actSaveFail} 75 ({@damage 20d6 + 5}) Fire damage plus 70 ({@damage 20d6}) Bludgeoning damage from the magical meteors. {@actSaveSuccess} Half damage."
+     ]
+    }
+   ],
+   "bonus": [
+    {
+     "name": "Quickened Spell (8/Day)",
+     "entries": [
+      "The character takes the Dash action, or it makes one Fire Bolt attack."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Warlock 1 (Fiend)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 8,
+   "dex": 13,
+   "con": 15,
+   "int": 10,
+   "wis": 12,
+   "cha": 17,
+   "ac": [
+    14
+   ],
+   "hp": {
+    "average": 10,
+    "formula": "1d8 + 2"
+   },
+   "speed": {
+    "walk": 30
+   },
+   "save": {
+    "wis": "+3",
+    "cha": "+5"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "1",
+   "action": [
+    {
+     "name": "Eldritch Blast",
+     "entries": [
+      "{@atkr rs} {@hit 5}, range 120 ft. {@h}5 ({@damage 1d10}) Force damage plus 3 ({@damage 1d6}) Necrotic damage."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Warlock 5 (Fiend)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 8,
+   "dex": 13,
+   "con": 16,
+   "int": 10,
+   "wis": 12,
+   "cha": 18,
+   "ac": [
+    14
+   ],
+   "hp": {
+    "average": 55,
+    "formula": "5d8 + 15"
+   },
+   "speed": {
+    "walk": 30
+   },
+   "save": {
+    "wis": "+4",
+    "cha": "+7"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "5",
+   "action": [
+    {
+     "name": "Multiattack",
+     "entries": [
+      "The character makes two Eldritch Blast attacks."
+     ]
+    },
+    {
+     "name": "Eldritch Blast",
+     "entries": [
+      "{@atkr rs} {@hit 7}, range 120 ft. {@h}9 ({@damage 1d10 + 4}) Force damage plus 3 ({@damage 1d6}) Necrotic damage, and if the target is a Large or smaller creature, the target is pushed up to 10 feet straight away from the character."
+     ]
+    }
+   ],
+   "spellcasting": [
+    {
+     "name": "Spellcasting",
+     "type": "spellcasting",
+     "ability": "cha",
+     "spells": {
+      "3": {
+       "slots": 1,
+       "spells": [
+        "{@spell Fireball}",
+        "{@spell Fear}"
+       ]
+      }
+     },
+     "headerEntries": [
+      "The character is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save {@dc 15}, {@hit 7} to hit with spell attacks). It has the following warlock spells prepared:"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Warlock 11 (Fiend)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 8,
+   "dex": 13,
+   "con": 16,
+   "int": 10,
+   "wis": 12,
+   "cha": 20,
+   "ac": [
+    14
+   ],
+   "hp": {
+    "average": 103,
+    "formula": "11d8 + 33"
+   },
+   "speed": {
+    "walk": 30
+   },
+   "save": {
+    "wis": "+5",
+    "cha": "+9"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "11",
+   "action": [
+    {
+     "name": "Multiattack",
+     "entries": [
+      "The character makes three Eldritch Blast attacks."
+     ]
+    },
+    {
+     "name": "Eldritch Blast",
+     "entries": [
+      "{@atkr rs} {@hit 9}, range 120 ft. {@h}10 ({@damage 1d10 + 5}) Force damage plus 3 ({@damage 1d6}) Necrotic damage, and if the target is a Large or smaller creature, the target is pushed up to 10 feet straight away from the character."
+     ]
+    }
+   ],
+   "spellcasting": [
+    {
+     "name": "Spellcasting",
+     "type": "spellcasting",
+     "ability": "cha",
+     "spells": {
+      "5": {
+       "slots": 2,
+       "spells": [
+        "{@spell Fireball} (level 5 version)",
+        "{@spell Hold Monster}"
+       ]
+      }
+     },
+     "headerEntries": [
+      "The character is an 11th-level spellcaster. Its spellcasting ability is Charisma (spell save {@dc 17}, {@hit 9} to hit with spell attacks). It has the following warlock spells prepared:"
+     ]
+    },
+    {
+     "name": "Mystic Arcanum",
+     "type": "spellcasting",
+     "ability": "cha",
+     "headerEntries": [
+      "The character casts one of the following spells (spell save {@dc 17}):"
+     ],
+     "daily": {
+      "1e": [
+       "{@spell Circle of Death}"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "name": "Warlock 17 (Fiend)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 8,
+   "dex": 13,
+   "con": 18,
+   "int": 10,
+   "wis": 12,
+   "cha": 20,
+   "ac": [
+    14
+   ],
+   "hp": {
+    "average": 168,
+    "formula": "17d8 + 68"
+   },
+   "speed": {
+    "walk": 30
+   },
+   "save": {
+    "wis": "+7",
+    "cha": "+11"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "17",
+   "action": [
+    {
+     "name": "Multiattack",
+     "entries": [
+      "The character makes four Eldritch Blast attacks."
+     ]
+    },
+    {
+     "name": "Eldritch Blast",
+     "entries": [
+      "{@atkr rs} {@hit 11}, range 120 ft. {@h}10 ({@damage 1d10 + 5}) Force damage plus 3 ({@damage 1d6}) Necrotic damage, and if the target is a Large or smaller creature, the target is pushed up to 10 feet straight away from the character."
+     ]
+    }
+   ],
+   "spellcasting": [
+    {
+     "name": "Spellcasting",
+     "type": "spellcasting",
+     "ability": "cha",
+     "spells": {
+      "5": {
+       "slots": 3,
+       "spells": [
+        "{@spell Fireball} (level 5 version)",
+        "{@spell Hold Monster}"
+       ]
+      }
+     },
+     "headerEntries": [
+      "The character is a 17th-level spellcaster. Its spellcasting ability is Charisma (spell save {@dc 19}, {@hit 11} to hit with spell attacks). It has the following warlock spells prepared:"
+     ]
+    },
+    {
+     "name": "Mystic Arcanum",
+     "type": "spellcasting",
+     "ability": "cha",
+     "headerEntries": [
+      "The character casts one of the following spells (spell save {@dc 19}):"
+     ],
+     "daily": {
+      "1e": [
+       "{@spell Circle of Death}",
+       "{@spell Finger of Death}",
+       "{@spell Power Word Stun}",
+       "{@spell Power Word Kill}"
+      ]
+     }
+    }
+   ],
+   "bonus": [
+    {
+     "name": "Hurl Through Hell (1/Day)",
+     "entries": [
+      "{@actSave cha} {@dc 19}, one creature within 120 feet that the character can see. {@actSaveFail} 44 ({@damage 8d10}) Psychic damage."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Wizard 1 (Evoker)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 8,
+   "dex": 13,
+   "con": 15,
+   "int": 17,
+   "wis": 12,
+   "cha": 10,
+   "ac": [
+    14
+   ],
+   "hp": {
+    "average": 8,
+    "formula": "1d6 + 2"
+   },
+   "speed": {
+    "walk": 30
+   },
+   "save": {
+    "int": "+5",
+    "wis": "+3"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "1",
+   "spellcasting": [
+    {
+     "name": "Spellcasting",
+     "type": "spellcasting",
+     "ability": "int",
+     "spells": {
+      "0": {
+       "spells": [
+        "{@spell Fire Bolt}",
+        "{@spell Ray of Frost}"
+       ]
+      },
+      "1": {
+       "slots": 1,
+       "spells": [
+        "{@spell Magic Missile}",
+        "{@spell Shield}"
+       ]
+      }
+     },
+     "headerEntries": [
+      "The character is a 1st-level spellcaster. Its spellcasting ability is Intelligence (spell save {@dc 13}, {@hit 5} to hit with spell attacks). It has the following wizard spells prepared:"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Wizard 5 (Evoker)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 8,
+   "dex": 13,
+   "con": 16,
+   "int": 18,
+   "wis": 12,
+   "cha": 10,
+   "ac": [
+    14
+   ],
+   "hp": {
+    "average": 37,
+    "formula": "5d6 + 15"
+   },
+   "speed": {
+    "walk": 30
+   },
+   "save": {
+    "int": "+7",
+    "wis": "+4"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "5",
+   "spellcasting": [
+    {
+     "name": "Spellcasting",
+     "type": "spellcasting",
+     "ability": "int",
+     "spells": {
+      "0": {
+       "spells": [
+        "{@spell Fire Bolt}",
+        "{@spell Ray of Frost}"
+       ]
+      },
+      "1": {
+       "slots": 3,
+       "spells": [
+        "{@spell Magic Missile}",
+        "{@spell Shield}"
+       ]
+      },
+      "2": {
+       "slots": 3,
+       "spells": [
+        "{@spell Mirror Image}",
+        "{@spell Misty Step}",
+        "{@spell Scorching Ray}",
+        "{@spell Web}"
+       ]
+      },
+      "3": {
+       "slots": 2,
+       "spells": [
+        "{@spell Fireball}",
+        "{@spell Counterspell}",
+        "{@spell Hypnotic Pattern}"
+       ]
+      }
+     },
+     "headerEntries": [
+      "The character is a 5th-level spellcaster. Its spellcasting ability is Intelligence (spell save {@dc 15}, {@hit 7} to hit with spell attacks). It has the following wizard spells prepared:"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Wizard 11 (Evoker)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 8,
+   "dex": 13,
+   "con": 16,
+   "int": 20,
+   "wis": 12,
+   "cha": 10,
+   "ac": [
+    14
+   ],
+   "hp": {
+    "average": 79,
+    "formula": "11d6 + 33"
+   },
+   "speed": {
+    "walk": 30
+   },
+   "save": {
+    "int": "+9",
+    "wis": "+5"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "11",
+   "spellcasting": [
+    {
+     "name": "Spellcasting",
+     "type": "spellcasting",
+     "ability": "int",
+     "spells": {
+      "0": {
+       "spells": [
+        "{@spell Fire Bolt}",
+        "{@spell Ray of Frost}"
+       ]
+      },
+      "1": {
+       "slots": 3,
+       "spells": [
+        "{@spell Magic Missile}",
+        "{@spell Shield}"
+       ]
+      },
+      "2": {
+       "slots": 3,
+       "spells": [
+        "{@spell Mirror Image}",
+        "{@spell Misty Step}"
+       ]
+      },
+      "3": {
+       "slots": 3,
+       "spells": [
+        "{@spell Fireball}",
+        "{@spell Counterspell}",
+        "{@spell Fly}"
+       ]
+      },
+      "4": {
+       "slots": 3,
+       "spells": [
+        "{@spell Greater Invisibility}",
+        "{@spell Dimension Door}",
+        "{@spell Blight}",
+        "{@spell Ice Storm}"
+       ]
+      },
+      "5": {
+       "slots": 2,
+       "spells": [
+        "{@spell Cone of Cold}",
+        "{@spell Hold Monster}"
+       ]
+      },
+      "6": {
+       "slots": 1,
+       "spells": [
+        "{@spell Disintegrate}",
+        "{@spell Chain Lightning}"
+       ]
+      }
+     },
+     "headerEntries": [
+      "The character is an 11th-level spellcaster. Its spellcasting ability is Intelligence (spell save {@dc 17}, {@hit 9} to hit with spell attacks). It has the following wizard spells prepared:"
+     ]
+    }
+   ],
+   "action": [
+    {
+     "name": "Fire Bolt",
+     "entries": [
+      "{@atkr rs} {@hit 9}, range 120 ft. {@h}21 ({@damage 3d10 + 5}) Fire damage."
+     ]
+    },
+    {
+     "name": "Fireball",
+     "entries": [
+      "{@actSave dex} {@dc 17}, each creature in a 20-foot-radius {@variantrule Sphere} centered on a point within 150 feet. {@actSaveFail} 33 ({@damage 8d6 + 5}) Fire damage from the magical explosion. {@actSaveSuccess} Half damage."
+     ]
+    },
+    {
+     "name": "Cone of Cold",
+     "entries": [
+      "{@actSave con} {@dc 17}, each creature in a 60-foot {@variantrule Cone}. {@actSaveFail} 41 ({@damage 8d8 + 5}) Cold damage from the magical blast. {@actSaveSuccess} Half damage."
+     ]
+    },
+    {
+     "name": "Chain Lightning",
+     "entries": [
+      "{@actSave dex} {@dc 17}, one creature within 150 feet that the character can see. {@actSaveFail} 50 ({@damage 10d8 + 5}) Lightning damage from the magical bolt. {@actSaveSuccess} Half damage."
+     ]
+    },
+    {
+     "name": "Ice Storm",
+     "entries": [
+      "{@actSave dex} {@dc 17}, each creature in a 20-foot-radius {@variantrule Cylinder} centered on a point within 300 feet. {@actSaveFail} 16 ({@damage 2d10 + 5}) Bludgeoning damage plus 14 ({@damage 4d6}) Cold damage from the magical hail. {@actSaveSuccess} Half damage."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Wizard 17 (Evoker)",
+   "source": "PC",
+   "size": [
+    "M"
+   ],
+   "type": "humanoid",
+   "str": 8,
+   "dex": 13,
+   "con": 18,
+   "int": 20,
+   "wis": 12,
+   "cha": 10,
+   "ac": [
+    14
+   ],
+   "hp": {
+    "average": 138,
+    "formula": "17d6 + 68"
+   },
+   "speed": {
+    "walk": 30
+   },
+   "save": {
+    "int": "+11",
+    "wis": "+7"
+   },
+   "languages": [
+    "Common"
+   ],
+   "cr": "17",
+   "spellcasting": [
+    {
+     "name": "Spellcasting",
+     "type": "spellcasting",
+     "ability": "int",
+     "spells": {
+      "0": {
+       "spells": [
+        "{@spell Fire Bolt}",
+        "{@spell Ray of Frost}"
+       ]
+      },
+      "1": {
+       "slots": 3,
+       "spells": [
+        "{@spell Magic Missile}",
+        "{@spell Shield}"
+       ]
+      },
+      "2": {
+       "slots": 3,
+       "spells": [
+        "{@spell Mirror Image}",
+        "{@spell Misty Step}"
+       ]
+      },
+      "3": {
+       "slots": 3,
+       "spells": [
+        "{@spell Fireball}",
+        "{@spell Counterspell}",
+        "{@spell Fly}"
+       ]
+      },
+      "4": {
+       "slots": 3,
+       "spells": [
+        "{@spell Greater Invisibility}",
+        "{@spell Dimension Door}",
+        "{@spell Blight}"
+       ]
+      },
+      "5": {
+       "slots": 1,
+       "spells": [
+        "{@spell Cone of Cold}",
+        "{@spell Hold Monster}"
+       ]
+      },
+      "6": {
+       "slots": 1,
+       "spells": [
+        "{@spell Disintegrate}",
+        "{@spell Chain Lightning}"
+       ]
+      },
+      "7": {
+       "slots": 1,
+       "spells": [
+        "{@spell Finger of Death}",
+        "{@spell Delayed Blast Fireball}"
+       ]
+      },
+      "8": {
+       "slots": 1,
+       "spells": [
+        "{@spell Sunburst}",
+        "{@spell Power Word Stun}"
+       ]
+      }
+     },
+     "headerEntries": [
+      "The character is a 17th-level spellcaster. Its spellcasting ability is Intelligence (spell save {@dc 19}, {@hit 11} to hit with spell attacks). It has the following wizard spells prepared:"
+     ]
+    }
+   ],
+   "action": [
+    {
+     "name": "Fire Bolt",
+     "entries": [
+      "{@atkr rs} {@hit 11}, range 120 ft. {@h}27 ({@damage 4d10 + 5}) Fire damage."
+     ]
+    },
+    {
+     "name": "Fireball",
+     "entries": [
+      "{@actSave dex} {@dc 19}, each creature in a 20-foot-radius {@variantrule Sphere} centered on a point within 150 feet. {@actSaveFail} 33 ({@damage 8d6 + 5}) Fire damage from the magical explosion. {@actSaveSuccess} Half damage."
+     ]
+    },
+    {
+     "name": "Cone of Cold",
+     "entries": [
+      "{@actSave con} {@dc 19}, each creature in a 60-foot {@variantrule Cone}. {@actSaveFail} 41 ({@damage 8d8 + 5}) Cold damage from the magical blast. {@actSaveSuccess} Half damage."
+     ]
+    },
+    {
+     "name": "Chain Lightning",
+     "entries": [
+      "{@actSave dex} {@dc 19}, one creature within 150 feet that the character can see. {@actSaveFail} 50 ({@damage 10d8 + 5}) Lightning damage from the magical bolt. {@actSaveSuccess} Half damage."
+     ]
+    },
+    {
+     "name": "Overchannel Cone of Cold (1/Day)",
+     "entries": [
+      "{@actSave con} {@dc 19}, each creature in a 60-foot {@variantrule Cone}. {@actSaveFail} 69 ({@damage 69d1}) Cold damage from the magical blast. {@actSaveSuccess} Half damage."
+     ]
+    }
+   ]
+  }
+ ]
+}

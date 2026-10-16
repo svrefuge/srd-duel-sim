@@ -1,0 +1,395 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 540" width="900" height="540" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-label="Duel strength against Challenge Rating, 30 ft separation cap">
+<rect width="900" height="540" fill="#fcfcfb"/>
+<text x="24" y="30" font-size="17" font-weight="600" fill="#0b0b0b">Duel strength against Challenge Rating, 30 ft separation cap</text>
+<text x="24" y="50" font-size="12" fill="#52514e">328 creatures. Line: median Elo of each CR. Spearman rank correlation of Elo with CR: 0.985.</text>
+<line x1="62" x2="874" y1="486.0" y2="486.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="54" y="490.0" font-size="11" fill="#898781" text-anchor="end">-1000</text>
+<line x1="62" x2="874" y1="439.8" y2="439.8" stroke="#e1e0d9" stroke-width="1"/>
+<text x="54" y="443.8" font-size="11" fill="#898781" text-anchor="end">-500</text>
+<line x1="62" x2="874" y1="393.6" y2="393.6" stroke="#e1e0d9" stroke-width="1"/>
+<text x="54" y="397.6" font-size="11" fill="#898781" text-anchor="end">0</text>
+<line x1="62" x2="874" y1="347.3" y2="347.3" stroke="#e1e0d9" stroke-width="1"/>
+<text x="54" y="351.3" font-size="11" fill="#898781" text-anchor="end">500</text>
+<line x1="62" x2="874" y1="301.1" y2="301.1" stroke="#e1e0d9" stroke-width="1"/>
+<text x="54" y="305.1" font-size="11" fill="#898781" text-anchor="end">1000</text>
+<line x1="62" x2="874" y1="254.9" y2="254.9" stroke="#e1e0d9" stroke-width="1"/>
+<text x="54" y="258.9" font-size="11" fill="#898781" text-anchor="end">1500</text>
+<line x1="62" x2="874" y1="208.7" y2="208.7" stroke="#e1e0d9" stroke-width="1"/>
+<text x="54" y="212.7" font-size="11" fill="#898781" text-anchor="end">2000</text>
+<line x1="62" x2="874" y1="162.4" y2="162.4" stroke="#e1e0d9" stroke-width="1"/>
+<text x="54" y="166.4" font-size="11" fill="#898781" text-anchor="end">2500</text>
+<line x1="62" x2="874" y1="116.2" y2="116.2" stroke="#e1e0d9" stroke-width="1"/>
+<text x="54" y="120.2" font-size="11" fill="#898781" text-anchor="end">3000</text>
+<line x1="62" x2="874" y1="70.0" y2="70.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="54" y="74.0" font-size="11" fill="#898781" text-anchor="end">3500</text>
+<line x1="62" x2="874" y1="486" y2="486" stroke="#c3c2b7" stroke-width="1"/>
+<line x1="74.0" x2="74.0" y1="486" y2="490" stroke="#c3c2b7" stroke-width="1"/>
+<text x="74.0" y="503" font-size="11" fill="#898781" text-anchor="middle">0</text>
+<line x1="124.9" x2="124.9" y1="486" y2="490" stroke="#c3c2b7" stroke-width="1"/>
+<text x="124.9" y="503" font-size="11" fill="#898781" text-anchor="middle">1/8</text>
+<line x1="145.9" x2="145.9" y1="486" y2="490" stroke="#c3c2b7" stroke-width="1"/>
+<text x="145.9" y="503" font-size="11" fill="#898781" text-anchor="middle">1/4</text>
+<line x1="175.7" x2="175.7" y1="486" y2="490" stroke="#c3c2b7" stroke-width="1"/>
+<text x="175.7" y="503" font-size="11" fill="#898781" text-anchor="middle">1/2</text>
+<line x1="217.9" x2="217.9" y1="486" y2="490" stroke="#c3c2b7" stroke-width="1"/>
+<text x="217.9" y="503" font-size="11" fill="#898781" text-anchor="middle">1</text>
+<line x1="277.5" x2="277.5" y1="486" y2="490" stroke="#c3c2b7" stroke-width="1"/>
+<text x="277.5" y="503" font-size="11" fill="#898781" text-anchor="middle">2</text>
+<line x1="323.2" x2="323.2" y1="486" y2="490" stroke="#c3c2b7" stroke-width="1"/>
+<text x="323.2" y="503" font-size="11" fill="#898781" text-anchor="middle">3</text>
+<line x1="395.7" x2="395.7" y1="486" y2="490" stroke="#c3c2b7" stroke-width="1"/>
+<text x="395.7" y="503" font-size="11" fill="#898781" text-anchor="middle">5</text>
+<line x1="529.0" x2="529.0" y1="486" y2="490" stroke="#c3c2b7" stroke-width="1"/>
+<text x="529.0" y="503" font-size="11" fill="#898781" text-anchor="middle">10</text>
+<line x1="631.2" x2="631.2" y1="486" y2="490" stroke="#c3c2b7" stroke-width="1"/>
+<text x="631.2" y="503" font-size="11" fill="#898781" text-anchor="middle">15</text>
+<line x1="717.4" x2="717.4" y1="486" y2="490" stroke="#c3c2b7" stroke-width="1"/>
+<text x="717.4" y="503" font-size="11" fill="#898781" text-anchor="middle">20</text>
+<line x1="793.3" x2="793.3" y1="486" y2="490" stroke="#c3c2b7" stroke-width="1"/>
+<text x="793.3" y="503" font-size="11" fill="#898781" text-anchor="middle">25</text>
+<line x1="862.0" x2="862.0" y1="486" y2="490" stroke="#c3c2b7" stroke-width="1"/>
+<text x="862.0" y="503" font-size="11" fill="#898781" text-anchor="middle">30</text>
+<text x="468" y="528" font-size="12" fill="#52514e" text-anchor="middle">Challenge Rating (square-root scale)</text>
+<text transform="translate(16 278) rotate(-90)" font-size="12" fill="#52514e" text-anchor="middle">Elo (median CR 1 creature = 1000)</text>
+<circle cx="860.8" cy="95.3" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Tarrasque: CR 30, Elo 3226.1, rank 1</title></circle>
+<circle cx="760.5" cy="104.1" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Kraken: CR 23, Elo 3130.8, rank 2</title></circle>
+<circle cx="783.2" cy="105.5" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Ancient Gold Dragon: CR 24, Elo 3115.6, rank 3</title></circle>
+<circle cx="765.3" cy="106.1" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Ancient Silver Dragon: CR 23, Elo 3109.3, rank 4</title></circle>
+<circle cx="776.1" cy="107.8" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Ancient Red Dragon: CR 24, Elo 3091.1, rank 5</title></circle>
+<circle cx="734.2" cy="108.7" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Lich: CR 21, Elo 3081.1, rank 6</title></circle>
+<circle cx="761.1" cy="111.4" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Ancient Blue Dragon: CR 23, Elo 3052.2, rank 7</title></circle>
+<circle cx="730.6" cy="112.0" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Solar: CR 21, Elo 3046.1, rank 8</title></circle>
+<circle cx="748.6" cy="114.5" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Ancient Bronze Dragon: CR 22, Elo 3018.6, rank 9</title></circle>
+<circle cx="720.7" cy="118.7" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Pit Fiend: CR 20, Elo 2972.7, rank 10</title></circle>
+<circle cx="733.6" cy="120.1" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Ancient Copper Dragon: CR 21, Elo 2958.2, rank 11</title></circle>
+<circle cx="746.1" cy="120.8" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Ancient Green Dragon: CR 22, Elo 2950.4, rank 12</title></circle>
+<circle cx="736.2" cy="122.5" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Ancient Black Dragon: CR 21, Elo 2932.3, rank 13</title></circle>
+<circle cx="719.3" cy="126.5" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Ancient Brass Dragon: CR 20, Elo 2888.6, rank 14</title></circle>
+<circle cx="703.1" cy="128.2" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Balor: CR 19, Elo 2870.5, rank 15</title></circle>
+<circle cx="718.6" cy="130.5" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Ancient White Dragon: CR 20, Elo 2845.4, rank 16</title></circle>
+<circle cx="651.9" cy="134.6" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Planetar: CR 16, Elo 2801.3, rank 17</title></circle>
+<circle cx="670.6" cy="135.4" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Adult Gold Dragon: CR 17, Elo 2792.5, rank 18</title></circle>
+<circle cx="649.5" cy="136.7" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Adult Silver Dragon: CR 16, Elo 2778.2, rank 19</title></circle>
+<circle cx="667.3" cy="137.5" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Adult Red Dragon: CR 17, Elo 2769.5, rank 20</title></circle>
+<circle cx="501.6" cy="137.7" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Cloud Giant: CR 9, Elo 2767.7, rank 21</title></circle>
+<circle cx="645.4" cy="145.6" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Adult Blue Dragon: CR 16, Elo 2682.3, rank 22</title></circle>
+<circle cx="629.7" cy="146.5" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Adult Bronze Dragon: CR 15, Elo 2672.7, rank 23</title></circle>
+<circle cx="629.7" cy="149.7" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Adult Green Dragon: CR 15, Elo 2638.3, rank 24</title></circle>
+<circle cx="589.7" cy="150.0" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Adult Brass Dragon: CR 13, Elo 2634.5, rank 25</title></circle>
+<circle cx="616.3" cy="150.2" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Adult Black Dragon: CR 14, Elo 2632.9, rank 26</title></circle>
+<circle cx="608.7" cy="150.5" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Adult Copper Dragon: CR 14, Elo 2629.7, rank 27</title></circle>
+<circle cx="666.3" cy="152.3" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Sphinx of Valor: CR 17, Elo 2609.7, rank 28</title></circle>
+<circle cx="665.9" cy="152.7" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Dragon Turtle: CR 17, Elo 2605.9, rank 29</title></circle>
+<circle cx="645.5" cy="153.5" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Iron Golem: CR 16, Elo 2597.1, rank 30</title></circle>
+<circle cx="627.5" cy="154.0" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Mummy Lord: CR 15, Elo 2591.6, rank 31</title></circle>
+<circle cx="589.2" cy="154.2" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Storm Giant: CR 13, Elo 2589, rank 32</title></circle>
+<circle cx="570.9" cy="154.7" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Archmage: CR 12, Elo 2583.4, rank 33</title></circle>
+<circle cx="591.0" cy="156.1" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Adult White Dragon: CR 13, Elo 2568.7, rank 34</title></circle>
+<circle cx="611.1" cy="156.2" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Ice Devil: CR 14, Elo 2567.3, rank 35</title></circle>
+<circle cx="573.4" cy="158.6" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Erinyes: CR 12, Elo 2541.3, rank 36</title></circle>
+<circle cx="550.6" cy="159.7" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Horned Devil: CR 11, Elo 2529.4, rank 37</title></circle>
+<circle cx="552.1" cy="159.8" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Roc: CR 11, Elo 2529.1, rank 38</title></circle>
+<circle cx="593.5" cy="159.8" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Nalfeshnee: CR 13, Elo 2528.8, rank 39</title></circle>
+<circle cx="591.8" cy="166.8" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Rakshasa: CR 13, Elo 2453.3, rank 40</title></circle>
+<circle cx="551.7" cy="168.0" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Efreeti: CR 11, Elo 2439.5, rank 41</title></circle>
+<circle cx="589.0" cy="169.2" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Vampire: CR 13, Elo 2426.7, rank 42</title></circle>
+<circle cx="501.7" cy="169.4" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Young Silver Dragon: CR 9, Elo 2425, rank 43</title></circle>
+<circle cx="554.9" cy="172.9" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Sphinx of Lore: CR 11, Elo 2386.4, rank 44</title></circle>
+<circle cx="530.9" cy="173.6" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Young Gold Dragon: CR 10, Elo 2379.4, rank 45</title></circle>
+<circle cx="555.5" cy="174.0" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Djinni: CR 11, Elo 2374.6, rank 46</title></circle>
+<circle cx="531.5" cy="174.4" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Stone Golem: CR 10, Elo 2370.7, rank 47</title></circle>
+<circle cx="506.0" cy="174.7" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Fire Giant: CR 9, Elo 2367, rank 48</title></circle>
+<circle cx="631.3" cy="176.7" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Purple Worm: CR 15, Elo 2346, rank 49</title></circle>
+<circle cx="528.0" cy="177.3" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Young Red Dragon: CR 10, Elo 2339.7, rank 50</title></circle>
+<circle cx="530.4" cy="179.4" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Guardian Naga: CR 10, Elo 2316.3, rank 51</title></circle>
+<circle cx="552.7" cy="179.9" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Behir: CR 11, Elo 2311.4, rank 52</title></circle>
+<circle cx="506.1" cy="180.0" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Glabrezu: CR 9, Elo 2310.4, rank 53</title></circle>
+<circle cx="551.6" cy="181.6" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Remorhaz: CR 11, Elo 2292.5, rank 54</title></circle>
+<circle cx="525.6" cy="182.8" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Deva: CR 10, Elo 2279.6, rank 55</title></circle>
+<circle cx="651.1" cy="183.1" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Marilith: CR 16, Elo 2277.1, rank 56</title></circle>
+<circle cx="501.1" cy="183.3" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Bone Devil: CR 9, Elo 2274.7, rank 57</title></circle>
+<circle cx="525.1" cy="184.5" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Aboleth: CR 10, Elo 2261.6, rank 58</title></circle>
+<circle cx="509.7" cy="184.5" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Young Blue Dragon: CR 9, Elo 2261.1, rank 59</title></circle>
+<circle cx="482.1" cy="185.6" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Frost Giant: CR 8, Elo 2250, rank 60</title></circle>
+<circle cx="451.3" cy="188.1" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Oni: CR 7, Elo 2222, rank 61</title></circle>
+<circle cx="482.6" cy="190.8" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Young Bronze Dragon: CR 8, Elo 2193.6, rank 62</title></circle>
+<circle cx="481.0" cy="192.3" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Young Green Dragon: CR 8, Elo 2176.8, rank 63</title></circle>
+<circle cx="421.9" cy="192.4" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Invisible Stalker: CR 6, Elo 2176.5, rank 64</title></circle>
+<circle cx="480.4" cy="192.7" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Spirit Naga: CR 8, Elo 2172.6, rank 65</title></circle>
+<circle cx="450.4" cy="194.4" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Young Black Dragon: CR 7, Elo 2153.9, rank 66</title></circle>
+<circle cx="479.5" cy="196.0" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Chain Devil: CR 8, Elo 2136.9, rank 67</title></circle>
+<circle cx="478.3" cy="196.8" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Tyrannosaurus Rex: CR 8, Elo 2128.3, rank 68</title></circle>
+<circle cx="452.0" cy="197.8" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Young Copper Dragon: CR 7, Elo 2117.8, rank 69</title></circle>
+<circle cx="476.5" cy="198.1" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Hezrou: CR 8, Elo 2114.4, rank 70</title></circle>
+<circle cx="423.2" cy="199.6" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Young Brass Dragon: CR 6, Elo 2098.1, rank 71</title></circle>
+<circle cx="481.0" cy="201.3" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Hydra: CR 8, Elo 2079.7, rank 72</title></circle>
+<circle cx="450.9" cy="201.7" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Stone Giant: CR 7, Elo 2075.6, rank 73</title></circle>
+<circle cx="481.3" cy="201.9" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Cloaker: CR 8, Elo 2073.4, rank 74</title></circle>
+<circle cx="425.0" cy="203.0" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Young White Dragon: CR 6, Elo 2061.6, rank 75</title></circle>
+<circle cx="394.4" cy="203.2" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Troll: CR 5, Elo 2059.6, rank 76</title></circle>
+<circle cx="429.4" cy="203.5" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Drider: CR 6, Elo 2056.3, rank 77</title></circle>
+<circle cx="456.4" cy="203.8" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Shield Guardian: CR 7, Elo 2052.6, rank 78</title></circle>
+<circle cx="453.7" cy="203.9" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Ape: CR 7, Elo 2051.7, rank 79</title></circle>
+<circle cx="363.7" cy="204.6" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Lamia: CR 4, Elo 2044.4, rank 80</title></circle>
+<circle cx="507.6" cy="205.0" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Treant: CR 9, Elo 2040.2, rank 81</title></circle>
+<circle cx="423.5" cy="205.1" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Pirate Captain: CR 6, Elo 2038.5, rank 82</title></circle>
+<circle cx="399.9" cy="205.4" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Air Elemental: CR 5, Elo 2035.7, rank 83</title></circle>
+<circle cx="424.5" cy="206.4" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Mage: CR 6, Elo 2025, rank 84</title></circle>
+<circle cx="505.7" cy="206.6" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Clay Golem: CR 9, Elo 2022.3, rank 85</title></circle>
+<circle cx="478.9" cy="206.9" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Assassin: CR 8, Elo 2018.8, rank 86</title></circle>
+<circle cx="426.6" cy="211.1" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Chimera: CR 6, Elo 1974.2, rank 87</title></circle>
+<circle cx="424.7" cy="211.3" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Medusa: CR 6, Elo 1971.8, rank 88</title></circle>
+<circle cx="392.9" cy="211.3" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Roper: CR 5, Elo 1971.2, rank 89</title></circle>
+<circle cx="399.3" cy="211.6" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Salamander: CR 5, Elo 1968, rank 90</title></circle>
+<circle cx="391.5" cy="212.8" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Gorgon: CR 5, Elo 1955.6, rank 91</title></circle>
+<circle cx="429.2" cy="213.0" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Vrock: CR 6, Elo 1952.7, rank 92</title></circle>
+<circle cx="397.9" cy="213.3" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Night Hag: CR 5, Elo 1950.4, rank 93</title></circle>
+<circle cx="425.6" cy="213.9" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Wyvern: CR 6, Elo 1943.7, rank 94</title></circle>
+<circle cx="399.6" cy="214.5" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Earth Elemental: CR 5, Elo 1937.1, rank 95</title></circle>
+<circle cx="395.6" cy="217.6" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Gladiator: CR 5, Elo 1903.2, rank 96</title></circle>
+<circle cx="426.5" cy="220.6" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Mammoth: CR 6, Elo 1870.7, rank 97</title></circle>
+<circle cx="396.4" cy="220.8" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Fire Elemental: CR 5, Elo 1868.6, rank 98</title></circle>
+<circle cx="398.2" cy="221.7" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Half-Dragon: CR 5, Elo 1859, rank 99</title></circle>
+<circle cx="397.3" cy="221.9" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Hill Giant: CR 5, Elo 1856.9, rank 100</title></circle>
+<circle cx="398.4" cy="222.5" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Werebear: CR 5, Elo 1850.2, rank 101</title></circle>
+<circle cx="392.5" cy="223.1" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Barbed Devil: CR 5, Elo 1844.3, rank 102</title></circle>
+<circle cx="365.6" cy="226.0" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Red Dragon Wyrmling: CR 4, Elo 1812.6, rank 103</title></circle>
+<circle cx="392.2" cy="226.3" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Water Elemental: CR 5, Elo 1809.3, rank 104</title></circle>
+<circle cx="391.3" cy="226.6" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Bulette: CR 5, Elo 1806, rank 105</title></circle>
+<circle cx="394.4" cy="227.7" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Crocodile: CR 5, Elo 1793.7, rank 106</title></circle>
+<circle cx="399.5" cy="227.8" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Shambling Mound: CR 5, Elo 1792.7, rank 107</title></circle>
+<circle cx="397.4" cy="228.4" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Triceratops: CR 5, Elo 1786.5, rank 108</title></circle>
+<circle cx="393.6" cy="228.8" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Unicorn: CR 5, Elo 1782.3, rank 109</title></circle>
+<circle cx="359.0" cy="229.9" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Couatl: CR 4, Elo 1770.6, rank 110</title></circle>
+<circle cx="394.5" cy="230.1" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Xorn: CR 5, Elo 1768.3, rank 111</title></circle>
+<circle cx="394.5" cy="232.6" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Otyugh: CR 5, Elo 1741.4, rank 112</title></circle>
+<circle cx="358.3" cy="234.0" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Ghost: CR 4, Elo 1726.3, rank 113</title></circle>
+<circle cx="322.9" cy="234.0" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Gold Dragon Wyrmling: CR 3, Elo 1725.8, rank 114</title></circle>
+<circle cx="323.6" cy="234.2" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Blue Dragon Wyrmling: CR 3, Elo 1723.6, rank 115</title></circle>
+<circle cx="360.3" cy="234.6" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Incubus: CR 4, Elo 1720, rank 116</title></circle>
+<circle cx="362.6" cy="234.9" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Guard Captain: CR 4, Elo 1715.9, rank 117</title></circle>
+<circle cx="319.6" cy="235.0" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Manticore: CR 3, Elo 1714.7, rank 118</title></circle>
+<circle cx="391.3" cy="235.5" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Flesh Golem: CR 5, Elo 1710.1, rank 119</title></circle>
+<circle cx="397.1" cy="236.0" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Wraith: CR 5, Elo 1704.2, rank 120</title></circle>
+<circle cx="358.4" cy="238.1" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Chuul: CR 4, Elo 1681.1, rank 121</title></circle>
+<circle cx="362.4" cy="239.4" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Wereboar: CR 4, Elo 1667.6, rank 122</title></circle>
+<circle cx="281.2" cy="240.0" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Silver Dragon Wyrmling: CR 2, Elo 1661, rank 123</title></circle>
+<circle cx="327.4" cy="240.6" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Hobgoblin Captain: CR 3, Elo 1654.3, rank 124</title></circle>
+<circle cx="174.2" cy="242.0" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Troll Limb: CR 1/2, Elo 1638.9, rank 125</title></circle>
+<circle cx="277.7" cy="243.0" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Will-o'-Wisp: CR 2, Elo 1628.9, rank 126</title></circle>
+<circle cx="360.9" cy="243.3" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Weretiger: CR 4, Elo 1625.6, rank 127</title></circle>
+<circle cx="325.9" cy="243.8" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Knight: CR 3, Elo 1619.9, rank 128</title></circle>
+<circle cx="365.9" cy="244.7" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Tough Boss: CR 4, Elo 1610, rank 129</title></circle>
+<circle cx="321.7" cy="245.2" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Green Hag: CR 3, Elo 1605.3, rank 130</title></circle>
+<circle cx="393.5" cy="246.2" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Vampire Spawn: CR 5, Elo 1594.2, rank 131</title></circle>
+<circle cx="360.1" cy="246.6" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Hippopotamus: CR 4, Elo 1589.3, rank 132</title></circle>
+<circle cx="358.6" cy="246.7" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Ettin: CR 4, Elo 1588.8, rank 133</title></circle>
+<circle cx="322.7" cy="246.8" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Bugbear Stalker: CR 3, Elo 1587, rank 134</title></circle>
+<circle cx="362.2" cy="247.3" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Elephant: CR 4, Elo 1582.6, rank 135</title></circle>
+<circle cx="324.8" cy="249.3" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Wight: CR 3, Elo 1560.7, rank 136</title></circle>
+<circle cx="323.0" cy="249.8" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Warrior Veteran: CR 3, Elo 1555, rank 137</title></circle>
+<circle cx="326.6" cy="250.0" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Vampire Familiar: CR 3, Elo 1553.1, rank 138</title></circle>
+<circle cx="325.1" cy="251.7" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Werewolf: CR 3, Elo 1534, rank 139</title></circle>
+<circle cx="275.4" cy="251.9" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Black Dragon Wyrmling: CR 2, Elo 1532.6, rank 140</title></circle>
+<circle cx="359.5" cy="252.2" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Archelon: CR 4, Elo 1528.9, rank 141</title></circle>
+<circle cx="323.3" cy="253.8" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Nightmare: CR 3, Elo 1511.6, rank 142</title></circle>
+<circle cx="281.9" cy="253.8" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Green Dragon Wyrmling: CR 2, Elo 1511.5, rank 143</title></circle>
+<circle cx="279.1" cy="254.8" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Bronze Dragon Wyrmling: CR 2, Elo 1500.6, rank 144</title></circle>
+<circle cx="275.5" cy="255.5" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>White Dragon Wyrmling: CR 2, Elo 1493.9, rank 145</title></circle>
+<circle cx="365.7" cy="255.7" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Succubus: CR 4, Elo 1491.5, rank 146</title></circle>
+<circle cx="325.7" cy="256.8" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Minotaur of Baphomet: CR 3, Elo 1479.3, rank 147</title></circle>
+<circle cx="324.1" cy="258.2" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Basilisk: CR 3, Elo 1463.9, rank 148</title></circle>
+<circle cx="325.3" cy="259.7" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Owlbear: CR 3, Elo 1447.9, rank 149</title></circle>
+<circle cx="325.3" cy="259.8" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Hell Hound: CR 3, Elo 1446.9, rank 150</title></circle>
+<circle cx="320.8" cy="260.0" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Scorpion: CR 3, Elo 1444.3, rank 151</title></circle>
+<circle cx="321.7" cy="260.7" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Ankylosaurus: CR 3, Elo 1437, rank 152</title></circle>
+<circle cx="326.9" cy="261.2" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Bearded Devil: CR 3, Elo 1431.6, rank 153</title></circle>
+<circle cx="325.7" cy="261.4" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Doppelganger: CR 3, Elo 1429.2, rank 154</title></circle>
+<circle cx="366.1" cy="261.8" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Black Pudding: CR 4, Elo 1425.5, rank 155</title></circle>
+<circle cx="323.9" cy="263.8" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Mummy: CR 3, Elo 1404, rank 156</title></circle>
+<circle cx="275.7" cy="264.4" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Centaur Trooper: CR 2, Elo 1397.6, rank 157</title></circle>
+<circle cx="278.2" cy="265.0" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Priest: CR 2, Elo 1390.9, rank 158</title></circle>
+<circle cx="320.8" cy="265.4" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Phase Spider: CR 3, Elo 1386.7, rank 159</title></circle>
+<circle cx="393.1" cy="266.5" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Shark: CR 5, Elo 1374.1, rank 160</title></circle>
+<circle cx="276.4" cy="266.6" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Constrictor Snake: CR 2, Elo 1373.1, rank 161</title></circle>
+<circle cx="213.5" cy="267.8" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Copper Dragon Wyrmling: CR 1, Elo 1359.8, rank 162</title></circle>
+<circle cx="326.9" cy="268.1" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Swarm of Crawling Claws: CR 3, Elo 1357.4, rank 163</title></circle>
+<circle cx="326.8" cy="268.5" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Winter Wolf: CR 3, Elo 1353.2, rank 164</title></circle>
+<circle cx="274.8" cy="268.5" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Merrow: CR 2, Elo 1352.7, rank 165</title></circle>
+<circle cx="276.0" cy="269.4" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Azer Sentinel: CR 2, Elo 1343, rank 166</title></circle>
+<circle cx="277.5" cy="269.5" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Saber-Toothed Tiger: CR 2, Elo 1342.3, rank 167</title></circle>
+<circle cx="276.2" cy="270.6" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Gargoyle: CR 2, Elo 1330.1, rank 168</title></circle>
+<circle cx="276.0" cy="271.4" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Bandit Captain: CR 2, Elo 1321.2, rank 169</title></circle>
+<circle cx="273.1" cy="271.5" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Griffon: CR 2, Elo 1320.5, rank 170</title></circle>
+<circle cx="276.8" cy="271.6" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Awakened Tree: CR 2, Elo 1319, rank 171</title></circle>
+<circle cx="275.4" cy="272.3" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Swarm of Venomous Snakes: CR 2, Elo 1312.1, rank 172</title></circle>
+<circle cx="276.4" cy="273.2" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Druid: CR 2, Elo 1301.5, rank 173</title></circle>
+<circle cx="218.6" cy="273.5" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Brass Dragon Wyrmling: CR 1, Elo 1298.6, rank 174</title></circle>
+<circle cx="277.7" cy="274.4" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Wererat: CR 2, Elo 1289.1, rank 175</title></circle>
+<circle cx="276.2" cy="275.4" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Gelatinous Cube: CR 2, Elo 1278.5, rank 176</title></circle>
+<circle cx="281.2" cy="276.3" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Ogre: CR 2, Elo 1268.8, rank 177</title></circle>
+<circle cx="281.8" cy="276.5" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Elk: CR 2, Elo 1265.9, rank 178</title></circle>
+<circle cx="278.3" cy="277.0" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Ogre Zombie: CR 2, Elo 1260.4, rank 179</title></circle>
+<circle cx="277.4" cy="279.1" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Cultist Fanatic: CR 2, Elo 1238.2, rank 180</title></circle>
+<circle cx="276.5" cy="280.0" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Pegasus: CR 2, Elo 1228.9, rank 181</title></circle>
+<circle cx="273.4" cy="280.3" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Ankheg: CR 2, Elo 1225.6, rank 182</title></circle>
+<circle cx="280.6" cy="281.1" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Grick: CR 2, Elo 1216.7, rank 183</title></circle>
+<circle cx="280.9" cy="281.4" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Polar Bear: CR 2, Elo 1213.4, rank 184</title></circle>
+<circle cx="275.8" cy="282.2" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Mimic: CR 2, Elo 1204.6, rank 185</title></circle>
+<circle cx="281.7" cy="282.8" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Allosaurus: CR 2, Elo 1197.8, rank 186</title></circle>
+<circle cx="279.5" cy="284.1" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Plesiosaurus: CR 2, Elo 1183.7, rank 187</title></circle>
+<circle cx="318.9" cy="284.4" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Killer Whale: CR 3, Elo 1180.3, rank 188</title></circle>
+<circle cx="278.0" cy="284.6" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Rhinoceros: CR 2, Elo 1179, rank 189</title></circle>
+<circle cx="276.7" cy="285.0" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Ettercap: CR 2, Elo 1174.3, rank 190</title></circle>
+<circle cx="273.6" cy="287.7" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Berserker: CR 2, Elo 1145.5, rank 191</title></circle>
+<circle cx="279.1" cy="287.9" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Ghast: CR 2, Elo 1142.9, rank 192</title></circle>
+<circle cx="276.8" cy="288.5" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Minotaur Skeleton: CR 2, Elo 1136.6, rank 193</title></circle>
+<circle cx="215.2" cy="291.4" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Eagle: CR 1, Elo 1105.1, rank 194</title></circle>
+<circle cx="279.6" cy="292.1" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Sea Hag: CR 2, Elo 1097.5, rank 195</title></circle>
+<circle cx="217.4" cy="294.0" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Animated Armor: CR 1, Elo 1076.9, rank 196</title></circle>
+<circle cx="214.6" cy="294.3" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Dryad: CR 1, Elo 1073.2, rank 197</title></circle>
+<circle cx="175.2" cy="295.0" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Ice Mephit: CR 1/2, Elo 1066.2, rank 198</title></circle>
+<circle cx="281.4" cy="295.0" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Boar: CR 2, Elo 1065.6, rank 199</title></circle>
+<circle cx="275.1" cy="296.0" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Ochre Jelly: CR 2, Elo 1055.3, rank 200</title></circle>
+<circle cx="220.6" cy="296.2" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Pirate: CR 1, Elo 1053.3, rank 201</title></circle>
+<circle cx="213.7" cy="297.2" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Hyena: CR 1, Elo 1041.8, rank 202</title></circle>
+<circle cx="215.5" cy="297.8" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Bugbear Warrior: CR 1, Elo 1035.6, rank 203</title></circle>
+<circle cx="175.8" cy="297.9" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Magma Mephit: CR 1/2, Elo 1034.8, rank 204</title></circle>
+<circle cx="150.0" cy="298.2" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Sprite: CR 1/4, Elo 1031.9, rank 205</title></circle>
+<circle cx="219.2" cy="298.4" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Goblin Boss: CR 1, Elo 1029.4, rank 206</title></circle>
+<circle cx="215.8" cy="299.5" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Spider: CR 1, Elo 1017.8, rank 207</title></circle>
+<circle cx="215.6" cy="300.4" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Octopus: CR 1, Elo 1007.7, rank 208</title></circle>
+<circle cx="221.8" cy="300.6" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Toad: CR 1, Elo 1005.3, rank 209</title></circle>
+<circle cx="217.8" cy="300.8" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Tiger: CR 1, Elo 1003.4, rank 210</title></circle>
+<circle cx="214.8" cy="301.1" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Hippogriff: CR 1, Elo 1000, rank 211</title></circle>
+<circle cx="142.4" cy="301.7" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Steam Mephit: CR 1/4, Elo 993.9, rank 212</title></circle>
+<circle cx="215.6" cy="302.3" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Specter: CR 1, Elo 987.4, rank 213</title></circle>
+<circle cx="215.3" cy="302.4" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Spy: CR 1, Elo 985.7, rank 214</title></circle>
+<circle cx="214.6" cy="303.4" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Death Dog: CR 1, Elo 975.3, rank 215</title></circle>
+<circle cx="219.6" cy="304.2" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Sphinx of Wonder: CR 1, Elo 966.8, rank 216</title></circle>
+<circle cx="215.4" cy="304.2" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Ghoul: CR 1, Elo 966.6, rank 217</title></circle>
+<circle cx="278.6" cy="304.2" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Hunter Shark: CR 2, Elo 966.4, rank 218</title></circle>
+<circle cx="274.7" cy="305.0" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Gibbering Mouther: CR 2, Elo 957.8, rank 219</title></circle>
+<circle cx="222.0" cy="306.4" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Imp: CR 1, Elo 942.4, rank 220</title></circle>
+<circle cx="217.4" cy="306.6" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Lion: CR 1, Elo 940.7, rank 221</title></circle>
+<circle cx="278.7" cy="308.9" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Animated Rug of Smothering: CR 2, Elo 915.5, rank 222</title></circle>
+<circle cx="220.2" cy="310.6" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Brown Bear: CR 1, Elo 897.4, rank 223</title></circle>
+<circle cx="180.0" cy="316.3" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Hobgoblin Warrior: CR 1/2, Elo 836, rank 224</title></circle>
+<circle cx="177.8" cy="316.4" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Gnoll Warrior: CR 1/2, Elo 834.5, rank 225</title></circle>
+<circle cx="217.1" cy="317.1" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Swarm of Piranhas: CR 1, Elo 827.4, rank 226</title></circle>
+<circle cx="176.3" cy="317.3" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Ape: CR 1/2, Elo 824.8, rank 227</title></circle>
+<circle cx="177.9" cy="317.4" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Satyr: CR 1/2, Elo 823.4, rank 228</title></circle>
+<circle cx="174.9" cy="317.7" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Scout: CR 1/2, Elo 820.4, rank 229</title></circle>
+<circle cx="213.8" cy="318.5" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Dire Wolf: CR 1, Elo 811.7, rank 230</title></circle>
+<circle cx="218.0" cy="318.6" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Vulture: CR 1, Elo 811.1, rank 231</title></circle>
+<circle cx="179.4" cy="319.2" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Wasp: CR 1/2, Elo 804, rank 232</title></circle>
+<circle cx="171.5" cy="319.3" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Sahuagin Warrior: CR 1/2, Elo 802.8, rank 233</title></circle>
+<circle cx="215.8" cy="320.4" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Quasit: CR 1, Elo 791.4, rank 234</title></circle>
+<circle cx="172.0" cy="320.8" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Tough: CR 1/2, Elo 787.1, rank 235</title></circle>
+<circle cx="179.4" cy="321.3" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Worg: CR 1/2, Elo 781.1, rank 236</title></circle>
+<circle cx="216.8" cy="322.0" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Harpy: CR 1, Elo 774.1, rank 237</title></circle>
+<circle cx="173.7" cy="322.0" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Darkmantle: CR 1/2, Elo 773.7, rank 238</title></circle>
+<circle cx="173.2" cy="322.3" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Warhorse: CR 1/2, Elo 770.8, rank 239</title></circle>
+<circle cx="175.8" cy="322.7" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Shadow: CR 1/2, Elo 766.1, rank 240</title></circle>
+<circle cx="176.0" cy="325.2" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Warhorse Skeleton: CR 1/2, Elo 739.6, rank 241</title></circle>
+<circle cx="178.5" cy="326.5" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Black Bear: CR 1/2, Elo 725.5, rank 242</title></circle>
+<circle cx="175.1" cy="326.6" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Rust Monster: CR 1/2, Elo 724, rank 243</title></circle>
+<circle cx="142.6" cy="327.1" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Bat: CR 1/4, Elo 718.4, rank 244</title></circle>
+<circle cx="142.3" cy="327.7" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Animated Flying Sword: CR 1/4, Elo 712.4, rank 245</title></circle>
+<circle cx="175.7" cy="328.8" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Magmin: CR 1/2, Elo 700.9, rank 246</title></circle>
+<circle cx="144.5" cy="330.8" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Venomous Snake: CR 1/4, Elo 678.4, rank 247</title></circle>
+<circle cx="149.1" cy="330.9" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Owl: CR 1/4, Elo 677.9, rank 248</title></circle>
+<circle cx="144.1" cy="333.1" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Priest Acolyte: CR 1/4, Elo 653.7, rank 249</title></circle>
+<circle cx="178.0" cy="334.8" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Goat: CR 1/2, Elo 635.7, rank 250</title></circle>
+<circle cx="141.7" cy="335.6" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Blink Dog: CR 1/4, Elo 627.4, rank 251</title></circle>
+<circle cx="142.3" cy="335.9" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Panther: CR 1/4, Elo 623.7, rank 252</title></circle>
+<circle cx="171.4" cy="336.4" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Cockatrice: CR 1/2, Elo 618.6, rank 253</title></circle>
+<circle cx="145.9" cy="337.5" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Skeleton: CR 1/4, Elo 606, rank 254</title></circle>
+<circle cx="143.0" cy="337.8" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Wolf Spider: CR 1/4, Elo 603.2, rank 255</title></circle>
+<circle cx="178.7" cy="339.5" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Gray Ooze: CR 1/2, Elo 584.8, rank 256</title></circle>
+<circle cx="150.3" cy="340.6" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Lizard: CR 1/4, Elo 572.8, rank 257</title></circle>
+<circle cx="148.4" cy="340.9" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Goblin Warrior: CR 1/4, Elo 569.9, rank 258</title></circle>
+<circle cx="144.2" cy="341.7" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Pseudodragon: CR 1/4, Elo 561.1, rank 259</title></circle>
+<circle cx="176.3" cy="342.5" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Seahorse: CR 1/2, Elo 552.3, rank 260</title></circle>
+<circle cx="178.9" cy="342.8" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Swarm of Insects: CR 1/2, Elo 549.1, rank 261</title></circle>
+<circle cx="150.1" cy="343.4" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Axe Beak: CR 1/4, Elo 542.9, rank 262</title></circle>
+<circle cx="175.7" cy="345.3" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Reef Shark: CR 1/2, Elo 522.4, rank 263</title></circle>
+<circle cx="144.0" cy="345.9" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Grimlock: CR 1/4, Elo 515.9, rank 264</title></circle>
+<circle cx="142.7" cy="346.3" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Constrictor Snake: CR 1/4, Elo 510.8, rank 265</title></circle>
+<circle cx="147.2" cy="347.4" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Riding Horse: CR 1/4, Elo 499.7, rank 266</title></circle>
+<circle cx="171.8" cy="347.5" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Crocodile: CR 1/2, Elo 498.7, rank 267</title></circle>
+<circle cx="171.7" cy="347.6" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Dust Mephit: CR 1/2, Elo 496.8, rank 268</title></circle>
+<circle cx="145.2" cy="347.8" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Pteranodon: CR 1/4, Elo 494.9, rank 269</title></circle>
+<circle cx="145.3" cy="348.2" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Draft Horse: CR 1/4, Elo 490.3, rank 270</title></circle>
+<circle cx="142.0" cy="348.4" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Swarm of Ravens: CR 1/4, Elo 488, rank 271</title></circle>
+<circle cx="145.7" cy="349.9" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Badger: CR 1/4, Elo 472.6, rank 272</title></circle>
+<circle cx="147.7" cy="350.2" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Swarm of Bats: CR 1/4, Elo 469.5, rank 273</title></circle>
+<circle cx="127.7" cy="352.3" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Guard: CR 1/8, Elo 446, rank 274</title></circle>
+<circle cx="143.7" cy="352.4" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Frog: CR 1/4, Elo 445.2, rank 275</title></circle>
+<circle cx="150.4" cy="355.0" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Swarm of Rats: CR 1/4, Elo 417.1, rank 276</title></circle>
+<circle cx="146.1" cy="355.3" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Zombie: CR 1/4, Elo 414.2, rank 277</title></circle>
+<circle cx="148.6" cy="355.5" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Elk: CR 1/4, Elo 411.7, rank 278</title></circle>
+<circle cx="122.4" cy="355.6" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Noble: CR 1/8, Elo 410.8, rank 279</title></circle>
+<circle cx="127.3" cy="357.6" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Crab: CR 1/8, Elo 389.1, rank 280</title></circle>
+<circle cx="125.8" cy="357.7" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Merfolk Skirmisher: CR 1/8, Elo 387.5, rank 281</title></circle>
+<circle cx="126.4" cy="359.5" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Bandit: CR 1/8, Elo 368.2, rank 282</title></circle>
+<circle cx="146.6" cy="359.7" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Violet Fungus: CR 1/4, Elo 366, rank 283</title></circle>
+<circle cx="145.7" cy="360.8" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Centipede: CR 1/4, Elo 354.8, rank 284</title></circle>
+<circle cx="144.0" cy="360.9" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Boar: CR 1/4, Elo 353.7, rank 285</title></circle>
+<circle cx="148.6" cy="362.0" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Dretch: CR 1/4, Elo 341.7, rank 286</title></circle>
+<circle cx="122.9" cy="362.0" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Camel: CR 1/8, Elo 341.5, rank 287</title></circle>
+<circle cx="150.2" cy="362.4" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Wolf: CR 1/4, Elo 337.1, rank 288</title></circle>
+<circle cx="128.5" cy="363.1" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Weasel: CR 1/8, Elo 329.3, rank 289</title></circle>
+<circle cx="129.2" cy="364.5" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Goblin Minion: CR 1/8, Elo 314.2, rank 290</title></circle>
+<circle cx="127.4" cy="365.6" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Warrior Infantry: CR 1/8, Elo 301.9, rank 291</title></circle>
+<circle cx="121.2" cy="366.7" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Kobold Warrior: CR 1/8, Elo 290.2, rank 292</title></circle>
+<circle cx="128.1" cy="366.9" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Stirge: CR 1/8, Elo 288.2, rank 293</title></circle>
+<circle cx="128.7" cy="369.2" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Rat: CR 1/8, Elo 263.4, rank 294</title></circle>
+<circle cx="126.2" cy="373.4" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Venomous Snake: CR 1/8, Elo 218, rank 295</title></circle>
+<circle cx="120.9" cy="375.3" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Mule: CR 1/8, Elo 197.3, rank 296</title></circle>
+<circle cx="128.5" cy="375.4" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Pony: CR 1/8, Elo 196.8, rank 297</title></circle>
+<circle cx="125.1" cy="376.3" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Flying Snake: CR 1/8, Elo 186.5, rank 298</title></circle>
+<circle cx="121.9" cy="377.4" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Cultist: CR 1/8, Elo 175, rank 299</title></circle>
+<circle cx="127.9" cy="378.8" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Blood Hawk: CR 1/8, Elo 159.3, rank 300</title></circle>
+<circle cx="127.4" cy="391.3" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Mastiff: CR 1/8, Elo 24.5, rank 301</title></circle>
+<circle cx="70.6" cy="392.7" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Eagle: CR 0, Elo 9.2, rank 302</title></circle>
+<circle cx="73.6" cy="395.8" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Lemure: CR 0, Elo -24.3, rank 303</title></circle>
+<circle cx="77.9" cy="403.9" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Hyena: CR 0, Elo -111.9, rank 304</title></circle>
+<circle cx="77.5" cy="407.4" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Homunculus: CR 0, Elo -149.9, rank 305</title></circle>
+<circle cx="69.6" cy="409.2" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Deer: CR 0, Elo -169.1, rank 306</title></circle>
+<circle cx="69.5" cy="412.5" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Awakened Shrub: CR 0, Elo -204.6, rank 307</title></circle>
+<circle cx="77.0" cy="413.1" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Vulture: CR 0, Elo -210.9, rank 308</title></circle>
+<circle cx="74.7" cy="418.4" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Commoner: CR 0, Elo -268.7, rank 309</title></circle>
+<circle cx="77.8" cy="430.7" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Badger: CR 0, Elo -401.6, rank 310</title></circle>
+<circle cx="76.3" cy="432.7" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Giant Fire Beetle: CR 0, Elo -423.8, rank 311</title></circle>
+<circle cx="74.5" cy="434.6" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Goat: CR 0, Elo -444.2, rank 312</title></circle>
+<circle cx="71.5" cy="436.1" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Baboon: CR 0, Elo -460, rank 313</title></circle>
+<circle cx="77.6" cy="436.8" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Jackal: CR 0, Elo -468.2, rank 314</title></circle>
+<circle cx="77.9" cy="439.1" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Octopus: CR 0, Elo -492.2, rank 315</title></circle>
+<circle cx="71.8" cy="445.3" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Raven: CR 0, Elo -560.1, rank 316</title></circle>
+<circle cx="73.2" cy="446.8" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Cat: CR 0, Elo -576.5, rank 317</title></circle>
+<circle cx="70.2" cy="447.1" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Crab: CR 0, Elo -579, rank 318</title></circle>
+<circle cx="77.2" cy="449.1" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Spider: CR 0, Elo -600.7, rank 319</title></circle>
+<circle cx="72.5" cy="454.3" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Hawk: CR 0, Elo -656.8, rank 320</title></circle>
+<circle cx="74.2" cy="455.5" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Scorpion: CR 0, Elo -670, rank 321</title></circle>
+<circle cx="78.3" cy="459.2" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Weasel: CR 0, Elo -710.1, rank 322</title></circle>
+<circle cx="76.7" cy="461.0" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Lizard: CR 0, Elo -729.4, rank 323</title></circle>
+<circle cx="77.0" cy="461.5" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Bat: CR 0, Elo -735.5, rank 324</title></circle>
+<circle cx="69.8" cy="461.6" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Owl: CR 0, Elo -736, rank 325</title></circle>
+<circle cx="71.6" cy="463.7" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Piranha: CR 0, Elo -759.2, rank 326</title></circle>
+<circle cx="70.6" cy="476.5" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Frog: CR 0, Elo -897.6, rank 327</title></circle>
+<circle cx="75.2" cy="482.1" r="3.6" fill="#2a78d6" fill-opacity="0.8" stroke="#fcfcfb" stroke-width="1"><title>Rat: CR 0, Elo -957.9, rank 328</title></circle>
+<polyline fill="none" stroke="#52514e" stroke-width="2" stroke-linejoin="round" points="74.0,439.1 124.9,366.7 145.9,346.1 175.7,322.3 217.9,301.1 277.5,276.4 323.2,256.8 361.7,241.3 395.7,223.1 426.4,206.4 454.6,199.7 480.9,196.4 505.6,181.6 529.0,178.3 551.2,172.9 572.4,156.7 592.7,157.9 612.3,150.5 631.2,151.8 649.5,145.6 667.2,144.9 701.1,128.2 717.4,126.5 733.3,116.0 748.8,117.7 764.0,106.1 778.8,106.7 862.0,95.3"/>
+<text x="181.2" y="245.5" font-size="11" fill="#52514e" text-anchor="start">Troll Limb</text>
+<text x="150.0" y="290.2" font-size="11" fill="#52514e" text-anchor="middle">Sprite</text>
+<text x="77.6" y="396.2" font-size="11" fill="#52514e" stroke="#fcfcfb" stroke-width="4" stroke-linejoin="round" paint-order="stroke" text-anchor="start">Eagle</text>
+<text x="508.6" y="141.2" font-size="11" fill="#52514e" text-anchor="start">Cloud Giant</text>
+<text x="400.1" y="270.0" font-size="11" fill="#52514e" text-anchor="start">Giant Shark</text>
+<text x="658.1" y="186.6" font-size="11" fill="#52514e" text-anchor="start">Marilith</text>
+<text x="356.7" y="208.1" font-size="11" fill="#52514e" text-anchor="end">Lamia</text>
+<text x="206.5" y="271.3" font-size="11" fill="#52514e" text-anchor="end">Copper Dragon Wyrmling</text>
+<text x="285.7" y="312.4" font-size="11" fill="#52514e" text-anchor="start">Animated Rug of Smothering</text>
+<text x="84.5" y="410.9" font-size="11" fill="#52514e" stroke="#fcfcfb" stroke-width="4" stroke-linejoin="round" paint-order="stroke" text-anchor="start">Homunculus</text>
+<text x="325.9" y="287.9" font-size="11" fill="#52514e" text-anchor="start">Killer Whale</text>
+<text x="512.7" y="210.1" font-size="11" fill="#52514e" text-anchor="start">Clay Golem</text>
+</svg>

@@ -1,0 +1,28 @@
+{
+  "name": "mcsim-srd",
+  "version": "1.0.0",
+  "description": "Monte Carlo 1v1 duel simulator for the 330 SRD 5.2.1 monsters",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "bin": {
+    "mcsim-srd": "./src/cli.ts"
+  },
+  "scripts": {
+    "test": "node --test 'test/*.test.ts'",
+    "typecheck": "tsc -p .",
+    "compile": "node src/cli.ts compile",
+    "coverage": "node src/cli.ts coverage",
+    "fight": "node src/cli.ts fight",
+    "gauntlet": "node src/cli.ts gauntlet",
+    "run": "node src/cli.ts run",
+    "rank": "node src/cli.ts rank",
+    "benchmark": "node src/cli.ts benchmark"
+  },
+  "devDependencies": {
+    "@types/node": "^26.1.0",
+    "typescript": "^5.5.0"
+  }
+}

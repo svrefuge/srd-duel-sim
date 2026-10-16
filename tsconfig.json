@@ -1,0 +1,1 @@
+{"compilerOptions":{"strict":true,"noEmit":true,"module":"nodenext","moduleResolution":"nodenext","target":"es2022","allowImportingTsExtensions":true,"skipLibCheck":true},"include":["src/**/*.ts","test/**/*.ts"]}
